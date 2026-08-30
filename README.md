@@ -84,13 +84,51 @@ erDiagram
  SKILLS { string id PK }
  ROLES { string onet_code PK }
  COURSES { string course_id PK }
- EMPLOYEE_SKILLS { int id PK; int user_id FK; string skill_id FK; int level }
- ROLE_SKILLS { int id PK; string role_code FK; string skill_id FK; int required_level; int importance }
- COURSE_SKILLS { int id PK; string course_id FK; string skill_id FK }
- COURSE_ENROLLMENTS { int id PK; int user_id FK; string course_id FK }
- LESSON_PROGRESS { int id PK; int user_id FK; string course_id FK; string lesson_id }
- MODULE_ASSESSMENT_ATTEMPTS { int id PK; int user_id FK; string course_id FK; string module_id; float score; boolean passed; string attempt_state }
- SKILL_HISTORY { int id PK; int user_id FK; string skill_id FK; int previous_level; int new_level }
+ EMPLOYEE_SKILLS {
+   int id PK
+   int user_id FK
+   string skill_id FK
+   int level
+ }
+ ROLE_SKILLS {
+   int id PK
+   string role_code FK
+   string skill_id FK
+   int required_level
+   int importance
+ }
+ COURSE_SKILLS {
+   int id PK
+   string course_id FK
+   string skill_id FK
+ }
+ COURSE_ENROLLMENTS {
+   int id PK
+   int user_id FK
+   string course_id FK
+ }
+ LESSON_PROGRESS {
+   int id PK
+   int user_id FK
+   string course_id FK
+   string lesson_id
+ }
+ MODULE_ASSESSMENT_ATTEMPTS {
+   int id PK
+   int user_id FK
+   string course_id FK
+   string module_id
+   float score
+   boolean passed
+   string attempt_state
+ }
+ SKILL_HISTORY {
+   int id PK
+   int user_id FK
+   string skill_id FK
+   int previous_level
+   int new_level
+ }
 ```
 
 Other actual tables are `skill_aliases`, `skill_assessments`, `skill_gaps`, `course_recommendations`, and `learning_progress`.
