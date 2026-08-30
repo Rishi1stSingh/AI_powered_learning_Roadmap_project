@@ -1,0 +1,82 @@
+# Manual role → skill overrides for showcase statistician roles (Q2: manual review layer)
+# skill_name must match unified_taxonomy.csv; skill_type is tool or competency
+
+"15-2041.00":
+  role_title: Statisticians
+  skills:
+    - skill_name: Statistical Analysis
+      skill_type: competency
+      required_level: 85
+      importance: 95
+    - skill_name: Mathematics
+      skill_type: tool
+      required_level: 80
+      importance: 90
+    - skill_name: R
+      skill_type: tool
+      required_level: 75
+      importance: 88
+    - skill_name: SAS
+      skill_type: tool
+      required_level: 70
+      importance: 85
+    - skill_name: Microsoft Excel
+      skill_type: tool
+      required_level: 65
+      importance: 75
+    - skill_name: Data Analysis
+      skill_type: competency
+      required_level: 80
+      importance: 90
+    - skill_name: Critical Thinking
+      skill_type: tool
+      required_level: 75
+      importance: 85
+
+"15-2041.01":
+  role_title: Biostatisticians
+  skills:
+    - skill_name: Statistical Analysis
+      skill_type: competency
+      required_level: 90
+      importance: 95
+    - skill_name: Biostatistics
+      skill_type: competency
+      required_level: 85
+      importance: 95
+    - skill_name: R
+      skill_type: tool
+      required_level: 80
+      importance: 90
+    - skill_name: SAS
+      skill_type: tool
+      required_level: 75
+      importance: 88
+    - skill_name: Clinical Trials
+      skill_type: competency
+      required_level: 70
+      importance: 80
+    - skill_name: Data Analysis
+      skill_type: competency
+      required_level: 85
+      importance: 90
+
+"43-9111.00":
+  role_title: Statistical Assistants
+  skills:
+    - skill_name: Statistical Analysis
+      skill_type: competency
+      required_level: 60
+      importance: 80
+    - skill_name: Microsoft Excel
+      skill_type: tool
+      required_level: 70
+      importance: 85
+    - skill_name: Data Entry
+      skill_type: competency
+      required_level: 65
+      importance: 75
+    - skill_name: Data Analysis
+      skill_type: competency
+      required_level: 55
+      importance: 70

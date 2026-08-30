@@ -1,0 +1,1754 @@
+alias,canonical_skill_id,canonical_skill_name,skill_type,match_method
+.NET Framework,c_net-framework_95139cca,.NET Framework,competency,exact
+3D Modeling,c_3d-modeling_269b8cf8,3D Modeling,competency,exact
+A/B Testing,c_a-b-testing_62e0b7a3,A/B Testing,competency,exact
+API Design,c_api-design_37969f94,API Design,competency,exact
+API Gateway,c_api-gateway_e23a125b,API Gateway,competency,exact
+ASP.NET,c_asp-net_8234b896,ASP.NET,competency,exact
+AWS CloudFormation,c_aws-cloudformation_e91eb371,AWS CloudFormation,competency,exact
+AWS Identity and Access Management (IAM),c_aws-identity-and-access-management-iam_0c5d7ef9,AWS Identity and Access Management (IAM),competency,exact
+AWS Kinesis,c_aws-kinesis_e6de45d9,AWS Kinesis,competency,exact
+AWS SageMaker,c_aws-sagemaker_ed61353b,AWS SageMaker,competency,exact
+Ability To Meet Deadlines,c_ability-to-meet-deadlines_158265bf,Ability To Meet Deadlines,competency,exact
+Acceptance Testing,c_acceptance-testing_e11ab9d5,Acceptance Testing,competency,exact
+Account Management,c_account-management_8e01ff09,Account Management,competency,exact
+Account Strategy,c_account-strategy_175b5e9e,Account Strategy,competency,exact
+Accountability,c_accountability_20f26510,Accountability,competency,exact
+Accounting,c_accounting_20728f51,Accounting,competency,exact
+Accounting Records,c_accounting-records_dde44717,Accounting Records,competency,exact
+Accounting Software,c_accounting-software_a6adae8c,Accounting Software,competency,exact
+Accounting Systems,c_accounting-systems_54447cb0,Accounting Systems,competency,exact
+Accounting and Finance Software,c_accounting-and-finance-software_cbc6bfd4,Accounting and Finance Software,competency,exact
+Accounts Payable,c_accounts-payable_f4726921,Accounts Payable,competency,exact
+Accounts Payable and Receivable,c_accounts-payable-and-receivable_e2303c68,Accounts Payable and Receivable,competency,exact
+Accounts Receivable,c_accounts-receivable_e7ed6991,Accounts Receivable,competency,exact
+Accrual Accounting,c_accrual-accounting_aa82052b,Accrual Accounting,competency,exact
+Accruals,c_accruals_4d2a2221,Accruals,competency,exact
+Action Oriented,c_action-oriented_b89814a1,Action Oriented,competency,exact
+Active Directory,c_active-directory_6a857670,Active Directory,competency,exact
+Active Listening,t_active-listening_ee227a47,Active Listening,tool,exact
+Ad Hoc Reporting,c_ad-hoc-reporting_0b2201b9,Ad Hoc Reporting,competency,exact
+Adaptability,c_adaptability_4b5f4ec7,Adaptability,competency,exact
+Administration,c_administration_ded2b0e2,Administration,competency,exact
+Administrative Support,c_administrative-support_4fb5c03d,Administrative Support,competency,exact
+Administrative Support and Clerical Tasks,c_administrative-support-and-clerical-tasks_48dc2076,Administrative Support and Clerical Tasks,competency,exact
+Adobe Acrobat,t_adobe-acrobat_58a18cd1,Adobe Acrobat,tool,exact
+Adobe Creative Cloud,c_adobe-creative-cloud_d7ee39f4,Adobe Creative Cloud,competency,exact
+Adobe Illustrator,t_adobe-illustrator_6866eb07,Adobe Illustrator,tool,exact
+Adobe Photoshop,t_adobe-photoshop_f8eba18f,Adobe Photoshop,tool,exact
+Adobe XD,t_adobe-xd_3f0f10c7,Adobe XD,tool,exact
+Adult Learning Principles,c_adult-learning-principles_0b802866,Adult Learning Principles,competency,exact
+Advanced Analytics,c_advanced-analytics_e6eb93df,Advanced Analytics,competency,exact
+Advanced Encryption Standard (AES),c_advanced-encryption-standard-aes_705b2fe9,Advanced Encryption Standard (AES),competency,exact
+Advanced Mathematics,c_advanced-mathematics_b1dded54,Advanced Mathematics,competency,exact
+Advertising,c_advertising_990747a9,Advertising,competency,exact
+Advertising Campaigns,c_advertising-campaigns_f1b8a8b4,Advertising Campaigns,competency,exact
+Advertising Mail,c_advertising-mail_8234e7a1,Advertising Mail,competency,exact
+Advocacy,c_advocacy_34b3cc9a,Advocacy,competency,exact
+Aesthetics,c_aesthetics_28d4bcdd,Aesthetics,competency,exact
+Agile Methodology,c_agile-methodology_cdb96eea,Agile Methodology,competency,exact
+Agile Product Development,c_agile-product-development_9fcc0593,Agile Product Development,competency,exact
+Agile Project Management,c_agile-project-management_a55b7823,Agile Project Management,competency,exact
+Agile Software Development,c_agile-software-development_d54356db,Agile Software Development,competency,exact
+Ajax,t_ajax_50c85b1d,AJAX,tool,exact
+Algebra,c_algebra_cb2f72a4,Algebra,competency,exact
+Algorithms,c_algorithms_a9cd4a86,Algorithms,competency,exact
+Alteryx,c_alteryx_51848364,Alteryx,competency,exact
+Amazon CloudWatch,c_amazon-cloudwatch_b21e91d5,Amazon CloudWatch,competency,exact
+Amazon DynamoDB,t_amazon-dynamodb_3ce8901e,Amazon DynamoDB,tool,exact
+Amazon Elastic Compute Cloud,c_amazon-elastic-compute-cloud_d1eee77e,Amazon Elastic Compute Cloud,competency,exact
+Amazon Redshift,t_amazon-redshift_4416f034,Amazon Redshift,tool,exact
+Amazon S3,c_amazon-s3_70666bde,Amazon S3,competency,exact
+Amazon Web Services,c_amazon-web-services_e1fc7808,Amazon Web Services,competency,exact
+Analysis,c_analysis_196597f4,Analysis,competency,exact
+Analytical Skills,c_analytical-skills_88265c88,Analytical Skills,competency,exact
+Analytics,c_analytics_e24859b2,Analytics,competency,exact
+Anatomy,c_anatomy_956043ed,Anatomy,competency,exact
+Android (Operating System),c_android-operating-system_7476abb8,Android (Operating System),competency,exact
+Android Development,c_android-development_be304883,Android Development,competency,exact
+Android Jetpack,c_android-jetpack_5aec4a38,Android Jetpack,competency,exact
+Android Studio,c_android-studio_3e9032d0,Android Studio,competency,exact
+Angular,c_angular_21ef8afd,Angular,competency,exact
+Annual Reports,c_annual-reports_78a69c82,Annual Reports,competency,exact
+Anomaly Detection,c_anomaly-detection_ef2e40fc,Anomaly Detection,competency,exact
+Ansible,c_ansible_aa312455,Ansible,competency,exact
+Apache Airflow,t_apache-airflow_49daba3f,Apache Airflow,tool,exact
+Apache Cassandra,t_apache-cassandra_573c4efb,Apache Cassandra,tool,exact
+Apache Hadoop,t_apache-hadoop_3bf9e9a7,Apache Hadoop,tool,exact
+Apache Hive,t_apache-hive_4ab057be,Apache Hive,tool,exact
+Apache Kafka,t_apache-kafka_1d3d8606,Apache Kafka,tool,exact
+Apache Maven,t_apache-maven_bb34bf74,Apache Maven,tool,exact
+Apache Spark,t_apache-spark_52027810,Apache Spark,tool,exact
+Apache Tomcat,t_apache-tomcat_2fb2fe33,Apache Tomcat,tool,exact
+Apple Xcode,c_apple-xcode_82e2618e,Apple Xcode,competency,exact
+Apple iOS,t_apple-ios_d4b62e74,Apple iOS,tool,exact
+Applicant Tracking Systems,c_applicant-tracking-systems_b814f1e8,Applicant Tracking Systems,competency,exact
+Application Deployment,c_application-deployment_54107bb2,Application Deployment,competency,exact
+Application Development,c_application-development_6c35f5d3,Application Development,competency,exact
+Application Frameworks,c_application-frameworks_b46e083c,Application Frameworks,competency,exact
+Application Lifecycle Management,c_application-lifecycle-management_07cd0e22,Application Lifecycle Management,competency,exact
+Application Performance Management,c_application-performance-management_1cd5ce84,Application Performance Management,competency,exact
+Application Programming Interface (API),c_application-programming-interface-api_2d3e06bf,Application Programming Interface (API),competency,exact
+Application Security,c_application-security_dba9e4cb,Application Security,competency,exact
+Application Servers,c_application-servers_ef8830ea,Application Servers,competency,exact
+Application Specific Integrated Circuits,c_application-specific-integrated-circuits_5b1971cd,Application Specific Integrated Circuits,competency,exact
+Applied Machine Learning,c_applied-machine-learning_9c0dc645,Applied Machine Learning,competency,exact
+Applied Mathematics,c_applied-mathematics_dbbe8c5f,Applied Mathematics,competency,exact
+ArcGIS,c_arcgis_d151f208,ArcGIS,competency,exact
+Architectural Design,c_architectural-design_fef6571b,Architectural Design,competency,exact
+Architectural Drawing,c_architectural-drawing_ee996c61,Architectural Drawing,competency,exact
+Architecture and Construction,c_architecture-and-construction_f48fefc3,Architecture and Construction,competency,exact
+Arithmetic,c_arithmetic_6e998284,Arithmetic,competency,exact
+Artificial Intelligence,c_artificial-intelligence_b61270f3,Artificial Intelligence,competency,exact
+Artificial Intelligence and Machine Learning (AI/ML),c_artificial-intelligence-and-machine-learning-ai-_acee7f8e,Artificial Intelligence and Machine Learning (AI/ML),competency,exact
+Artificial Neural Networks,c_artificial-neural-networks_1ef49034,Artificial Neural Networks,competency,exact
+Assembly Drawing,c_assembly-drawing_04c5322e,Assembly Drawing,competency,exact
+Assertiveness,c_assertiveness_02682d39,Assertiveness,competency,exact
+Asset Management,c_asset-management_d3a4962e,Asset Management,competency,exact
+Asset Protection,c_asset-protection_a3f2ed73,Asset Protection,competency,exact
+Auditing,c_auditing_960b271d,Auditing,competency,exact
+Auditors Report,c_auditors-report_55cd5b1d,Auditors Report,competency,exact
+Augmented Reality,c_augmented-reality_1c577dc0,Augmented Reality,competency,exact
+Augmented and Virtual Reality (AR/VR),c_augmented-and-virtual-reality-ar-vr_7f8a5aca,Augmented and Virtual Reality (AR/VR),competency,exact
+Authentications,c_authentications_43e34001,Authentications,competency,exact
+Authorization (Computing),c_authorization-computing_7528a849,Authorization (Computing),competency,exact
+AutoCAD,c_autocad_61f751d7,AutoCAD,competency,exact
+Autodesk,c_autodesk_93c9a943,Autodesk,competency,exact
+Automation,c_automation_0d1bfe02,Automation,competency,exact
+Azure Active Directory,c_azure-active-directory_a5fc694d,Azure Active Directory,competency,exact
+Azure DevOps,c_azure-devops_eb904755,Azure DevOps,competency,exact
+B2B Sales,c_b2b-sales_4c5d98f9,B2B Sales,competency,exact
+Back-End Web Development,c_back-end-web-development_5787e394,Back-End Web Development,competency,exact
+Backlogs,c_backlogs_c8bbd194,Backlogs,competency,exact
+Balance Sheet,c_balance-sheet_939c487d,Balance Sheet,competency,exact
+Bank Regulations,c_bank-regulations_2a992c4a,Bank Regulations,competency,exact
+Banking,c_banking_f303800c,Banking,competency,exact
+Banking Services,c_banking-services_c81a8bcd,Banking Services,competency,exact
+Bash (Scripting Language),c_bash-scripting-language_06e5f994,Bash (Scripting Language),competency,exact
+Bayesian Network,c_bayesian-network_c29363e5,Bayesian Network,competency,exact
+Bayesian Statistics,c_bayesian-statistics_ab86a49b,Bayesian Statistics,competency,exact
+Behavior Management,c_behavior-management_77b9ca3a,Behavior Management,competency,exact
+Behavior-Driven Development,c_behavior-driven-development_73a3d235,Behavior-Driven Development,competency,exact
+Behavioral Economics,c_behavioral-economics_b626de79,Behavioral Economics,competency,exact
+Behavioral Health,c_behavioral-health_eee0c986,Behavioral Health,competency,exact
+Benchmarking,c_benchmarking_1f797202,Benchmarking,competency,exact
+Benefits Administration,c_benefits-administration_1793155a,Benefits Administration,competency,exact
+Bidding,c_bidding_ce0c1ad6,Bidding,competency,exact
+Big Data,c_big-data_14524ecc,Big Data,competency,exact
+Billing,c_billing_ab41d347,Billing,competency,exact
+Bioinformatics,c_bioinformatics_a6900bbf,Bioinformatics,competency,exact
+Biostatistics,c_biostatistics_cf576851,Biostatistics,competency,exact
+Bitbucket,c_bitbucket_4c2ada8c,Bitbucket,competency,exact
+Blockchain,c_blockchain_f295a049,Blockchain,competency,exact
+Booking (Sales),c_booking-sales_573fc23f,Booking (Sales),competency,exact
+Bookkeeping,c_bookkeeping_5821b821,Bookkeeping,competency,exact
+Bootstrap (Front-End Framework),c_bootstrap-front-end-framework_ab42eda7,Bootstrap (Front-End Framework),competency,exact
+Box Plots,c_box-plots_8b911833,Box Plots,competency,exact
+Brainstorming,c_brainstorming_ebd083d1,Brainstorming,competency,exact
+Brand Awareness,c_brand-awareness_de60e117,Brand Awareness,competency,exact
+Brand Loyalty,c_brand-loyalty_5e31db5c,Brand Loyalty,competency,exact
+Brand Management,c_brand-management_334dd596,Brand Management,competency,exact
+Brand Marketing,c_brand-marketing_024e3a5b,Brand Marketing,competency,exact
+Brand Strategy,c_brand-strategy_2a9bfa86,Brand Strategy,competency,exact
+Branding,c_branding_6b7116e6,Branding,competency,exact
+Brokerage,c_brokerage_ac217cf5,Brokerage,competency,exact
+Browser Compatibility,c_browser-compatibility_5fd3593b,Browser Compatibility,competency,exact
+Budget Management,c_budget-management_cc152b3c,Budget Management,competency,exact
+Budgeting,c_budgeting_6a406b29,Budgeting,competency,exact
+Build Tools,c_build-tools_f1e3e6a3,Build Tools,competency,exact
+Building Information Modeling,c_building-information-modeling_c03e2fe4,Building Information Modeling,competency,exact
+Business,c_business_0005c2c8,Business,competency,exact
+Business Administration,c_business-administration_406ba6db,Business Administration,competency,exact
+Business Analysis,c_business-analysis_2ca281f5,Business Analysis,competency,exact
+Business Analytics,c_business-analytics_529401d7,Business Analytics,competency,exact
+Business Architecture,c_business-architecture_8a4e8ab2,Business Architecture,competency,exact
+Business Communication,c_business-communication_5ba1baaa,Business Communication,competency,exact
+Business Consulting,c_business-consulting_32bc3e84,Business Consulting,competency,exact
+Business Continuity,c_business-continuity_83fdc6e7,Business Continuity,competency,exact
+Business Continuity Planning,c_business-continuity-planning_81a80fef,Business Continuity Planning,competency,exact
+Business Correspondence,c_business-correspondence_1a36f011,Business Correspondence,competency,exact
+Business Development,c_business-development_20d7c10c,Business Development,competency,exact
+Business Economics,c_business-economics_848478ec,Business Economics,competency,exact
+Business Ethics,c_business-ethics_2cb0ee1c,Business Ethics,competency,exact
+Business Intelligence,c_business-intelligence_0a3045d7,Business Intelligence,competency,exact
+Business Intelligence Software,t_business-intelligence-software_467be5c7,Business intelligence software,tool,exact
+Business Leadership,c_business-leadership_4edf2a6b,Business Leadership,competency,exact
+Business Logic,c_business-logic_8793dfd0,Business Logic,competency,exact
+Business Management,c_business-management_74121458,Business Management,competency,exact
+Business Marketing,c_business-marketing_74dc38b0,Business Marketing,competency,exact
+Business Mathematics,c_business-mathematics_09287f3f,Business Mathematics,competency,exact
+Business Metrics,c_business-metrics_0b8a6ca2,Business Metrics,competency,exact
+Business Modeling,c_business-modeling_aac31367,Business Modeling,competency,exact
+Business Operations,c_business-operations_17560a86,Business Operations,competency,exact
+Business Planning,c_business-planning_239d1e1c,Business Planning,competency,exact
+Business Priorities,c_business-priorities_1c975842,Business Priorities,competency,exact
+Business Process,c_business-process_bc277a23,Business Process,competency,exact
+Business Process Automation,c_business-process-automation_142f1334,Business Process Automation,competency,exact
+Business Process Improvement,c_business-process-improvement_8fcccb6b,Business Process Improvement,competency,exact
+Business Process Management,c_business-process-management_fbf62ccc,Business Process Management,competency,exact
+Business Process Modeling,c_business-process-modeling_ed43c5b1,Business Process Modeling,competency,exact
+Business Process Reengineering,c_business-process-reengineering_0749e0c6,Business Process Reengineering,competency,exact
+Business Relationship Management,c_business-relationship-management_e97ba4f8,Business Relationship Management,competency,exact
+Business Reporting,c_business-reporting_562167f5,Business Reporting,competency,exact
+Business Requirements,c_business-requirements_5c80173c,Business Requirements,competency,exact
+Business Research,c_business-research_87732996,Business Research,competency,exact
+Business Risk Management,c_business-risk-management_c1a7176a,Business Risk Management,competency,exact
+Business Software,c_business-software_b4f06d12,Business Software,competency,exact
+Business Solutions,c_business-solutions_9326bc76,Business Solutions,competency,exact
+Business Strategies,c_business-strategies_b0b6dcf8,Business Strategies,competency,exact
+Business Strategy,c_business-strategy_25e22f3f,Business Strategy,competency,exact
+Business Systems Analysis,c_business-systems-analysis_abc033c2,Business Systems Analysis,competency,exact
+Business Technologies,c_business-technologies_7bb83330,Business Technologies,competency,exact
+Business Transformation,c_business-transformation_b454a83e,Business Transformation,competency,exact
+Business Valuation,c_business-valuation_2e69be4b,Business Valuation,competency,exact
+Business Workflow Analysis,c_business-workflow-analysis_68a990f0,Business Workflow Analysis,competency,exact
+Business Writing,c_business-writing_507beec8,Business Writing,competency,exact
+Business-To-Consumer,c_business-to-consumer_d18b0057,Business-To-Consumer,competency,exact
+C (Programming Language),c_c-programming-language_5e9ae657,C (Programming Language),competency,exact
+C and C++,c_c-and-c_72ffafaf,C and C++,competency,exact
+C# (Programming Language),c_c-programming-language_49977d9d,C# (Programming Language),competency,exact
+C++ (Programming Language),c_c-programming-language_da0e2804,C++ (Programming Language),competency,exact
+CI/CD,c_ci-cd_c3b195f9,CI/CD,competency,exact
+Calculus,c_calculus_3ce278b5,Calculus,competency,exact
+Calendar Management,c_calendar-management_3c18a37a,Calendar Management,competency,exact
+Call Center Experience,c_call-center-experience_aacf0aa2,Call Center Experience,competency,exact
+Campaign Management,c_campaign-management_62f3e58e,Campaign Management,competency,exact
+Canva (Software),c_canva-software_29a25bc8,Canva (Software),competency,exact
+Capacity Management,c_capacity-management_47cb7542,Capacity Management,competency,exact
+Capacity Planning,c_capacity-planning_f43ac0d8,Capacity Planning,competency,exact
+Capital Budgeting,c_capital-budgeting_20d70f14,Capital Budgeting,competency,exact
+Capital Expenditure,c_capital-expenditure_6499d520,Capital Expenditure,competency,exact
+Capital Markets,c_capital-markets_5745cc83,Capital Markets,competency,exact
+Cascading Style Sheets (CSS),c_cascading-style-sheets-css_d0da986d,Cascading Style Sheets (CSS),competency,exact
+Cash Flow Forecasting,c_cash-flow-forecasting_e08f0f4d,Cash Flow Forecasting,competency,exact
+Cash Flows,c_cash-flows_2c096efd,Cash Flows,competency,exact
+Cash Handling,c_cash-handling_05500bd2,Cash Handling,competency,exact
+Cash Management,c_cash-management_d2029687,Cash Management,competency,exact
+Cash Register Operation,c_cash-register-operation_62f44bc0,Cash Register Operation,competency,exact
+Certified Public Accountant,c_certified-public-accountant_088049c9,Certified Public Accountant,competency,exact
+Change Control,c_change-control_b5b9264f,Change Control,competency,exact
+Change Management,c_change-management_537f74ad,Change Management,competency,exact
+Change Orders,c_change-orders_0a51c273,Change Orders,competency,exact
+Change Requests,c_change-requests_305355e3,Change Requests,competency,exact
+ChatGPT,c_chatgpt_64d8af5c,ChatGPT,competency,exact
+Civil and Architectural Engineering,c_civil-and-architectural-engineering_4025ed48,Civil and Architectural Engineering,competency,exact
+Classification And Regression Tree (CART),c_classification-and-regression-tree-cart_b4990e66,Classification And Regression Tree (CART),competency,exact
+Classroom Management,c_classroom-management_0a2efd5b,Classroom Management,competency,exact
+Client Services,c_client-services_fb94bacc,Client Services,competency,exact
+Clinical Data Management,c_clinical-data-management_542f23fe,Clinical Data Management,competency,exact
+Clinical Research,c_clinical-research_81e22979,Clinical Research,competency,exact
+Clinical Trials,c_clinical-trials_0e10cdc7,Clinical Trials,competency,exact
+Closing (Sales),c_closing-sales_e74b3c04,Closing (Sales),competency,exact
+Cloud API,c_cloud-api_b78998e3,Cloud API,competency,exact
+Cloud Applications,c_cloud-applications_a4836a12,Cloud Applications,competency,exact
+Cloud Computing,c_cloud-computing_7c5e398e,Cloud Computing,competency,exact
+Cloud Computing Architecture,c_cloud-computing-architecture_97ac6b43,Cloud Computing Architecture,competency,exact
+Cloud Development,c_cloud-development_fe33ef76,Cloud Development,competency,exact
+Cloud Engineering,c_cloud-engineering_99ebe62b,Cloud Engineering,competency,exact
+Cloud Hosting,c_cloud-hosting_0d9df9ad,Cloud Hosting,competency,exact
+Cloud Infrastructure,c_cloud-infrastructure_b11729fa,Cloud Infrastructure,competency,exact
+Cloud Management,c_cloud-management_3ad07c15,Cloud Management,competency,exact
+Cloud Platforms,c_cloud-platforms_4dc7a06a,Cloud Platforms,competency,exact
+Cloud Security,c_cloud-security_8b4185f9,Cloud Security,competency,exact
+Cloud Services,c_cloud-services_67316fe0,Cloud Services,competency,exact
+Cloud Solutions,c_cloud-solutions_64e18f66,Cloud Solutions,competency,exact
+Cloud Standards,c_cloud-standards_39f21c6d,Cloud Standards,competency,exact
+Cloud Storage,c_cloud-storage_ae94d3fa,Cloud Storage,competency,exact
+Cloud-Based Integration,c_cloud-based-integration_b1582394,Cloud-Based Integration,competency,exact
+Cloud-Native Computing,c_cloud-native-computing_a92d701c,Cloud-Native Computing,competency,exact
+Coaching,c_coaching_8d434713,Coaching,competency,exact
+Code Coverage,c_code-coverage_f3853511,Code Coverage,competency,exact
+Code Review,c_code-review_894f8389,Code Review,competency,exact
+Cold Calling,c_cold-calling_0a7610d4,Cold Calling,competency,exact
+Collaboration,c_collaboration_7cfe94b6,Collaboration,competency,exact
+Color Theory,c_color-theory_f0782e61,Color Theory,competency,exact
+Combinatorics,c_combinatorics_fe91de16,Combinatorics,competency,exact
+Command-Line Interface,c_command-line-interface_d2fcbff0,Command-Line Interface,competency,exact
+Commercial Banking,c_commercial-banking_1163a1cf,Commercial Banking,competency,exact
+Commercial Construction,c_commercial-construction_bd80f456,Commercial Construction,competency,exact
+Commercial Real Estate,c_commercial-real-estate_a73d799a,Commercial Real Estate,competency,exact
+Commercialization,c_commercialization_98668541,Commercialization,competency,exact
+Communication,c_communication_d0f155a6,Communication,competency,exact
+Communication Planning,c_communication-planning_1eae6ecf,Communication Planning,competency,exact
+Communication Strategies,c_communication-strategies_77a7a337,Communication Strategies,competency,exact
+Community Development,c_community-development_5cfe6ea5,Community Development,competency,exact
+Community Organizing,c_community-organizing_93ccb7d7,Community Organizing,competency,exact
+Company,c_company_c3eb46f2,Company,competency,exact
+Compassion,c_compassion_e896a482,Compassion,competency,exact
+Compensation Analysis,c_compensation-analysis_453e46a4,Compensation Analysis,competency,exact
+Compensation Management,c_compensation-management_ca510c4a,Compensation Management,competency,exact
+Compensation Strategy,c_compensation-strategy_15aefbea,Compensation Strategy,competency,exact
+Compensation and Benefits,c_compensation-and-benefits_528f3652,Compensation and Benefits,competency,exact
+Competitive Analysis,c_competitive-analysis_a220f46e,Competitive Analysis,competency,exact
+Competitive Intelligence,c_competitive-intelligence_ba6f5205,Competitive Intelligence,competency,exact
+Complex Problem Solving,c_complex-problem-solving_b1c365fb,Complex Problem Solving,competency,exact
+Compliance Auditing,c_compliance-auditing_cc4ce88e,Compliance Auditing,competency,exact
+Compliance Management,c_compliance-management_e63a7e98,Compliance Management,competency,exact
+Compliance Reporting,c_compliance-reporting_c4f05ab3,Compliance Reporting,competency,exact
+Compliance Training,c_compliance-training_d746b343,Compliance Training,competency,exact
+Composure,c_composure_d0d7c271,Composure,competency,exact
+Computational Logic,c_computational-logic_db47d317,Computational Logic,competency,exact
+Computational Thinking,c_computational-thinking_f79c374e,Computational Thinking,competency,exact
+Computer Aided Three-Dimensional Interactive Application (CATIA),c_computer-aided-three-dimensional-interactive-app_5ecc8805,Computer Aided Three-Dimensional Interactive Application (CATIA),competency,exact
+Computer Architecture,c_computer-architecture_8e980012,Computer Architecture,competency,exact
+Computer Displays,c_computer-displays_91e472a5,Computer Displays,competency,exact
+Computer Engineering,c_computer-engineering_fad66564,Computer Engineering,competency,exact
+Computer Graphic Techniques,c_computer-graphic-techniques_2fee6e86,Computer Graphic Techniques,competency,exact
+Computer Graphics,c_computer-graphics_05f838ba,Computer Graphics,competency,exact
+Computer Hardware,c_computer-hardware_5002211b,Computer Hardware,competency,exact
+Computer Networking,c_computer-networking_ec1209ed,Computer Networking,competency,exact
+Computer Programming,c_computer-programming_ce1a30af,Computer Programming,competency,exact
+Computer Programming Tools,c_computer-programming-tools_1de31685,Computer Programming Tools,competency,exact
+Computer Science,c_computer-science_b6c2dfeb,Computer Science,competency,exact
+Computer Security,c_computer-security_80d42c78,Computer Security,competency,exact
+Computer Security Awareness Training,c_computer-security-awareness-training_18b64f34,Computer Security Awareness Training,competency,exact
+Computer Security Incident Management,c_computer-security-incident-management_4c7aac02,Computer Security Incident Management,competency,exact
+Computer Systems,c_computer-systems_a6087bb8,Computer Systems,competency,exact
+Computer Vision,c_computer-vision_5e4a4202,Computer Vision,competency,exact
+Computer-Aided Design,c_computer-aided-design_8d4508bc,Computer-Aided Design,competency,exact
+Computing Platforms,c_computing-platforms_fb0c81e3,Computing Platforms,competency,exact
+Conceptual Design,c_conceptual-design_d09480a6,Conceptual Design,competency,exact
+Concision,c_concision_34c67079,Concision,competency,exact
+Configuration Management,c_configuration-management_478fcb02,Configuration Management,competency,exact
+Conflict Management,c_conflict-management_ca9eab9a,Conflict Management,competency,exact
+Consolidation,c_consolidation_c7e71132,Consolidation,competency,exact
+Construction Accounting,c_construction-accounting_e8e48a09,Construction Accounting,competency,exact
+Construction Estimating,c_construction-estimating_7a4d3817,Construction Estimating,competency,exact
+Construction Management,c_construction-management_53d0426e,Construction Management,competency,exact
+Constructive Feedback,c_constructive-feedback_5438d46a,Constructive Feedback,competency,exact
+Consultative Approaches,c_consultative-approaches_1c774564,Consultative Approaches,competency,exact
+Consultative Selling,c_consultative-selling_8f6f0c00,Consultative Selling,competency,exact
+Consulting,c_consulting_32c4395f,Consulting,competency,exact
+Consumer Behaviour,c_consumer-behaviour_b41ab8a5,Consumer Behaviour,competency,exact
+Consumer Lending,c_consumer-lending_a4efabbe,Consumer Lending,competency,exact
+Containerization,c_containerization_f31088a7,Containerization,competency,exact
+Content Creation,c_content-creation_44bd7149,Content Creation,competency,exact
+Content Development and Management,c_content-development-and-management_d83ed860,Content Development and Management,competency,exact
+Content Management,c_content-management_317e0e5d,Content Management,competency,exact
+Content Management Systems,c_content-management-systems_fd8e4e7e,Content Management Systems,competency,exact
+Content Marketing,c_content-marketing_6f65dd53,Content Marketing,competency,exact
+Content Strategy,c_content-strategy_0553e1a7,Content Strategy,competency,exact
+Continuous Delivery,c_continuous-delivery_29603622,Continuous Delivery,competency,exact
+Continuous Deployment,c_continuous-deployment_6a898a23,Continuous Deployment,competency,exact
+Continuous Improvement Process,c_continuous-improvement-process_88abe0c4,Continuous Improvement Process,competency,exact
+Continuous Integration,c_continuous-integration_6a57c521,Continuous Integration,competency,exact
+Continuous Monitoring,c_continuous-monitoring_a8584d32,Continuous Monitoring,competency,exact
+Continuous Quality Improvement (CQI),c_continuous-quality-improvement-cqi_1d0a0db0,Continuous Quality Improvement (CQI),competency,exact
+Contract Accounting,c_contract-accounting_7ba54fe4,Contract Accounting,competency,exact
+Contract Compliance,c_contract-compliance_6f42952e,Contract Compliance,competency,exact
+Contract Management,c_contract-management_ba50bd0f,Contract Management,competency,exact
+Contract Negotiation,c_contract-negotiation_a90d2f5c,Contract Negotiation,competency,exact
+Contract Review,c_contract-review_75cb5022,Contract Review,competency,exact
+Control Objectives for Information and Related Technology (COBIT),c_control-objectives-for-information-and-related-t_b2906b02,Control Objectives for Information and Related Technology (COBIT),competency,exact
+Cooking,c_cooking_d9d155f2,Cooking,competency,exact
+Cooperation,c_cooperation_be3879da,Cooperation,competency,exact
+Coordinating,c_coordinating_a425cfa4,Coordinating,competency,exact
+Copywriting,c_copywriting_e41e0a0d,Copywriting,competency,exact
+Core Data (Software),c_core-data-software_21490463,Core Data (Software),competency,exact
+Corporate Accounting,c_corporate-accounting_48910004,Corporate Accounting,competency,exact
+Corporate Communications,c_corporate-communications_0914fa5d,Corporate Communications,competency,exact
+Corporate Finance,c_corporate-finance_fbebfbb7,Corporate Finance,competency,exact
+Corporate Strategy,c_corporate-strategy_bcfdbd9c,Corporate Strategy,competency,exact
+Corporate Sustainability,c_corporate-sustainability_b43c2b37,Corporate Sustainability,competency,exact
+Corporate Tax,c_corporate-tax_37b9542a,Corporate Tax,competency,exact
+Correlation Analysis,c_correlation-analysis_66b5aa9d,Correlation Analysis,competency,exact
+Cost Accounting,c_cost-accounting_8435dc2b,Cost Accounting,competency,exact
+Cost Benefit Analysis,c_cost-benefit-analysis_2e95ff8d,Cost Benefit Analysis,competency,exact
+Cost Control,c_cost-control_e48bb483,Cost Control,competency,exact
+Cost Estimation,c_cost-estimation_74b21d68,Cost Estimation,competency,exact
+Cost Management,c_cost-management_8547d1bd,Cost Management,competency,exact
+Cost Reduction,c_cost-reduction_4f172adb,Cost Reduction,competency,exact
+Courage,c_courage_1cc3a4f1,Courage,competency,exact
+Creative Design,c_creative-design_c7eca455,Creative Design,competency,exact
+Creative Problem-Solving,c_creative-problem-solving_bbb1f10d,Creative Problem-Solving,competency,exact
+Creative Thinking,c_creative-thinking_f533b3db,Creative Thinking,competency,exact
+Creativity,c_creativity_a680e82d,Creativity,competency,exact
+Credit Risk,c_credit-risk_aeaf91b2,Credit Risk,competency,exact
+Credit/Debit Card Processing,c_credit-debit-card-processing_1664c8e9,Credit/Debit Card Processing,competency,exact
+Crisis Intervention,c_crisis-intervention_9f913f03,Crisis Intervention,competency,exact
+Crisis Management,c_crisis-management_550ce592,Crisis Management,competency,exact
+Critical Thinking,t_critical-thinking_d2bf5888,Critical Thinking,tool,exact
+Critical Thinking and Problem Solving,c_critical-thinking-and-problem-solving_f727fe86,Critical Thinking and Problem Solving,competency,exact
+Cross Platform Development,c_cross-platform-development_d2aaf8c3,Cross Platform Development,competency,exact
+Cross Selling,c_cross-selling_b52e46f0,Cross Selling,competency,exact
+Cross-Functional Collaboration,c_cross-functional-collaboration_eb28d07c,Cross-Functional Collaboration,competency,exact
+Cross-Functional Team Leadership,c_cross-functional-team-leadership_1a3948f3,Cross-Functional Team Leadership,competency,exact
+Cryptographic Protocols,c_cryptographic-protocols_01c78b75,Cryptographic Protocols,competency,exact
+Cryptography,c_cryptography_1e3f92f1,Cryptography,competency,exact
+Cucumber (Software),c_cucumber-software_7cf9b14f,Cucumber (Software),competency,exact
+Cultural Diversity,c_cultural-diversity_2a8b8163,Cultural Diversity,competency,exact
+Cultural Responsiveness,c_cultural-responsiveness_2ec940b6,Cultural Responsiveness,competency,exact
+Cultural Sensitivity,c_cultural-sensitivity_7c3eb9a9,Cultural Sensitivity,competency,exact
+Culture,c_culture_d6db3d31,Culture,competency,exact
+Culture Transformation,c_culture-transformation_ed6c4891,Culture Transformation,competency,exact
+Curiosity,c_curiosity_28be3aa1,Curiosity,competency,exact
+Curriculum Development,c_curriculum-development_0f66e54f,Curriculum Development,competency,exact
+Customer Acquisition Management,c_customer-acquisition-management_3ae9d950,Customer Acquisition Management,competency,exact
+Customer Advocacy,c_customer-advocacy_b41afca5,Customer Advocacy,competency,exact
+Customer Analysis,c_customer-analysis_31e0f3be,Customer Analysis,competency,exact
+Customer Communications Management,c_customer-communications-management_30fbee6d,Customer Communications Management,competency,exact
+Customer Complaint Resolution,c_customer-complaint-resolution_5e445788,Customer Complaint Resolution,competency,exact
+Customer Data Management,c_customer-data-management_531298e3,Customer Data Management,competency,exact
+Customer Demand Planning,c_customer-demand-planning_2db3214f,Customer Demand Planning,competency,exact
+Customer Engagement,c_customer-engagement_2d169905,Customer Engagement,competency,exact
+Customer Inquiries,c_customer-inquiries_ee2757cd,Customer Inquiries,competency,exact
+Customer Insights,c_customer-insights_58eba30c,Customer Insights,competency,exact
+Customer Relationship Building,c_customer-relationship-building_2130a8c1,Customer Relationship Building,competency,exact
+Customer Relationship Management,c_customer-relationship-management_ddf92af9,Customer Relationship Management,competency,exact
+Customer Relationship Management (CRM) Software,c_customer-relationship-management-crm-software_7f82eb23,Customer Relationship Management (CRM) Software,competency,exact
+Customer Retention,c_customer-retention_0365c439,Customer Retention,competency,exact
+Customer Service,c_customer-service_ffb5a941,Customer Service,competency,exact
+Customer Success Management,c_customer-success-management_34e38a3c,Customer Success Management,competency,exact
+Customer Support,c_customer-support_302a98c5,Customer Support,competency,exact
+Cyber Attacks,c_cyber-attacks_897b8197,Cyber Attacks,competency,exact
+Cyber Governance,c_cyber-governance_721bc0d4,Cyber Governance,competency,exact
+Cyber Operations,c_cyber-operations_d135c295,Cyber Operations,competency,exact
+Cyber Risk,c_cyber-risk_21bfb65c,Cyber Risk,competency,exact
+Cyber Security Assessment,c_cyber-security-assessment_4509d254,Cyber Security Assessment,competency,exact
+Cyber Security Policies,c_cyber-security-policies_ddbf10bd,Cyber Security Policies,competency,exact
+Cyber Security Strategy,c_cyber-security-strategy_82451e45,Cyber Security Strategy,competency,exact
+Cyber Threat Hunting,c_cyber-threat-hunting_7e142cca,Cyber Threat Hunting,competency,exact
+Cyber Threat Intelligence,c_cyber-threat-intelligence_8dd7c78d,Cyber Threat Intelligence,competency,exact
+Cybersecurity,c_cybersecurity_2d9f4185,Cybersecurity,competency,exact
+Dashboard,c_dashboard_e7246de0,Dashboard,competency,exact
+Data Access,c_data-access_450eda40,Data Access,competency,exact
+Data Analysis,c_data-analysis_22e8a189,Data Analysis,competency,exact
+Data Analysis Expressions (DAX),c_data-analysis-expressions-dax_ec95e131,Data Analysis Expressions (DAX),competency,exact
+Data Analysis Software,t_data-analysis-software_63f95f25,Data analysis software,tool,exact
+Data Architecture,c_data-architecture_ac0832fd,Data Architecture,competency,exact
+Data Capture,c_data-capture_db6913c0,Data Capture,competency,exact
+Data Centers,c_data-centers_01c825bb,Data Centers,competency,exact
+Data Cleansing,c_data-cleansing_e2f564fc,Data Cleansing,competency,exact
+Data Collection,c_data-collection_61c7df0e,Data Collection,competency,exact
+Data Compilation,c_data-compilation_cce605f7,Data Compilation,competency,exact
+Data Encryption Standard,c_data-encryption-standard_525953cf,Data Encryption Standard,competency,exact
+Data Engineering,c_data-engineering_d3dd6163,Data Engineering,competency,exact
+Data Entry,c_data-entry_291ea77e,Data Entry,competency,exact
+Data Ethics,c_data-ethics_5c76fb29,Data Ethics,competency,exact
+Data Governance,c_data-governance_50869010,Data Governance,competency,exact
+Data Import/Export,c_data-import-export_d2732b3d,Data Import/Export,competency,exact
+Data Infrastructure,c_data-infrastructure_953540f8,Data Infrastructure,competency,exact
+Data Integration,c_data-integration_7e92ccda,Data Integration,competency,exact
+Data Integrity,c_data-integrity_ccc8eda1,Data Integrity,competency,exact
+Data Lakes,c_data-lakes_3ece565c,Data Lakes,competency,exact
+Data Loss Prevention,c_data-loss-prevention_40da84e4,Data Loss Prevention,competency,exact
+Data Maintenance,c_data-maintenance_2e5c206d,Data Maintenance,competency,exact
+Data Management,c_data-management_c1749f4d,Data Management,competency,exact
+Data Manipulation,c_data-manipulation_fc0465c4,Data Manipulation,competency,exact
+Data Mapping,c_data-mapping_9c3444bd,Data Mapping,competency,exact
+Data Mart,c_data-mart_1f302e98,Data Mart,competency,exact
+Data Migration,c_data-migration_d53beb56,Data Migration,competency,exact
+Data Mining,c_data-mining_b4f9474f,Data Mining,competency,exact
+Data Modeling,c_data-modeling_1ecc6ac4,Data Modeling,competency,exact
+Data Pipelines,c_data-pipelines_ac59378a,Data Pipelines,competency,exact
+Data Presentation,c_data-presentation_72ab9caf,Data Presentation,competency,exact
+Data Processing,c_data-processing_1928bd9b,Data Processing,competency,exact
+Data Quality,c_data-quality_019fbcdb,Data Quality,competency,exact
+Data Science,c_data-science_5f14ebc4,Data Science,competency,exact
+Data Security,c_data-security_01b43439,Data Security,competency,exact
+Data Sharing,c_data-sharing_13752f33,Data Sharing,competency,exact
+Data Storage,c_data-storage_5dbcf7b3,Data Storage,competency,exact
+Data Storage Technologies,c_data-storage-technologies_6717b7bd,Data Storage Technologies,competency,exact
+Data Store,c_data-store_50b1ad3b,Data Store,competency,exact
+Data Storytelling,c_data-storytelling_7dcd6939,Data Storytelling,competency,exact
+Data Strategy,c_data-strategy_22fe830f,Data Strategy,competency,exact
+Data Structures,c_data-structures_0078c3b3,Data Structures,competency,exact
+Data Synthesis,c_data-synthesis_c1bdbb74,Data Synthesis,competency,exact
+Data Transformation,c_data-transformation_3b7d0b08,Data Transformation,competency,exact
+Data Validation,c_data-validation_30020d28,Data Validation,competency,exact
+Data Visualization,c_data-visualization_2eb88378,Data Visualization,competency,exact
+Data Visualization Software,t_data-visualization-software_84a6dda5,Data visualization software,tool,exact
+Data Warehousing,c_data-warehousing_d1fec1d8,Data Warehousing,competency,exact
+Data Wrangling,c_data-wrangling_73dbb9d9,Data Wrangling,competency,exact
+Data-Driven Decision-Making,c_data-driven-decision-making_23cc6a20,Data-Driven Decision-Making,competency,exact
+Database Administration,c_database-administration_cc279262,Database Administration,competency,exact
+Database Application,c_database-application_01a35d76,Database Application,competency,exact
+Database Architecture and Administration,c_database-architecture-and-administration_c92507b7,Database Architecture and Administration,competency,exact
+Database Design,c_database-design_5b852116,Database Design,competency,exact
+Database Development,c_database-development_f7b23add,Database Development,competency,exact
+Database Management,c_database-management_4bd95652,Database Management,competency,exact
+Database Management Systems,t_database-management-systems_924326a2,Database management systems,tool,exact
+Database Software,t_database-software_6b30b988,Database software,tool,exact
+Database Systems,c_database-systems_82e22616,Database Systems,competency,exact
+Database Theory,c_database-theory_913515df,Database Theory,competency,exact
+Databases,c_databases_63fc869f,Databases,competency,exact
+Databricks,c_databricks_adbeab28,Databricks,competency,exact
+Dataflow,c_dataflow_80394b8d,Dataflow,competency,exact
+Datamaps,c_datamaps_dc5eee57,Datamaps,competency,exact
+De-escalation Techniques,c_de-escalation-techniques_4cee019b,De-escalation Techniques,competency,exact
+Dealing With Ambiguity,c_dealing-with-ambiguity_28dd0675,Dealing With Ambiguity,competency,exact
+Debugging,c_debugging_2b670671,Debugging,competency,exact
+Decision Making,c_decision-making_c0a45601,Decision Making,competency,exact
+Decision Support Systems,c_decision-support-systems_0f8157bc,Decision Support Systems,competency,exact
+Decision Tree Learning,c_decision-tree-learning_71c38bb1,Decision Tree Learning,competency,exact
+Deductive Reasoning,c_deductive-reasoning_644e4739,Deductive Reasoning,competency,exact
+Deep Learning,c_deep-learning_18e15844,Deep Learning,competency,exact
+Delegation Skills,c_delegation-skills_faa6e7e0,Delegation Skills,competency,exact
+Demand Generation,c_demand-generation_f8c7b85d,Demand Generation,competency,exact
+Demand Planning,c_demand-planning_7997ebba,Demand Planning,competency,exact
+Demography,c_demography_8e3d7aff,Demography,competency,exact
+Dependency Analysis,c_dependency-analysis_ee072af2,Dependency Analysis,competency,exact
+Depreciation,c_depreciation_28448cec,Depreciation,competency,exact
+Derivatives,c_derivatives_eb843d5d,Derivatives,competency,exact
+Descriptive Analytics,c_descriptive-analytics_9d5ae208,Descriptive Analytics,competency,exact
+Descriptive Statistics,c_descriptive-statistics_2cc98b13,Descriptive Statistics,competency,exact
+Design,t_design_d75730a2,Design,tool,exact
+Design Elements And Principles,c_design-elements-and-principles_bcb35e9b,Design Elements And Principles,competency,exact
+Design Research,c_design-research_7ed3c8d4,Design Research,competency,exact
+Design Reviews,c_design-reviews_5fd97418,Design Reviews,competency,exact
+Design Software,c_design-software_31466d6b,Design Software,competency,exact
+Design Strategies,c_design-strategies_be0a6fc7,Design Strategies,competency,exact
+Design Thinking,c_design-thinking_f5d2444a,Design Thinking,competency,exact
+Design and Product,c_design-and-product_38b95ec8,Design and Product,competency,exact
+Desktop Support,c_desktop-support_371421b5,Desktop Support,competency,exact
+DevOps,c_devops_a83bcf64,DevOps,competency,exact
+DevSecOps,c_devsecops_1c7b1c8d,DevSecOps,competency,exact
+Developing Training Materials,c_developing-training-materials_512c491a,Developing Training Materials,competency,exact
+Development Environment,c_development-environment_cdf0e809,Development Environment,competency,exact
+Development Testing,c_development-testing_9809c7db,Development Testing,competency,exact
+Devops Tools,c_devops-tools_7ddf3a9f,Devops Tools,competency,exact
+Differential Equations,c_differential-equations_46468d95,Differential Equations,competency,exact
+Digital Assets,c_digital-assets_736e8daf,Digital Assets,competency,exact
+Digital Communications,c_digital-communications_1124160c,Digital Communications,competency,exact
+Digital Content,c_digital-content_0952f04c,Digital Content,competency,exact
+Digital Design,c_digital-design_681975c7,Digital Design,competency,exact
+Digital Marketing,c_digital-marketing_6ff6f880,Digital Marketing,competency,exact
+Digital Publishing,c_digital-publishing_928a1106,Digital Publishing,competency,exact
+Digital Transformation,c_digital-transformation_4fba0cd5,Digital Transformation,competency,exact
+Dimensionality Reduction,c_dimensionality-reduction_6bd245b7,Dimensionality Reduction,competency,exact
+Diplomacy,c_diplomacy_750a37ae,Diplomacy,competency,exact
+Direct Marketing,c_direct-marketing_201f13c1,Direct Marketing,competency,exact
+Direct Selling,c_direct-selling_70bf63d1,Direct Selling,competency,exact
+Disabilities,c_disabilities_ea296197,Disabilities,competency,exact
+Disaster Recovery,c_disaster-recovery_94e79579,Disaster Recovery,competency,exact
+Discussion Facilitation,c_discussion-facilitation_0dd4b371,Discussion Facilitation,competency,exact
+Display Devices,c_display-devices_3d973fec,Display Devices,competency,exact
+Distributed Computing,c_distributed-computing_1513704a,Distributed Computing,competency,exact
+Distributed Denial-Of-Service (DDoS) Attacks,c_distributed-denial-of-service-ddos-attacks_ad58f3d0,Distributed Denial-Of-Service (DDoS) Attacks,competency,exact
+Diversity Awareness,c_diversity-awareness_31a0c62b,Diversity Awareness,competency,exact
+Diversity Equity and Inclusion Initiatives,c_diversity-equity-and-inclusion-initiatives_9705a8f2,Diversity Equity and Inclusion Initiatives,competency,exact
+Diversity Marketing,c_diversity-marketing_d13ca695,Diversity Marketing,competency,exact
+Diversity Programs,c_diversity-programs_7005e225,Diversity Programs,competency,exact
+Diversity Training,c_diversity-training_41dd0de9,Diversity Training,competency,exact
+Diversity and Inclusion,c_diversity-and-inclusion_510f237f,Diversity and Inclusion,competency,exact
+Django (Web Framework),c_django-web-framework_04ef800e,Django (Web Framework),competency,exact
+Docker (Software),c_docker-software_f8bc8d6e,Docker (Software),competency,exact
+Document Management,c_document-management_e5ff4822,Document Management,competency,exact
+Drafting and Engineering Design,c_drafting-and-engineering-design_31419c7e,Drafting and Engineering Design,competency,exact
+Due Diligence,c_due-diligence_5fe6e272,Due Diligence,competency,exact
+Dynamic Host Configuration Protocol (DHCP),c_dynamic-host-configuration-protocol-dhcp_6db51866,Dynamic Host Configuration Protocol (DHCP),competency,exact
+E-Commerce,c_e-commerce_0484de36,E-Commerce,competency,exact
+Earned Value Management,c_earned-value-management_0dcc0786,Earned Value Management,competency,exact
+Eclipse (Software),c_eclipse-software_2943878c,Eclipse (Software),competency,exact
+Econometrics,c_econometrics_59ccdf47,Econometrics,competency,exact
+Economic Development,c_economic-development_95bb8749,Economic Development,competency,exact
+Economics,c_economics_66088e0f,Economics,competency,exact
+Editing,c_editing_551687c4,Editing,competency,exact
+Education and Training,t_education-and-training_fc5e4994,Education and Training,tool,exact
+Eight Disciplines Problem Solving (8D),c_eight-disciplines-problem-solving-8d_90b15454,Eight Disciplines Problem Solving (8D),competency,exact
+Electocardiography,c_electocardiography_d954cd82,Electocardiography,competency,exact
+Electrical Engineering,c_electrical-engineering_e381227f,Electrical Engineering,competency,exact
+Electrical and Computer Engineering,c_electrical-and-computer-engineering_926b1d15,Electrical and Computer Engineering,competency,exact
+Electronic Components,c_electronic-components_9b13ee99,Electronic Components,competency,exact
+Electronic Hardware,c_electronic-hardware_533d8e8c,Electronic Hardware,competency,exact
+Electronic Media,c_electronic-media_46e985a9,Electronic Media,competency,exact
+Electronic Medical Record,c_electronic-medical-record_78b83d4a,Electronic Medical Record,competency,exact
+Electronic Systems,c_electronic-systems_c6f8facb,Electronic Systems,competency,exact
+Email Marketing,c_email-marketing_817d7766,Email Marketing,competency,exact
+Email Security,c_email-security_24d1c71c,Email Security,competency,exact
+Embedded Software,c_embedded-software_6891677a,Embedded Software,competency,exact
+Embedded Systems,c_embedded-systems_b6825433,Embedded Systems,competency,exact
+Emergency Response,c_emergency-response_fd58bc85,Emergency Response,competency,exact
+Emerging Technologies,c_emerging-technologies_6e34d34a,Emerging Technologies,competency,exact
+Emotional Intelligence,c_emotional-intelligence_000a2aad,Emotional Intelligence,competency,exact
+Empathy,c_empathy_fd9d6abd,Empathy,competency,exact
+Employee Coaching,c_employee-coaching_ca1913a0,Employee Coaching,competency,exact
+Employee Engagement,c_employee-engagement_90824177,Employee Engagement,competency,exact
+Employee Onboarding,c_employee-onboarding_acfd5013,Employee Onboarding,competency,exact
+Employee Performance Management,c_employee-performance-management_062a194e,Employee Performance Management,competency,exact
+Employee Relations,c_employee-relations_b4616a9e,Employee Relations,competency,exact
+Employee Retention,c_employee-retention_db8ebac0,Employee Retention,competency,exact
+Employee Retirement Income Security Act,c_employee-retirement-income-security-act_b8478a13,Employee Retirement Income Security Act,competency,exact
+Employee Surveys,c_employee-surveys_bc9d3dba,Employee Surveys,competency,exact
+Employee Training,c_employee-training_76a88fd4,Employee Training,competency,exact
+Empowerment,c_empowerment_3d627d67,Empowerment,competency,exact
+Encryption,c_encryption_aec715ba,Encryption,competency,exact
+End User Training and Support,c_end-user-training-and-support_5f846c20,End User Training and Support,competency,exact
+Endpoint Detection and Response,c_endpoint-detection-and-response_0eedec2f,Endpoint Detection and Response,competency,exact
+Endpoint Security,c_endpoint-security_36846fe0,Endpoint Security,competency,exact
+Engineering,c_engineering_52fdee82,Engineering,competency,exact
+Engineering Analysis,c_engineering-analysis_75d20c90,Engineering Analysis,competency,exact
+Engineering Calculations,c_engineering-calculations_da8818de,Engineering Calculations,competency,exact
+Engineering Design Process,c_engineering-design-process_eae05959,Engineering Design Process,competency,exact
+Engineering Drawings,c_engineering-drawings_038fa575,Engineering Drawings,competency,exact
+Engineering Management,c_engineering-management_12346d1a,Engineering Management,competency,exact
+Engineering Software,c_engineering-software_74a50aa9,Engineering Software,competency,exact
+Enterprise Resource Planning,c_enterprise-resource-planning_4129f7e8,Enterprise Resource Planning,competency,exact
+Enterprise Risk Management (ERM),c_enterprise-risk-management-erm_c2efef06,Enterprise Risk Management (ERM),competency,exact
+Enterprise Security,c_enterprise-security_151899bc,Enterprise Security,competency,exact
+Entrepreneurial Finance,c_entrepreneurial-finance_de260e17,Entrepreneurial Finance,competency,exact
+Entrepreneurship,c_entrepreneurship_6c55c941,Entrepreneurship,competency,exact
+Environment,c_environment_04b347d3,Environment,competency,exact
+Environment Health And Safety,c_environment-health-and-safety_a56d8dfd,Environment Health And Safety,competency,exact
+Environment and Resource Management,c_environment-and-resource-management_707d491f,Environment and Resource Management,competency,exact
+Environmental Issue,c_environmental-issue_2a386fb7,Environmental Issue,competency,exact
+Environmental Management Systems,c_environmental-management-systems_7b2f1ff9,Environmental Management Systems,competency,exact
+Environmental Monitoring,c_environmental-monitoring_3277d46b,Environmental Monitoring,competency,exact
+Environmental Policy,c_environmental-policy_a5fbc210,Environmental Policy,competency,exact
+Environmental Resource Management,c_environmental-resource-management_24564465,Environmental Resource Management,competency,exact
+Environmental Social And Corporate Governance (ESG),c_environmental-social-and-corporate-governance-es_4aa06d14,Environmental Social And Corporate Governance (ESG),competency,exact
+Epidemiology,c_epidemiology_a1bdf347,Epidemiology,competency,exact
+Equities,c_equities_0e5d1614,Equities,competency,exact
+Estimation,c_estimation_01b0e99f,Estimation,competency,exact
+Ethical Standards And Conduct,c_ethical-standards-and-conduct_7be3b904,Ethical Standards And Conduct,competency,exact
+Event Management,c_event-management_df8ceb1d,Event Management,competency,exact
+Event Marketing,c_event-marketing_7bf81ee3,Event Marketing,competency,exact
+Event Monitoring,c_event-monitoring_2fb28778,Event Monitoring,competency,exact
+Event Planning,c_event-planning_c1d0d80f,Event Planning,competency,exact
+Event-Driven Programming,c_event-driven-programming_2e8e318c,Event-Driven Programming,competency,exact
+Excel Formulas,c_excel-formulas_41c5d4be,Excel Formulas,competency,exact
+Excel Macros,c_excel-macros_833008ac,Excel Macros,competency,exact
+Executive Presence,c_executive-presence_45c6700c,Executive Presence,competency,exact
+Executive Recruitment,c_executive-recruitment_ffc7e36e,Executive Recruitment,competency,exact
+Expectation Management,c_expectation-management_a6c6a6d9,Expectation Management,competency,exact
+Expense Management,c_expense-management_979650cb,Expense Management,competency,exact
+Expense Reports,c_expense-reports_3dadecc9,Expense Reports,competency,exact
+Experience Design,c_experience-design_4847cac2,Experience Design,competency,exact
+Experimentation,c_experimentation_5dd1f514,Experimentation,competency,exact
+Exploratory Data Analysis,c_exploratory-data-analysis_e4ab2693,Exploratory Data Analysis,competency,exact
+Export Control,c_export-control_f005b61f,Export Control,competency,exact
+Extensible Languages and XML,c_extensible-languages-and-xml_50bdbf0d,Extensible Languages and XML,competency,exact
+Extensible Markup Language (XML),c_extensible-markup-language-xml_bb6c6295,Extensible Markup Language (XML),competency,exact
+External Auditing,c_external-auditing_41fa8388,External Auditing,competency,exact
+Extract,c_extract_617469cb,Extract,competency,exact
+Facebook,t_facebook_b6445b52,Facebook,tool,exact
+Facility Management,c_facility-management_563039a5,Facility Management,competency,exact
+Facility Operations,c_facility-operations_4a627544,Facility Operations,competency,exact
+Failure Analysis,c_failure-analysis_2cdb1558,Failure Analysis,competency,exact
+Feasibility Studies,c_feasibility-studies_77062d89,Feasibility Studies,competency,exact
+Feature Engineering,c_feature-engineering_e4a2530b,Feature Engineering,competency,exact
+Figma (Design Software),c_figma-design-software_fe8b568c,Figma (Design Software),competency,exact
+File Management,c_file-management_6c9e2ed1,File Management,competency,exact
+File Systems,c_file-systems_eddc5a8f,File Systems,competency,exact
+File Transfer Protocol (FTP),c_file-transfer-protocol-ftp_1c70c5e2,File Transfer Protocol (FTP),competency,exact
+FinTech,c_fintech_ba71635a,FinTech,competency,exact
+Finance,c_finance_acd1081a,Finance,competency,exact
+Financial Accounting,c_financial-accounting_d05a64b8,Financial Accounting,competency,exact
+Financial Analysis,c_financial-analysis_059eae71,Financial Analysis,competency,exact
+Financial Auditing,c_financial-auditing_70be8294,Financial Auditing,competency,exact
+Financial Controls,c_financial-controls_6a2f6665,Financial Controls,competency,exact
+Financial Data,c_financial-data_ea523608,Financial Data,competency,exact
+Financial Forecasting,c_financial-forecasting_43b4c5de,Financial Forecasting,competency,exact
+Financial Management,c_financial-management_1b4b165b,Financial Management,competency,exact
+Financial Market,c_financial-market_a36c848a,Financial Market,competency,exact
+Financial Modeling,c_financial-modeling_13e666cd,Financial Modeling,competency,exact
+Financial Planning,c_financial-planning_ceb23fcd,Financial Planning,competency,exact
+Financial Policy,c_financial-policy_b8d103fa,Financial Policy,competency,exact
+Financial Regulation,c_financial-regulation_11d15520,Financial Regulation,competency,exact
+Financial Regulations,c_financial-regulations_cc21b46f,Financial Regulations,competency,exact
+Financial Reporting,c_financial-reporting_d7c2e607,Financial Reporting,competency,exact
+Financial Services,c_financial-services_8beffe01,Financial Services,competency,exact
+Financial Statement Analysis,c_financial-statement-analysis_313cb093,Financial Statement Analysis,competency,exact
+Financial Statements,c_financial-statements_0e08e34c,Financial Statements,competency,exact
+Financial Systems,c_financial-systems_4a9d3260,Financial Systems,competency,exact
+Financial Trading,c_financial-trading_23f1aa1b,Financial Trading,competency,exact
+Firewall,c_firewall_e1d9db9e,Firewall,competency,exact
+Fiscal Management,c_fiscal-management_c44bb165,Fiscal Management,competency,exact
+Fixed Asset,c_fixed-asset_08c107f5,Fixed Asset,competency,exact
+Flask (Web Framework),c_flask-web-framework_e6ce7d03,Flask (Web Framework),competency,exact
+Flutter (Software),c_flutter-software_108460e8,Flutter (Software),competency,exact
+Focus Group,c_focus-group_7ac56fc5,Focus Group,competency,exact
+Food and Beverage,c_food-and-beverage_75752c5b,Food and Beverage,competency,exact
+Forecasting,c_forecasting_717dc2c2,Forecasting,competency,exact
+Front Office,c_front-office_617f7ef0,Front Office,competency,exact
+Front-End Web Development,c_front-end-web-development_3fb6feb8,Front-End Web Development,competency,exact
+Full Cycle Recruitment,c_full-cycle-recruitment_2da19c9c,Full Cycle Recruitment,competency,exact
+Full-Stack Web Development,c_full-stack-web-development_d1321770,Full-Stack Web Development,competency,exact
+Functional Design,c_functional-design_b4000120,Functional Design,competency,exact
+Functional Requirement,c_functional-requirement_df561926,Functional Requirement,competency,exact
+Functional Specification,c_functional-specification_16d7f4e1,Functional Specification,competency,exact
+Functional Testing,c_functional-testing_4f1a630f,Functional Testing,competency,exact
+Fund Accounting,c_fund-accounting_9053c7d7,Fund Accounting,competency,exact
+Fundraising,c_fundraising_c91c69b0,Fundraising,competency,exact
+Fundraising and Crowdsourcing,c_fundraising-and-crowdsourcing_920224ed,Fundraising and Crowdsourcing,competency,exact
+Futures Exchange,c_futures-exchange_9af6bb66,Futures Exchange,competency,exact
+GIS Software,c_gis-software_dac4f5fd,GIS Software,competency,exact
+Game Theory,c_game-theory_de57da5d,Game Theory,competency,exact
+Gap Analysis,c_gap-analysis_2c08383a,Gap Analysis,competency,exact
+General Accounting,c_general-accounting_2b952325,General Accounting,competency,exact
+General Data Protection Regulation (GDPR),c_general-data-protection-regulation-gdpr_59dfbc4d,General Data Protection Regulation (GDPR),competency,exact
+General Finance,c_general-finance_2d3c1f6c,General Finance,competency,exact
+General Ledger,c_general-ledger_755fc2e4,General Ledger,competency,exact
+General Lending,c_general-lending_b63d7cc9,General Lending,competency,exact
+General Networking,c_general-networking_fc0ef0ca,General Networking,competency,exact
+General Science and Research,c_general-science-and-research_2760cbef,General Science and Research,competency,exact
+General Shipping and Receiving,c_general-shipping-and-receiving_992eca5d,General Shipping and Receiving,competency,exact
+Generally Accepted Accounting Principles (GAAP),c_generally-accepted-accounting-principles-gaap_fbc24310,Generally Accepted Accounting Principles (GAAP),competency,exact
+Generally Accepted Auditing Standards,c_generally-accepted-auditing-standards_6ac9b223,Generally Accepted Auditing Standards,competency,exact
+Generative AI,c_generative-ai_445b33d5,Generative AI,competency,exact
+Geographic Information Systems,c_geographic-information-systems_d33f915b,Geographic Information Systems,competency,exact
+Geometric Dimensioning And Tolerancing,c_geometric-dimensioning-and-tolerancing_1044a323,Geometric Dimensioning And Tolerancing,competency,exact
+Geometry,c_geometry_36805553,Geometry,competency,exact
+Geospatial Information and Technology,c_geospatial-information-and-technology_244896bb,Geospatial Information and Technology,competency,exact
+Geospatial Mapping,c_geospatial-mapping_03d585b6,Geospatial Mapping,competency,exact
+Ggplot2,c_ggplot2_208967e0,Ggplot2,competency,exact
+Gherkin (Scripting Language),c_gherkin-scripting-language_a2fa8ab9,Gherkin (Scripting Language),competency,exact
+Git (Version Control System),c_git-version-control-system_db42ee44,Git (Version Control System),competency,exact
+GitHub,t_github_6468ed69,GitHub,tool,exact
+GitLab,t_gitlab_e89f6414,GitLab,tool,exact
+Global Marketing,c_global-marketing_a15a60ed,Global Marketing,competency,exact
+Global Positioning Systems,c_global-positioning-systems_b9cfba44,Global Positioning Systems,competency,exact
+Gmail,c_gmail_73a28bed,Gmail,competency,exact
+Go (Programming Language),c_go-programming-language_f3fdf55e,Go (Programming Language),competency,exact
+Go To Market Strategy,c_go-to-market-strategy_fc578c74,Go To Market Strategy,competency,exact
+Goal Setting,c_goal-setting_07138ce3,Goal Setting,competency,exact
+Google Analytics,t_google-analytics_c77eb53e,Google Analytics,tool,exact
+Google Cloud Platform,c_google-cloud-platform_5614d99d,Google Cloud Platform,competency,exact
+Google Docs,t_google-docs_5c021402,Google Docs,tool,exact
+Google Sheets,t_google-sheets_e48a296a,Google Sheets,tool,exact
+Google Workspace,c_google-workspace_f687a7c0,Google Workspace,competency,exact
+Governance,c_governance_a9191e75,Governance,competency,exact
+Governance Risk Management and Compliance,c_governance-risk-management-and-compliance_5f605e9a,Governance Risk Management and Compliance,competency,exact
+Governmental Accounting,c_governmental-accounting_8f153b06,Governmental Accounting,competency,exact
+Gradle,t_gradle_8ea597d9,Gradle,tool,exact
+Grafana,c_grafana_ac4e69ad,Grafana,competency,exact
+Grammar,c_grammar_46f22e82,Grammar,competency,exact
+Grant Writing,c_grant-writing_2de65882,Grant Writing,competency,exact
+Graph Theory,c_graph-theory_37a7b94c,Graph Theory,competency,exact
+Graphic Design,c_graphic-design_b5c74755,Graphic Design,competency,exact
+Graphic and Visual Design,c_graphic-and-visual-design_bdef7a4c,Graphic and Visual Design,competency,exact
+Graphic and Visual Design Software,c_graphic-and-visual-design-software_3f0322e2,Graphic and Visual Design Software,competency,exact
+Graphical Tools,c_graphical-tools_a5b53f67,Graphical Tools,competency,exact
+Graphics Software,t_graphics-software_b1dca3e8,Graphics software,tool,exact
+Graphing,c_graphing_7b3ae1c4,Graphing,competency,exact
+Greeting Customers,c_greeting-customers_3b91ad38,Greeting Customers,competency,exact
+Gross Profit,c_gross-profit_e93501f0,Gross Profit,competency,exact
+Growth Mindedness,c_growth-mindedness_2862dfc9,Growth Mindedness,competency,exact
+Growth Strategies,c_growth-strategies_13525e94,Growth Strategies,competency,exact
+Guest Relations,c_guest-relations_58c2ea82,Guest Relations,competency,exact
+HR Tech,c_hr-tech_813e983f,HR Tech,competency,exact
+HTML and CSS,c_html-and-css_0783737f,HTML and CSS,competency,exact
+Hardening,c_hardening_7c1a9942,Hardening,competency,exact
+Hardware Architecture,c_hardware-architecture_ec670a4e,Hardware Architecture,competency,exact
+Hardware Design,c_hardware-design_4248a645,Hardware Design,competency,exact
+Hardware Troubleshooting,c_hardware-troubleshooting_a4046f45,Hardware Troubleshooting,competency,exact
+Health And Safety Standards,c_health-and-safety-standards_fce1e04f,Health And Safety Standards,competency,exact
+Health Assessment,c_health-assessment_e0dbfbd5,Health Assessment,competency,exact
+Health Care,c_health-care_fa591973,Health Care,competency,exact
+Health Care Administration,c_health-care-administration_2665ccb9,Health Care Administration,competency,exact
+Health Care Procedure and Regulation,c_health-care-procedure-and-regulation_7cc8323b,Health Care Procedure and Regulation,competency,exact
+Health Information Management and Medical Records,c_health-information-management-and-medical-record_01b59b4b,Health Information Management and Medical Records,competency,exact
+Health Systems,c_health-systems_9b83805c,Health Systems,competency,exact
+Healthcare Industry Knowledge,c_healthcare-industry-knowledge_37f3b9cc,Healthcare Industry Knowledge,competency,exact
+Heat Maps,c_heat-maps_6bb9e18d,Heat Maps,competency,exact
+Help Desk Support,c_help-desk-support_d567c4db,Help Desk Support,competency,exact
+Hibernate (Java),c_hibernate-java_427a1f19,Hibernate (Java),competency,exact
+Higher Education,c_higher-education_f14585fb,Higher Education,competency,exact
+Histogram,c_histogram_9d233da1,Histogram,competency,exact
+Hospitality,c_hospitality_b52bd09a,Hospitality,competency,exact
+Hospitality Management,c_hospitality-management_9f202e96,Hospitality Management,competency,exact
+Hospitality Services,c_hospitality-services_9bb117de,Hospitality Services,competency,exact
+Hospitality and Food Services,c_hospitality-and-food-services_fb4961f8,Hospitality and Food Services,competency,exact
+Hotel And Restaurant Management,c_hotel-and-restaurant-management_c6c3fdaf,Hotel And Restaurant Management,competency,exact
+HubSpot CRM,c_hubspot-crm_c5425a85,HubSpot CRM,competency,exact
+Human Capital,c_human-capital_70a933a1,Human Capital,competency,exact
+Human Centered Design,c_human-centered-design_572b97f7,Human Centered Design,competency,exact
+Human Computer Interaction,c_human-computer-interaction_c6dfccfb,Human Computer Interaction,competency,exact
+Human Factors,c_human-factors_f97bd587,Human Factors,competency,exact
+Human Factors (Security),c_human-factors-security_9ff32d57,Human Factors (Security),competency,exact
+Human Learning,c_human-learning_dd6aca3d,Human Learning,competency,exact
+Human Machine Interfaces,c_human-machine-interfaces_71b972ed,Human Machine Interfaces,competency,exact
+Human Relations Movement,c_human-relations-movement_c368be2f,Human Relations Movement,competency,exact
+Human Resource Management,c_human-resource-management_4847514e,Human Resource Management,competency,exact
+Human Resource Policies,c_human-resource-policies_74255803,Human Resource Policies,competency,exact
+Human Resource Strategy,c_human-resource-strategy_2f32c53f,Human Resource Strategy,competency,exact
+Human Resources,c_human-resources_dd59d2e7,Human Resources,competency,exact
+Human Resources Information System (HRIS),c_human-resources-information-system-hris_bbb173cd,Human Resources Information System (HRIS),competency,exact
+Human Resources Management and Planning,c_human-resources-management-and-planning_9923135b,Human Resources Management and Planning,competency,exact
+Human Resources Software,c_human-resources-software_8eb5e2d0,Human Resources Software,competency,exact
+Hybrid Cloud Computing,c_hybrid-cloud-computing_db0bfbf1,Hybrid Cloud Computing,competency,exact
+Hypertext Markup Language (HTML),c_hypertext-markup-language-html_2d8350fb,Hypertext Markup Language (HTML),competency,exact
+IBM Cloud,t_ibm-cloud_69c67c90,IBM Cloud,tool,exact
+IBM Cognos Analytics,c_ibm-cognos-analytics_bcf4145f,IBM Cognos Analytics,competency,exact
+IBM DB2,t_ibm-db2_c8d2f71e,IBM DB2,tool,exact
+ISO 9000 Series,c_iso-9000-series_6e0605d4,ISO 9000 Series,competency,exact
+ISO/IEC 27001,c_iso-iec-27001_441c1cb3,ISO/IEC 27001,competency,exact
+IT Automation,c_it-automation_3e3b42f4,IT Automation,competency,exact
+IT Infrastructure,c_it-infrastructure_3ec3113f,IT Infrastructure,competency,exact
+IT Management,c_it-management_8269b10a,IT Management,competency,exact
+IT Security Architecture,c_it-security-architecture_89c8c2c8,IT Security Architecture,competency,exact
+IT Service Management,c_it-service-management_60b857a3,IT Service Management,competency,exact
+Ideation,c_ideation_b32154de,Ideation,competency,exact
+Identity and Access Management,c_identity-and-access-management_5b4d10fc,Identity and Access Management,competency,exact
+Image Analysis,c_image-analysis_a9cd7674,Image Analysis,competency,exact
+Inbound Calls,c_inbound-calls_6c6e27bf,Inbound Calls,competency,exact
+Incident Management,c_incident-management_282606cc,Incident Management,competency,exact
+Incident Response,c_incident-response_57098796,Incident Response,competency,exact
+Income Statement,c_income-statement_75af7a9c,Income Statement,competency,exact
+Income Tax,c_income-tax_5d441447,Income Tax,competency,exact
+Independent Thinking,c_independent-thinking_0e849739,Independent Thinking,competency,exact
+Industrial Design,c_industrial-design_ee73a2c1,Industrial Design,competency,exact
+Industrial Engineering,c_industrial-engineering_aeb35840,Industrial Engineering,competency,exact
+Industrial and Organizational Psychology,c_industrial-and-organizational-psychology_54bd6af6,Industrial and Organizational Psychology,competency,exact
+Infectious Diseases,c_infectious-diseases_62a1c03a,Infectious Diseases,competency,exact
+Influencing,c_influencing_53abc06c,Influencing,competency,exact
+Infographics,c_infographics_d53bc97d,Infographics,competency,exact
+Information Architecture,c_information-architecture_b0503a3e,Information Architecture,competency,exact
+Information Assurance,c_information-assurance_189ba0f3,Information Assurance,competency,exact
+Information Management,c_information-management_839d1461,Information Management,competency,exact
+Information Privacy,c_information-privacy_06bbd161,Information Privacy,competency,exact
+Information Systems,c_information-systems_a1ad5968,Information Systems,competency,exact
+Information Systems Security,c_information-systems-security_dda08eb2,Information Systems Security,competency,exact
+Information Technology,c_information-technology_a55e9008,Information Technology,competency,exact
+Information Technology Architecture,c_information-technology-architecture_ca04f011,Information Technology Architecture,competency,exact
+Information Technology Infrastructure Library,c_information-technology-infrastructure-library_f9484068,Information Technology Infrastructure Library,competency,exact
+Information Technology Operations,c_information-technology-operations_115cbd59,Information Technology Operations,competency,exact
+Infrastructure Architecture,c_infrastructure-architecture_eeb15e74,Infrastructure Architecture,competency,exact
+Infrastructure As A Service (IaaS),c_infrastructure-as-a-service-iaas_459a7b42,Infrastructure As A Service (IaaS),competency,exact
+Infrastructure Security,c_infrastructure-security_72363f1c,Infrastructure Security,competency,exact
+Infrastructure as Code (IaC),c_infrastructure-as-code-iac_86a9631e,Infrastructure as Code (IaC),competency,exact
+Initiative and Leadership,c_initiative-and-leadership_d804053e,Initiative and Leadership,competency,exact
+Injury Prevention,c_injury-prevention_842f43d1,Injury Prevention,competency,exact
+Innovation,c_innovation_f61c9159,Innovation,competency,exact
+Inside Sales,c_inside-sales_f6547244,Inside Sales,competency,exact
+Instagram,t_instagram_21488297,Instagram,tool,exact
+Instructional Design,c_instructional-design_4645d47a,Instructional Design,competency,exact
+Insurance,c_insurance_cff08d77,Insurance,competency,exact
+Integral Calculus,c_integral-calculus_06b73a3a,Integral Calculus,competency,exact
+Integrated Development Environments,c_integrated-development-environments_63700ccc,Integrated Development Environments,competency,exact
+Integrated Marketing Communications,c_integrated-marketing-communications_0fd34b13,Integrated Marketing Communications,competency,exact
+Integration Testing,c_integration-testing_7a48bfd7,Integration Testing,competency,exact
+IntelliJ IDEA,c_intellij-idea_a9b65513,IntelliJ IDEA,competency,exact
+Intensive Care Unit,c_intensive-care-unit_b6726150,Intensive Care Unit,competency,exact
+Interaction Design,c_interaction-design_4256ed7b,Interaction Design,competency,exact
+Interactive Data Visualization,c_interactive-data-visualization_74d954d7,Interactive Data Visualization,competency,exact
+Interactive Design,c_interactive-design_de293d63,Interactive Design,competency,exact
+Interactive Learning,c_interactive-learning_49fbdcf5,Interactive Learning,competency,exact
+Intercompany Accounting,c_intercompany-accounting_0a2100de,Intercompany Accounting,competency,exact
+Intercultural Competence,c_intercultural-competence_799e7cea,Intercultural Competence,competency,exact
+Internal Communications,c_internal-communications_2b04fd6b,Internal Communications,competency,exact
+Internal Controls,c_internal-controls_ca3a6916,Internal Controls,competency,exact
+International Finance,c_international-finance_6dc7abd4,International Finance,competency,exact
+International Financial Reporting Standards,c_international-financial-reporting-standards_9517bb01,International Financial Reporting Standards,competency,exact
+International Relations,c_international-relations_970303e2,International Relations,competency,exact
+Internet Of Things,c_internet-of-things_96478622,Internet Of Things,competency,exact
+Interoperability,c_interoperability_896aed05,Interoperability,competency,exact
+Interpersonal Communications,c_interpersonal-communications_f738e826,Interpersonal Communications,competency,exact
+Interviewing Skills,c_interviewing-skills_7cc86bf6,Interviewing Skills,competency,exact
+Intrusion Detection and Prevention,c_intrusion-detection-and-prevention_b11872cd,Intrusion Detection and Prevention,competency,exact
+Inventory Accounting,c_inventory-accounting_1f53e96b,Inventory Accounting,competency,exact
+Inventory Control,c_inventory-control_6bc6cae7,Inventory Control,competency,exact
+Inventory Control Systems,t_inventory-control-systems_34da1113,Inventory control systems,tool,exact
+Inventory Management,c_inventory-management_21a4685f,Inventory Management,competency,exact
+Inventory Management System,c_inventory-management-system_553ef383,Inventory Management System,competency,exact
+Inventory and Warehousing,c_inventory-and-warehousing_d599d632,Inventory and Warehousing,competency,exact
+Investigation,c_investigation_fa14a72d,Investigation,competency,exact
+Investment Banking,c_investment-banking_87232659,Investment Banking,competency,exact
+Investment Management,c_investment-management_276fde60,Investment Management,competency,exact
+Investments,c_investments_4a5d3ca9,Investments,competency,exact
+Invoicing,c_invoicing_8c61aa17,Invoicing,competency,exact
+Issue Tracking,c_issue-tracking_f0348b66,Issue Tracking,competency,exact
+Istio,c_istio_bb81c217,Istio,competency,exact
+JSON,c_json_f00c61b7,JSON,competency,exact
+JUnit,t_junit_9a844b69,JUnit,tool,exact
+Java,c_java_82851575,Java,competency,exact
+Java Platform Enterprise Edition (J2EE),c_java-platform-enterprise-edition-j2ee_e28082b4,Java Platform Enterprise Edition (J2EE),competency,exact
+Java Programming,c_java-programming_05f6ddd1,Java Programming,competency,exact
+JavaScript Frameworks,c_javascript-frameworks_c2cbd853,JavaScript Frameworks,competency,exact
+Javascript,t_javascript_7214c11f,JavaScript,tool,exact
+Javascript and jQuery,c_javascript-and-jquery_dbb806db,Javascript and jQuery,competency,exact
+Jenkins,c_jenkins_60fe6c8e,Jenkins,competency,exact
+Jest (JavaScript Testing Framework),c_jest-javascript-testing-framework_bd28133b,Jest (JavaScript Testing Framework),competency,exact
+Jira (Software),c_jira-software_2b438c87,Jira (Software),competency,exact
+Job Analysis,c_job-analysis_e5bc57a3,Job Analysis,competency,exact
+Job Evaluation,c_job-evaluation_0822b2c8,Job Evaluation,competency,exact
+Journalism,c_journalism_56dfa60d,Journalism,competency,exact
+Journals,c_journals_08277e3b,Journals,competency,exact
+Jupyter,c_jupyter_b26f6451,Jupyter,competency,exact
+Kaizen Methodology,c_kaizen-methodology_04533b3c,Kaizen Methodology,competency,exact
+Kanban Principles,c_kanban-principles_c03c8c1c,Kanban Principles,competency,exact
+Keras (Neural Network Library),c_keras-neural-network-library_f1f16ca1,Keras (Neural Network Library),competency,exact
+Key Management,c_key-management_dc3d103a,Key Management,competency,exact
+Key Performance Indicators (KPIs),c_key-performance-indicators-kpis_24929241,Key Performance Indicators (KPIs),competency,exact
+Kibana,c_kibana_2883cb6f,Kibana,competency,exact
+Kinesiology,c_kinesiology_231324b7,Kinesiology,competency,exact
+Knitr,c_knitr_3b5660e3,Knitr,competency,exact
+Knowledge Transfer,c_knowledge-transfer_68b0b227,Knowledge Transfer,competency,exact
+Kotlin,t_kotlin_312dc209,Kotlin,tool,exact
+Kubernetes,t_kubernetes_3421a927,Kubernetes,tool,exact
+Labor Compliance,c_labor-compliance_17ac9bb1,Labor Compliance,competency,exact
+Labor Law,c_labor-law_f9b0c894,Labor Law,competency,exact
+Labor Relations,c_labor-relations_378eca7e,Labor Relations,competency,exact
+Land Management,c_land-management_fe1dc2de,Land Management,competency,exact
+Language Interpretation,c_language-interpretation_c378a84b,Language Interpretation,competency,exact
+Law,c_law_90062b1f,Law,competency,exact
+Lead Generation,c_lead-generation_6b563a85,Lead Generation,competency,exact
+Leadership,c_leadership_2c2b9ccd,Leadership,competency,exact
+Leadership Development,c_leadership-development_27b76776,Leadership Development,competency,exact
+Leadership Studies,c_leadership-studies_26a974f4,Leadership Studies,competency,exact
+Leadership and Management,c_leadership-and-management_d913fb21,Leadership and Management,competency,exact
+Leaflet (Software),c_leaflet-software_28edf1f6,Leaflet (Software),competency,exact
+Lean Manufacturing,c_lean-manufacturing_7d7aba09,Lean Manufacturing,competency,exact
+Lean Methodologies,c_lean-methodologies_dec34e8d,Lean Methodologies,competency,exact
+Lean Six Sigma,c_lean-six-sigma_2165676e,Lean Six Sigma,competency,exact
+Learning Strategies,t_learning-strategies_e1fdca84,Learning Strategies,tool,exact
+Lease Contracts,c_lease-contracts_6bcee281,Lease Contracts,competency,exact
+Lending and Underwriting,c_lending-and-underwriting_9c3ce763,Lending and Underwriting,competency,exact
+Life Sciences,c_life-sciences_2e96a86f,Life Sciences,competency,exact
+Lifelong Learning,c_lifelong-learning_835ea7e5,Lifelong Learning,competency,exact
+Linear Algebra,c_linear-algebra_dff9b33f,Linear Algebra,competency,exact
+LinkedIn,t_linkedin_de101d83,LinkedIn,tool,exact
+Linux,t_linux_83fa5e38,Linux,tool,exact
+Linux Administration,c_linux-administration_9fdadf3a,Linux Administration,competency,exact
+Linux Commands,c_linux-commands_28401c6a,Linux Commands,competency,exact
+Linux Servers,c_linux-servers_69d8ff8e,Linux Servers,competency,exact
+Liquidation,c_liquidation_90359b8b,Liquidation,competency,exact
+Live Streaming,c_live-streaming_7d836f05,Live Streaming,competency,exact
+Load,c_load_ed994d74,Load,competency,exact
+Load Balancing,c_load-balancing_48081980,Load Balancing,competency,exact
+Loans,c_loans_e8d8f09c,Loans,competency,exact
+Local Area Networks,c_local-area-networks_525b68ff,Local Area Networks,competency,exact
+Logical Reasoning,c_logical-reasoning_8cb8fa8b,Logical Reasoning,competency,exact
+Logistics,c_logistics_79404f6a,Logistics,competency,exact
+Logistics Management,c_logistics-management_f7f5ca24,Logistics Management,competency,exact
+Logo Design,c_logo-design_b77c91e4,Logo Design,competency,exact
+Looker (Software),c_looker-software_8c11493f,Looker (Software),competency,exact
+Loyalty Programs,c_loyalty-programs_33e3d6fc,Loyalty Programs,competency,exact
+MITRE ATT&CK Framework,c_mitre-att-ck-framework_b36b4a95,MITRE ATT&CK Framework,competency,exact
+MLOps (Machine Learning Operations),c_mlops-machine-learning-operations_42823ea6,MLOps (Machine Learning Operations),competency,exact
+Mac OS,c_mac-os_e0479933,Mac OS,competency,exact
+Machine Controls,c_machine-controls_b5fe4cb3,Machine Controls,competency,exact
+Machine Learning,c_machine-learning_06d91fe4,Machine Learning,competency,exact
+Machine Learning Algorithms,c_machine-learning-algorithms_cb6dbb15,Machine Learning Algorithms,competency,exact
+Machine Learning Methods,c_machine-learning-methods_cb5af561,Machine Learning Methods,competency,exact
+Machine Learning Software,c_machine-learning-software_fddb5d17,Machine Learning Software,competency,exact
+Maintainability,c_maintainability_35179fb5,Maintainability,competency,exact
+Malware Protection,c_malware-protection_6f15867b,Malware Protection,competency,exact
+Managed Services,c_managed-services_92c07fb1,Managed Services,competency,exact
+Management Accounting,c_management-accounting_a0b68cd5,Management Accounting,competency,exact
+Management Consulting,c_management-consulting_0b5744df,Management Consulting,competency,exact
+Management Reporting,c_management-reporting_c016df71,Management Reporting,competency,exact
+Management Training And Development,c_management-training-and-development_ca183ada,Management Training And Development,competency,exact
+Manufacturing Operations,c_manufacturing-operations_c40648af,Manufacturing Operations,competency,exact
+Manufacturing Processes,c_manufacturing-processes_2d9ddc31,Manufacturing Processes,competency,exact
+Manufacturing and Production,c_manufacturing-and-production_a97085af,Manufacturing and Production,competency,exact
+MarTech,c_martech_10fb47e3,MarTech,competency,exact
+Market Analysis,c_market-analysis_a23fbfd7,Market Analysis,competency,exact
+Market Data,c_market-data_358141ba,Market Data,competency,exact
+Market Dynamics,c_market-dynamics_ff700a89,Market Dynamics,competency,exact
+Market Intelligence,c_market-intelligence_80090f57,Market Intelligence,competency,exact
+Market Liquidity,c_market-liquidity_1d1fd423,Market Liquidity,competency,exact
+Market Opportunities,c_market-opportunities_89cbbaed,Market Opportunities,competency,exact
+Market Research,c_market-research_702ff79c,Market Research,competency,exact
+Market Trend,c_market-trend_4e3f7485,Market Trend,competency,exact
+Marketing,c_marketing_4b03e864,Marketing,competency,exact
+Marketing Analytics,c_marketing-analytics_8a319911,Marketing Analytics,competency,exact
+Marketing Automation,c_marketing-automation_b5b6dd4d,Marketing Automation,competency,exact
+Marketing Channel,c_marketing-channel_8b95e882,Marketing Channel,competency,exact
+Marketing Collateral,c_marketing-collateral_67ae3092,Marketing Collateral,competency,exact
+Marketing Communications,c_marketing-communications_dabbc6ac,Marketing Communications,competency,exact
+Marketing Design,c_marketing-design_b5199f1d,Marketing Design,competency,exact
+Marketing Effectiveness,c_marketing-effectiveness_2ee69c0b,Marketing Effectiveness,competency,exact
+Marketing Management,c_marketing-management_9949364a,Marketing Management,competency,exact
+Marketing Materials,c_marketing-materials_772373b4,Marketing Materials,competency,exact
+Marketing Operations,c_marketing-operations_9c843a5f,Marketing Operations,competency,exact
+Marketing Planning,c_marketing-planning_3e560145,Marketing Planning,competency,exact
+Marketing Psychology,c_marketing-psychology_6b9378ad,Marketing Psychology,competency,exact
+Marketing Strategies,c_marketing-strategies_fae6053a,Marketing Strategies,competency,exact
+Marketing Strategy and Techniques,c_marketing-strategy-and-techniques_3ea31b6f,Marketing Strategy and Techniques,competency,exact
+Marketing and Public Relations,c_marketing-and-public-relations_1f8ca01d,Marketing and Public Relations,competency,exact
+Markov Model,c_markov-model_03228b49,Markov Model,competency,exact
+Material Handling,c_material-handling_e4991383,Material Handling,competency,exact
+Materials Management,c_materials-management_190fe2ed,Materials Management,competency,exact
+Mathematical Modeling,c_mathematical-modeling_ddbf87d0,Mathematical Modeling,competency,exact
+Mathematical Software,t_mathematical-software_130f9b2f,Mathematical software,tool,exact
+Mathematical Theory & Analysis,c_mathematical-theory-analysis_add05a29,Mathematical Theory & Analysis,competency,exact
+Mathematics and Mathematical Modeling,c_mathematics-and-mathematical-modeling_51281f01,Mathematics and Mathematical Modeling,competency,exact
+Matlab,c_matlab_8db98067,Matlab,competency,exact
+Matplotlib,c_matplotlib_fdbb815b,Matplotlib,competency,exact
+Matrix Management,c_matrix-management_082f2d44,Matrix Management,competency,exact
+Mechanical Design,c_mechanical-design_e152ce15,Mechanical Design,competency,exact
+Mechanical Engineering,c_mechanical-engineering_3ccb2da5,Mechanical Engineering,competency,exact
+Mechanics,c_mechanics_bb6b736d,Mechanics,competency,exact
+Media Buying,c_media-buying_9e6a2621,Media Buying,competency,exact
+Media Planning,c_media-planning_d17fc675,Media Planning,competency,exact
+Media Production,c_media-production_d7675e67,Media Production,competency,exact
+Media Relations,c_media-relations_3bf2894f,Media Relations,competency,exact
+Media Strategy,c_media-strategy_f713b1cb,Media Strategy,competency,exact
+Media and Communications,c_media-and-communications_90e3cc81,Media and Communications,competency,exact
+Medical Records,c_medical-records_17dab519,Medical Records,competency,exact
+Medical Science and Research,c_medical-science-and-research_1a8d0081,Medical Science and Research,competency,exact
+Medical Terminology,c_medical-terminology_5f12a287,Medical Terminology,competency,exact
+Medicare,c_medicare_190607b7,Medicare,competency,exact
+Meeting Facilitation,c_meeting-facilitation_ead4c7d2,Meeting Facilitation,competency,exact
+Mental Health,c_mental-health_568311a4,Mental Health,competency,exact
+Mentorship,c_mentorship_5d5ce66a,Mentorship,competency,exact
+Merchandising,c_merchandising_3e4a3784,Merchandising,competency,exact
+Mergers & Acquisitions,c_mergers-acquisitions_b7fb4e05,Mergers & Acquisitions,competency,exact
+Metadata Management,c_metadata-management_a71fdf5e,Metadata Management,competency,exact
+MicroStrategy,t_microstrategy_3cbb5b6e,MicroStrategy,tool,exact
+Microarchitecture,c_microarchitecture_25ed4bc8,Microarchitecture,competency,exact
+Microservices,c_microservices_d080c4f7,Microservices,competency,exact
+Microsoft 365,c_microsoft-365_b986008e,Microsoft 365,competency,exact
+Microsoft Azure,c_microsoft-azure_25a70a6c,Microsoft Azure,competency,exact
+Microsoft Development Tools,c_microsoft-development-tools_20448912,Microsoft Development Tools,competency,exact
+Microsoft Excel,t_microsoft-excel_c119228b,Microsoft Excel,tool,exact
+Microsoft Outlook,t_microsoft-outlook_0e0510c4,Microsoft Outlook,tool,exact
+Microsoft Power Automate/Flow,c_microsoft-power-automate-flow_12fa9093,Microsoft Power Automate/Flow,competency,exact
+Microsoft Power Platform,c_microsoft-power-platform_6887e82b,Microsoft Power Platform,competency,exact
+Microsoft PowerPoint,t_microsoft-powerpoint_a1289140,Microsoft PowerPoint,tool,exact
+Microsoft SQL Servers,c_microsoft-sql-servers_558715a5,Microsoft SQL Servers,competency,exact
+Microsoft Teams,t_microsoft-teams_fb12aa81,Microsoft Teams,tool,exact
+Microsoft Visio,t_microsoft-visio_6d529883,Microsoft Visio,tool,exact
+Microsoft Visual Studio,t_microsoft-visual-studio_930a4f8c,Microsoft Visual Studio,tool,exact
+Microsoft Windows,t_microsoft-windows_15b54224,Microsoft Windows,tool,exact
+Microsoft Word,t_microsoft-word_8b7a43f6,Microsoft Word,tool,exact
+Milestones (Project Management),c_milestones-project-management_c40cc117,Milestones (Project Management),competency,exact
+Minitab,t_minitab_b377d7dd,Minitab,tool,exact
+Mitigation,c_mitigation_d1e55705,Mitigation,competency,exact
+Mobile Banking,c_mobile-banking_54745c2c,Mobile Banking,competency,exact
+Mobile Development,c_mobile-development_aa8e28b2,Mobile Development,competency,exact
+Mobile Development Tools,c_mobile-development-tools_1a95f548,Mobile Development Tools,competency,exact
+Mobile Security,c_mobile-security_bf29ece0,Mobile Security,competency,exact
+Mockups,c_mockups_0f3d45ea,Mockups,competency,exact
+Model View Controller,c_model-view-controller_9f1c8b9e,Model View Controller,competency,exact
+MongoDB,t_mongodb_2097fd77,MongoDB,tool,exact
+Month End Closing,c_month-end-closing_e73b918e,Month End Closing,competency,exact
+Mortgage Loans,c_mortgage-loans_19d2fe9d,Mortgage Loans,competency,exact
+Motivational Skills,c_motivational-skills_de169fd8,Motivational Skills,competency,exact
+Multi-Cloud,c_multi-cloud_ace67754,Multi-Cloud,competency,exact
+Multi-Factor Authentication,c_multi-factor-authentication_7acf4f81,Multi-Factor Authentication,competency,exact
+Multimedia,c_multimedia_6a322f92,Multimedia,competency,exact
+Multitasking,c_multitasking_7c0a959b,Multitasking,competency,exact
+MySQL,t_mysql_1bcb56c6,MySQL,tool,exact
+MySQL Workbench,c_mysql-workbench_d5fbd05f,MySQL Workbench,competency,exact
+NIST 800-53,c_nist-800-53_fcf3555d,NIST 800-53,competency,exact
+Natural Language Processing,c_natural-language-processing_aa197e9b,Natural Language Processing,competency,exact
+Natural Resource Management,c_natural-resource-management_96713023,Natural Resource Management,competency,exact
+Needs Assessment,c_needs-assessment_71a0dd9d,Needs Assessment,competency,exact
+Negotiation,c_negotiation_3b56343a,Negotiation,competency,exact
+Network Administration,c_network-administration_417a392f,Network Administration,competency,exact
+Network Analysis,c_network-analysis_505f9e71,Network Analysis,competency,exact
+Network Architecture,c_network-architecture_4c981b44,Network Architecture,competency,exact
+Network Infrastructure,c_network-infrastructure_0cd3d87d,Network Infrastructure,competency,exact
+Network Model,c_network-model_e4c3244d,Network Model,competency,exact
+Network Monitoring,c_network-monitoring_9f6dd00e,Network Monitoring,competency,exact
+Network Performance Management,c_network-performance-management_ecbd6679,Network Performance Management,competency,exact
+Network Planning And Design,c_network-planning-and-design_c376f5eb,Network Planning And Design,competency,exact
+Network Protocols,c_network-protocols_2f625123,Network Protocols,competency,exact
+Network Routers,c_network-routers_61098684,Network Routers,competency,exact
+Network Routing,c_network-routing_9643fe10,Network Routing,competency,exact
+Network Security,c_network-security_d70e9334,Network Security,competency,exact
+Network Switches,c_network-switches_6c5f5baf,Network Switches,competency,exact
+Network Troubleshooting,c_network-troubleshooting_f52a2568,Network Troubleshooting,competency,exact
+Networking Hardware,c_networking-hardware_14d29663,Networking Hardware,competency,exact
+New Business Development,c_new-business-development_e8cb7bb5,New Business Development,competency,exact
+New Hire Orientations,c_new-hire-orientations_6c2a0749,New Hire Orientations,competency,exact
+New Product Development,c_new-product-development_ae341ddd,New Product Development,competency,exact
+Newsletters,c_newsletters_8920b0c1,Newsletters,competency,exact
+NoSQL,t_nosql_32651d68,NoSQL,tool,exact
+Node.JS,t_node-js_249c6c84,Node.js,tool,exact
+Non-Profit Accounting,c_non-profit-accounting_f845d586,Non-Profit Accounting,competency,exact
+Non-Verbal Communication,c_non-verbal-communication_e071b05b,Non-Verbal Communication,competency,exact
+NumPy,t_numpy_ea70243f,NumPy,tool,exact
+Numerical Analysis,c_numerical-analysis_df1b7523,Numerical Analysis,competency,exact
+Nursing,c_nursing_86a322b8,Nursing,competency,exact
+OAuth,c_oauth_a17abeae,OAuth,competency,exact
+OS Process Management,c_os-process-management_8adf2b46,OS Process Management,competency,exact
+OSI Models,c_osi-models_637433f2,OSI Models,competency,exact
+Object Oriented Design,c_object-oriented-design_cde09293,Object Oriented Design,competency,exact
+Object Oriented Programming (OOP),c_object-oriented-programming-oop_5b03145e,Object Oriented Programming (OOP),competency,exact
+Object-Relational Mapping,c_object-relational-mapping_bf58bd89,Object-Relational Mapping,competency,exact
+Objective-C (Programming Language),c_objective-c-programming-language_e10b4c53,Objective-C (Programming Language),competency,exact
+Occupational Safety And Health,c_occupational-safety-and-health_c5ae0ccd,Occupational Safety And Health,competency,exact
+Office Management,c_office-management_3793e2e4,Office Management,competency,exact
+Office Procedures,c_office-procedures_73d52100,Office Procedures,competency,exact
+On-The-Job Training,c_on-the-job-training_3c5a67c0,On-The-Job Training,competency,exact
+Open Mindset,c_open-mindset_e44cead5,Open Mindset,competency,exact
+Open Source Technology,c_open-source-technology_8a3aa755,Open Source Technology,competency,exact
+Open Web Application Security Project (OWASP),c_open-web-application-security-project-owasp_6892269f,Open Web Application Security Project (OWASP),competency,exact
+OpenAI,c_openai_726fbf70,OpenAI,competency,exact
+OpenShift,c_openshift_68ba20e6,OpenShift,competency,exact
+Operating Budget,c_operating-budget_8978d39d,Operating Budget,competency,exact
+Operating Cost,c_operating-cost_59dd341f,Operating Cost,competency,exact
+Operating Expense,c_operating-expense_f92478bb,Operating Expense,competency,exact
+Operating Systems,c_operating-systems_88fba94f,Operating Systems,competency,exact
+Operational Analysis,c_operational-analysis_cde2424f,Operational Analysis,competency,exact
+Operational Databases,t_operational-databases_8de5c3aa,Operational databases,tool,exact
+Operational Efficiency,c_operational-efficiency_31860d62,Operational Efficiency,competency,exact
+Operational Excellence,c_operational-excellence_e65c62a3,Operational Excellence,competency,exact
+Operational Performance Management,c_operational-performance-management_255a3f07,Operational Performance Management,competency,exact
+Operational Risk,c_operational-risk_2ee21903,Operational Risk,competency,exact
+Operations Management,c_operations-management_6fd24669,Operations Management,competency,exact
+Operations Research,c_operations-research_50cf73cb,Operations Research,competency,exact
+Optimism,c_optimism_73b9bd2f,Optimism,competency,exact
+Oracle Cloud,c_oracle-cloud_d6b7bc45,Oracle Cloud,competency,exact
+Oracle Databases,c_oracle-databases_8ed90d5c,Oracle Databases,competency,exact
+Order Delivery,c_order-delivery_730077c9,Order Delivery,competency,exact
+Order Fulfillment,c_order-fulfillment_189791ce,Order Fulfillment,competency,exact
+Order Management,c_order-management_a6a754cf,Order Management,competency,exact
+Order Processing,c_order-processing_f50dd217,Order Processing,competency,exact
+Organizational Change,c_organizational-change_9748d877,Organizational Change,competency,exact
+Organizational Development,c_organizational-development_ec8409ae,Organizational Development,competency,exact
+Organizational Effectiveness,c_organizational-effectiveness_2a1abf27,Organizational Effectiveness,competency,exact
+Organizational Leadership,c_organizational-leadership_2e14d55e,Organizational Leadership,competency,exact
+Organizational Skills,c_organizational-skills_502f7098,Organizational Skills,competency,exact
+Organizational Strategy,c_organizational-strategy_e706644d,Organizational Strategy,competency,exact
+Organizational Structure,c_organizational-structure_bed6e5f8,Organizational Structure,competency,exact
+Other Programming Languages,c_other-programming-languages_35f7df67,Other Programming Languages,competency,exact
+Outbound Calls,c_outbound-calls_1220fc5d,Outbound Calls,competency,exact
+Overcoming Objections,c_overcoming-objections_c696d618,Overcoming Objections,competency,exact
+Overcoming Obstacles,c_overcoming-obstacles_87ca7227,Overcoming Obstacles,competency,exact
+PHP (Scripting Language),c_php-scripting-language_50e9a30f,PHP (Scripting Language),competency,exact
+Package and Software Management,c_package-and-software-management_73fb60db,Package and Software Management,competency,exact
+Packaging and Labeling,c_packaging-and-labeling_2432defc,Packaging and Labeling,competency,exact
+Pandas (Python Package),c_pandas-python-package_cbd8cdc1,Pandas (Python Package),competency,exact
+Pareto Chart,c_pareto-chart_42a7c196,Pareto Chart,competency,exact
+Partnership Accounting,c_partnership-accounting_95b23d61,Partnership Accounting,competency,exact
+Patch Management,c_patch-management_f83e3e4e,Patch Management,competency,exact
+Patient Education and Support,c_patient-education-and-support_61d94142,Patient Education and Support,competency,exact
+Patient Flow,c_patient-flow_06b05c4b,Patient Flow,competency,exact
+Patient Safety,c_patient-safety_4fa774f7,Patient Safety,competency,exact
+Patient Treatment,c_patient-treatment_4f8bc87f,Patient Treatment,competency,exact
+Payment Card Industry (PCI) Data Security Standards,c_payment-card-industry-pci-data-security-standard_4039caec,Payment Card Industry (PCI) Data Security Standards,competency,exact
+Payment Processing,c_payment-processing_28d55177,Payment Processing,competency,exact
+Payment Processing and Collection,c_payment-processing-and-collection_e9ef3aaf,Payment Processing and Collection,competency,exact
+Payment Systems,c_payment-systems_278d4e17,Payment Systems,competency,exact
+Payroll,c_payroll_aaa33605,Payroll,competency,exact
+Payroll Administration,c_payroll-administration_73cbab28,Payroll Administration,competency,exact
+Payroll Processing,c_payroll-processing_bf9acbdd,Payroll Processing,competency,exact
+Payroll Reporting,c_payroll-reporting_00f36404,Payroll Reporting,competency,exact
+Payroll Systems,c_payroll-systems_5d92c83b,Payroll Systems,competency,exact
+Payroll Tax,c_payroll-tax_723a334c,Payroll Tax,competency,exact
+Peer Review,c_peer-review_2557b2c3,Peer Review,competency,exact
+Penetration Testing,c_penetration-testing_ed90f9cf,Penetration Testing,competency,exact
+People Analytics,c_people-analytics_60bb2d39,People Analytics,competency,exact
+People Development,c_people-development_29f719ef,People Development,competency,exact
+People Management,c_people-management_0fde13ef,People Management,competency,exact
+Performance Analysis,c_performance-analysis_88c9fa0e,Performance Analysis,competency,exact
+Performance Appraisal,c_performance-appraisal_1a8eb8a2,Performance Appraisal,competency,exact
+Performance Improvement,c_performance-improvement_8a92ea47,Performance Improvement,competency,exact
+Performance Management,c_performance-management_302e9177,Performance Management,competency,exact
+Performance Measurement,c_performance-measurement_38728cbe,Performance Measurement,competency,exact
+Performance Metric,c_performance-metric_b41c1408,Performance Metric,competency,exact
+Performance Reporting,c_performance-reporting_ebfb352a,Performance Reporting,competency,exact
+Performance Review,c_performance-review_3802245e,Performance Review,competency,exact
+Performance Testing,c_performance-testing_3c02aa33,Performance Testing,competency,exact
+Performance Tuning,c_performance-tuning_0eb8e4c1,Performance Tuning,competency,exact
+Peripheral Devices,c_peripheral-devices_de5293e3,Peripheral Devices,competency,exact
+Perl (Programming Language),c_perl-programming-language_d26c2f5e,Perl (Programming Language),competency,exact
+Persistence,c_persistence_aef42606,Persistence,competency,exact
+Persona (User Experience),c_persona-user-experience_1ef7e8ce,Persona (User Experience),competency,exact
+Persona Development,c_persona-development_59df7374,Persona Development,competency,exact
+Personal Attributes,c_personal-attributes_0741b7c9,Personal Attributes,competency,exact
+Personal Care,c_personal-care_89bd5af1,Personal Care,competency,exact
+Personal Development,c_personal-development_a3b91e67,Personal Development,competency,exact
+Personal Integrity,c_personal-integrity_84422b3e,Personal Integrity,competency,exact
+Personalized Service,c_personalized-service_805700d2,Personalized Service,competency,exact
+Personally Identifiable Information,c_personally-identifiable-information_c1225e2b,Personally Identifiable Information,competency,exact
+Persuasive Communication,c_persuasive-communication_d02a8051,Persuasive Communication,competency,exact
+Pharmaceuticals,c_pharmaceuticals_d8580173,Pharmaceuticals,competency,exact
+Philanthropy,c_philanthropy_e12a023f,Philanthropy,competency,exact
+Phone Sales,c_phone-sales_56cf8df4,Phone Sales,competency,exact
+Physical Therapy,c_physical-therapy_bd66936d,Physical Therapy,competency,exact
+Physics,t_physics_88c6582f,Physics,tool,exact
+Pivot Tables And Charts,c_pivot-tables-and-charts_d31b218b,Pivot Tables And Charts,competency,exact
+Plan Execution,c_plan-execution_f3ea9d00,Plan Execution,competency,exact
+Planning,c_planning_b676ac04,Planning,competency,exact
+Platform As A Service (PaaS),c_platform-as-a-service-paas_f21cc4a8,Platform As A Service (PaaS),competency,exact
+Plot (Graphics),c_plot-graphics_62f25a5b,Plot (Graphics),competency,exact
+Plotly,c_plotly_16becf60,Plotly,competency,exact
+Point of Sale,c_point-of-sale_f7c78b47,Point of Sale,competency,exact
+Policty Analysis,c_policty-analysis_04b42946,Policty Analysis,competency,exact
+Policy,c_policy_a6b73d8f,Policy,competency,exact
+Policy Analysis,c_policy-analysis_cbc76d3e,Policy Analysis,competency,exact
+Policy Development,c_policy-development_b8dd680b,Policy Development,competency,exact
+Political Sciences,c_political-sciences_45b2a58e,Political Sciences,competency,exact
+Pollution Prevention,c_pollution-prevention_b661ae0f,Pollution Prevention,competency,exact
+Portfolio Management,c_portfolio-management_a9035584,Portfolio Management,competency,exact
+Positive Behavior Support,c_positive-behavior-support_07b3e9f9,Positive Behavior Support,competency,exact
+Positivity,c_positivity_122ea5d6,Positivity,competency,exact
+Post-Production,c_post-production_23157ea0,Post-Production,competency,exact
+PostgreSQL,t_postgresql_6d905c4e,PostgreSQL,tool,exact
+Postman API Platform,c_postman-api-platform_235ce213,Postman API Platform,competency,exact
+Power BI,c_power-bi_6ec5f9ce,Power BI,competency,exact
+Predictive Analytics,c_predictive-analytics_69803553,Predictive Analytics,competency,exact
+Predictive Modeling,c_predictive-modeling_8b78804c,Predictive Modeling,competency,exact
+Presentations,c_presentations_522ab64e,Presentations,competency,exact
+Press Releases,c_press-releases_02b66246,Press Releases,competency,exact
+Price Negotiation,c_price-negotiation_21a80f77,Price Negotiation,competency,exact
+Prioritization,c_prioritization_a8002338,Prioritization,competency,exact
+Private Equity,c_private-equity_e08786a1,Private Equity,competency,exact
+Proactivity,c_proactivity_497a29f2,Proactivity,competency,exact
+Probability,c_probability_9337e340,Probability,competency,exact
+Probability & Statistics,c_probability-statistics_200918b0,Probability & Statistics,competency,exact
+Probability Distribution,c_probability-distribution_2ed4d706,Probability Distribution,competency,exact
+Problem Management,c_problem-management_7cafca1f,Problem Management,competency,exact
+Problem Solving,c_problem-solving_47322fb9,Problem Solving,competency,exact
+Procedure Development,c_procedure-development_b2d11fa0,Procedure Development,competency,exact
+Process Analysis,c_process-analysis_6cb2fdfe,Process Analysis,competency,exact
+Process Capability,c_process-capability_fec82db7,Process Capability,competency,exact
+Process Control,c_process-control_92990b4e,Process Control,competency,exact
+Process Design,c_process-design_627502c5,Process Design,competency,exact
+Process Development,c_process-development_1b9b5800,Process Development,competency,exact
+Process Driven Development,c_process-driven-development_ad533c94,Process Driven Development,competency,exact
+Process Flow Diagrams,c_process-flow-diagrams_ff952511,Process Flow Diagrams,competency,exact
+Process Improvement,c_process-improvement_5f3894b8,Process Improvement,competency,exact
+Process Improvement and Optimization,c_process-improvement-and-optimization_cc52af28,Process Improvement and Optimization,competency,exact
+Process Management,c_process-management_0814c1cb,Process Management,competency,exact
+Process Mapping,c_process-mapping_c7915f19,Process Mapping,competency,exact
+Process Optimization,c_process-optimization_2a9c4999,Process Optimization,competency,exact
+Process Validation,c_process-validation_541903c2,Process Validation,competency,exact
+Procurement,c_procurement_1db45eb9,Procurement,competency,exact
+Product,c_product_89a1af72,Product,competency,exact
+Product Assortment,c_product-assortment_93fbeb7c,Product Assortment,competency,exact
+Product Demonstration,c_product-demonstration_bcecbeb1,Product Demonstration,competency,exact
+Product Design,c_product-design_41493435,Product Design,competency,exact
+Product Development,c_product-development_796d54d0,Product Development,competency,exact
+Product Improvement,c_product-improvement_30a1f523,Product Improvement,competency,exact
+Product Knowledge,c_product-knowledge_46b582a1,Product Knowledge,competency,exact
+Product Lifecycle Management,c_product-lifecycle-management_c5dca532,Product Lifecycle Management,competency,exact
+Product Management,c_product-management_2e1c6cbf,Product Management,competency,exact
+Product Marketing,c_product-marketing_7fd9533e,Product Marketing,competency,exact
+Product Planning,c_product-planning_834c54df,Product Planning,competency,exact
+Product Promotion,c_product-promotion_953ea507,Product Promotion,competency,exact
+Product Quality (QA/QC),c_product-quality-qa-qc_3263ae36,Product Quality (QA/QC),competency,exact
+Product Requirements,c_product-requirements_27a3f949,Product Requirements,competency,exact
+Product Roadmaps,c_product-roadmaps_856f092e,Product Roadmaps,competency,exact
+Product Strategy,c_product-strategy_5768c654,Product Strategy,competency,exact
+Product Support,c_product-support_01ceffbe,Product Support,competency,exact
+Product Testing,c_product-testing_df6aaaf8,Product Testing,competency,exact
+Production Management,c_production-management_2fbb654e,Production Management,competency,exact
+Production Planning,c_production-planning_85d8f569,Production Planning,competency,exact
+Production Process,c_production-process_5ab78d4b,Production Process,competency,exact
+Production Schedule,c_production-schedule_c295803a,Production Schedule,competency,exact
+Productivity Software,t_productivity-software_92f720ba,Productivity software,tool,exact
+Professional Development,c_professional-development_6c99c440,Professional Development,competency,exact
+Professional Networking,c_professional-networking_7774d0bd,Professional Networking,competency,exact
+Professionalism,c_professionalism_b41ff4af,Professionalism,competency,exact
+Profit and Loss (P&L) Management,c_profit-and-loss-p-l-management_72c0eb4d,Profit and Loss (P&L) Management,competency,exact
+Program Development,c_program-development_2da075e1,Program Development,competency,exact
+Program Evaluation,c_program-evaluation_c1195892,Program Evaluation,competency,exact
+Program Implementation,c_program-implementation_8f65639e,Program Implementation,competency,exact
+Program Management,c_program-management_89b4e41e,Program Management,competency,exact
+Programming Principles,c_programming-principles_512eea80,Programming Principles,competency,exact
+Project Closure,c_project-closure_023d5222,Project Closure,competency,exact
+Project Controls,c_project-controls_767992f1,Project Controls,competency,exact
+Project Coordination,c_project-coordination_1d4ee44c,Project Coordination,competency,exact
+Project Design,c_project-design_ed41cef4,Project Design,competency,exact
+Project Documentation,c_project-documentation_5674f79b,Project Documentation,competency,exact
+Project Estimation,c_project-estimation_2818cb61,Project Estimation,competency,exact
+Project Finance,c_project-finance_592dfb86,Project Finance,competency,exact
+Project Implementation,c_project-implementation_ad1cada5,Project Implementation,competency,exact
+Project Management,c_project-management_abdd23c4,Project Management,competency,exact
+Project Management Institute (PMI) Methodology,c_project-management-institute-pmi-methodology_b8a7ef21,Project Management Institute (PMI) Methodology,competency,exact
+Project Management Life Cycle,c_project-management-life-cycle_1b2e029d,Project Management Life Cycle,competency,exact
+Project Management Office (PMO),c_project-management-office-pmo_8c3fa09d,Project Management Office (PMO),competency,exact
+Project Management Software,c_project-management-software_19839def,Project Management Software,competency,exact
+Project Performance,c_project-performance_fc7b77f0,Project Performance,competency,exact
+Project Planning,c_project-planning_49911be1,Project Planning,competency,exact
+Project Portfolio Management,c_project-portfolio-management_b4737571,Project Portfolio Management,competency,exact
+Project Risk Management,c_project-risk-management_5c21448a,Project Risk Management,competency,exact
+Project Schedules,c_project-schedules_69eb8432,Project Schedules,competency,exact
+Project Scoping,c_project-scoping_1792cae2,Project Scoping,competency,exact
+Prometheus (Software),c_prometheus-software_a3d6e562,Prometheus (Software),competency,exact
+Promotional Materials,c_promotional-materials_45368b7b,Promotional Materials,competency,exact
+Promotional Strategies,c_promotional-strategies_5978263d,Promotional Strategies,competency,exact
+Promotions and Campaigns,c_promotions-and-campaigns_a0b44987,Promotions and Campaigns,competency,exact
+Proofreading,c_proofreading_37ab2a04,Proofreading,competency,exact
+Property Accounting,c_property-accounting_768b755d,Property Accounting,competency,exact
+Property Management,c_property-management_f43ee8fd,Property Management,competency,exact
+Property Management Systems,c_property-management-systems_3517a0b1,Property Management Systems,competency,exact
+Property and Real Estate,c_property-and-real-estate_6409b337,Property and Real Estate,competency,exact
+Proposal Development,c_proposal-development_684ab1b6,Proposal Development,competency,exact
+Proposal Writing,c_proposal-writing_4ef144d1,Proposal Writing,competency,exact
+Prospecting and Qualification,c_prospecting-and-qualification_57e9484e,Prospecting and Qualification,competency,exact
+Prototyping,c_prototyping_48b3881b,Prototyping,competency,exact
+Proxy Servers,c_proxy-servers_15bcc38f,Proxy Servers,competency,exact
+Pseudocode,c_pseudocode_34409264,Pseudocode,competency,exact
+Psychology,t_psychology_8c609ec2,Psychology,tool,exact
+Public Accounting,c_public-accounting_575c9932,Public Accounting,competency,exact
+Public Administration,c_public-administration_1e57ab92,Public Administration,competency,exact
+Public Affairs,c_public-affairs_b6733113,Public Affairs,competency,exact
+Public Key Cryptography Standards (PKCS),c_public-key-cryptography-standards-pkcs_dc381cb6,Public Key Cryptography Standards (PKCS),competency,exact
+Public Key Infrastructure,c_public-key-infrastructure_1bbc6f47,Public Key Infrastructure,competency,exact
+Public Policies,c_public-policies_a3b32552,Public Policies,competency,exact
+Public Relations,c_public-relations_feb29ffc,Public Relations,competency,exact
+Public Safety and National Security,c_public-safety-and-national-security_582e9d82,Public Safety and National Security,competency,exact
+Public Speaking,c_public-speaking_9fa6b92b,Public Speaking,competency,exact
+Public Works,c_public-works_8a1ae6d4,Public Works,competency,exact
+Purchasing,c_purchasing_3075b0df,Purchasing,competency,exact
+PySpark,t_pyspark_ef2280cc,PySpark,tool,exact
+PyTorch (Machine Learning Library),c_pytorch-machine-learning-library_15dd7976,PyTorch (Machine Learning Library),competency,exact
+Python Programming,c_python-programming_7fc6f20d,Python Programming,competency,exact
+Qualitative Research,c_qualitative-research_988f0c59,Qualitative Research,competency,exact
+Quality Assessment,c_quality-assessment_3127ad5c,Quality Assessment,competency,exact
+Quality Assurance,c_quality-assurance_6007baf2,Quality Assurance,competency,exact
+Quality Assurance and Control,c_quality-assurance-and-control_96b9f462,Quality Assurance and Control,competency,exact
+Quality Control,c_quality-control_85d7e6e1,Quality Control,competency,exact
+Quality Improvement,c_quality-improvement_6a652b86,Quality Improvement,competency,exact
+Quality Management,c_quality-management_afe2c42c,Quality Management,competency,exact
+Quality Management Systems,c_quality-management-systems_6aa68059,Quality Management Systems,competency,exact
+Quality Monitoring,c_quality-monitoring_8890e6e6,Quality Monitoring,competency,exact
+Quantitative Research,c_quantitative-research_287140f3,Quantitative Research,competency,exact
+Query Languages,c_query-languages_06a87d1f,Query Languages,competency,exact
+QuickBooks (Accounting Software),c_quickbooks-accounting-software_d8fe2e3f,QuickBooks (Accounting Software),competency,exact
+R Programming,c_r-programming_ff1e6e55,R Programming,competency,exact
+Radiology,c_radiology_2e750ffd,Radiology,competency,exact
+Random Forest Algorithm,c_random-forest-algorithm_50a45e3b,Random Forest Algorithm,competency,exact
+Rapport Building,c_rapport-building_beaaed84,Rapport Building,competency,exact
+React Native,t_react-native_5dcc194d,React Native,tool,exact
+React Redux,t_react-redux_4cd816c0,React Redux,tool,exact
+React.js,c_react-js_c55e53ee,React.js,competency,exact
+Real Estate,c_real-estate_2152bcf2,Real Estate,competency,exact
+Real Estate Sales,c_real-estate-sales_7f92149a,Real Estate Sales,competency,exact
+Real Estate Transactions,c_real-estate-transactions_3cd16803,Real Estate Transactions,competency,exact
+Real Time Data,c_real-time-data_8e4e7fc4,Real Time Data,competency,exact
+Reconciliation,c_reconciliation_2ff6cd07,Reconciliation,competency,exact
+Record Keeping,c_record-keeping_b3ae63d6,Record Keeping,competency,exact
+Records Management,c_records-management_9a8de0e2,Records Management,competency,exact
+Recruitment,c_recruitment_6d03115c,Recruitment,competency,exact
+Recruitment Strategies,c_recruitment-strategies_1d2a7cf6,Recruitment Strategies,competency,exact
+Redis,t_redis_fda123b5,Redis,tool,exact
+Regional Sales,c_regional-sales_467af664,Regional Sales,competency,exact
+Regression Analysis,c_regression-analysis_7c4274c5,Regression Analysis,competency,exact
+Regression Testing,c_regression-testing_f8d852c5,Regression Testing,competency,exact
+Regulation,c_regulation_c4edab5f,Regulation,competency,exact
+Regulation and Legal Compliance,c_regulation-and-legal-compliance_5de32ff9,Regulation and Legal Compliance,competency,exact
+Regulatory Affairs,c_regulatory-affairs_2691cbfd,Regulatory Affairs,competency,exact
+Regulatory Compliance,c_regulatory-compliance_1b1345ed,Regulatory Compliance,competency,exact
+Regulatory Requirements,c_regulatory-requirements_d0f8bd87,Regulatory Requirements,competency,exact
+Reinforcement Learning,c_reinforcement-learning_14bf9e50,Reinforcement Learning,competency,exact
+Relational Databases,c_relational-databases_d530aae4,Relational Databases,competency,exact
+Relationship Building,c_relationship-building_7615ea9f,Relationship Building,competency,exact
+Relationship Management,c_relationship-management_45d18249,Relationship Management,competency,exact
+Release Management,c_release-management_ac86f85a,Release Management,competency,exact
+Remote Access Systems,c_remote-access-systems_17f093b4,Remote Access Systems,competency,exact
+Report Writing,c_report-writing_58b622d9,Report Writing,competency,exact
+Request For Quotation (RFQ),c_request-for-quotation-rfq_82480c4c,Request For Quotation (RFQ),competency,exact
+Request for Proposal,c_request-for-proposal_c65cd3ed,Request for Proposal,competency,exact
+Requirements Analysis,c_requirements-analysis_bd614a33,Requirements Analysis,competency,exact
+Requirements Elicitation,c_requirements-elicitation_79050761,Requirements Elicitation,competency,exact
+Requirements Management,c_requirements-management_97ca5996,Requirements Management,competency,exact
+Research,c_research_0a7777e0,Research,competency,exact
+Research Design,c_research-design_b0e53abd,Research Design,competency,exact
+Research Methodologies,c_research-methodologies_4dc08602,Research Methodologies,competency,exact
+Research Reports,c_research-reports_00fc4edb,Research Reports,competency,exact
+Research and Design,c_research-and-design_48818c77,Research and Design,competency,exact
+Resilience,c_resilience_ffaa0f6f,Resilience,competency,exact
+Resource Allocation,c_resource-allocation_f22d6b44,Resource Allocation,competency,exact
+Resource Management,c_resource-management_d77d6bfa,Resource Management,competency,exact
+Resource Planning,c_resource-planning_fa254c86,Resource Planning,competency,exact
+Resource Utilization,c_resource-utilization_f3808116,Resource Utilization,competency,exact
+Resourcefulness,c_resourcefulness_98960e71,Resourcefulness,competency,exact
+Responsive Web Design,c_responsive-web-design_fb92528c,Responsive Web Design,competency,exact
+Restaurant Management,c_restaurant-management_d8399641,Restaurant Management,competency,exact
+Restaurant Operation,c_restaurant-operation_500aa70a,Restaurant Operation,competency,exact
+Restful API,t_restful-api_2bd12d1e,RESTful API,tool,exact
+Retail Banking,c_retail-banking_b8403606,Retail Banking,competency,exact
+Retail Management,c_retail-management_973d44d3,Retail Management,competency,exact
+Retail Sales,c_retail-sales_7b42a626,Retail Sales,competency,exact
+Retail Store Operations,c_retail-store-operations_5f15e836,Retail Store Operations,competency,exact
+Return On Investment,c_return-on-investment_85bed750,Return On Investment,competency,exact
+Revenue Forecasting,c_revenue-forecasting_149699a2,Revenue Forecasting,competency,exact
+Revenue Management,c_revenue-management_237e5eae,Revenue Management,competency,exact
+Revenue Recognition,c_revenue-recognition_908ceb1d,Revenue Recognition,competency,exact
+Reverse Logistics,c_reverse-logistics_71e4f959,Reverse Logistics,competency,exact
+Risk Analysis,c_risk-analysis_9d5f3f89,Risk Analysis,competency,exact
+Risk Appetite,c_risk-appetite_a3391ae0,Risk Appetite,competency,exact
+Risk Control,c_risk-control_ca695b4d,Risk Control,competency,exact
+Risk Management,c_risk-management_8d0591c1,Risk Management,competency,exact
+Risk Management Framework,c_risk-management-framework_76bad62e,Risk Management Framework,competency,exact
+Risk Mitigation,c_risk-mitigation_b7770c4d,Risk Mitigation,competency,exact
+Risk Modeling,c_risk-modeling_339ad2b1,Risk Modeling,competency,exact
+Rmarkdown,c_rmarkdown_ea583b25,Rmarkdown,competency,exact
+Robotic Process Automation,c_robotic-process-automation_ba7b3928,Robotic Process Automation,competency,exact
+Role-Based Access Control (RBAC),c_role-based-access-control-rbac_736743ff,Role-Based Access Control (RBAC),competency,exact
+Root Cause Analysis,c_root-cause-analysis_3c1ff979,Root Cause Analysis,competency,exact
+Routing Protocols,c_routing-protocols_314bc9a5,Routing Protocols,competency,exact
+Ruby (Programming Language),c_ruby-programming-language_a124583d,Ruby (Programming Language),competency,exact
+Rust (Programming Language),c_rust-programming-language_d566522c,Rust (Programming Language),competency,exact
+SAP Applications,c_sap-applications_aaef3203,SAP Applications,competency,exact
+SAS (Software),c_sas-software_04ddafcd,SAS (Software),competency,exact
+SQL,c_sql_7b0e529a,SQL,competency,exact
+SQL Server Integration Services (SSIS),c_sql-server-integration-services-ssis_a1b4958e,SQL Server Integration Services (SSIS),competency,exact
+Safety Assurance,c_safety-assurance_a53ecd1b,Safety Assurance,competency,exact
+Safety Audits,c_safety-audits_9e433a39,Safety Audits,competency,exact
+Safety Culture,c_safety-culture_911dd5a2,Safety Culture,competency,exact
+Safety Training,c_safety-training_3dab3f68,Safety Training,competency,exact
+Safety and Security,c_safety-and-security_252a392a,Safety and Security,competency,exact
+Sales,c_sales_d8ae95da,Sales,competency,exact
+Sales Development,c_sales-development_ae2067c2,Sales Development,competency,exact
+Sales Enablement,c_sales-enablement_dce941cc,Sales Enablement,competency,exact
+Sales Management,c_sales-management_c40bacd5,Sales Management,competency,exact
+Sales Operations,c_sales-operations_5f431467,Sales Operations,competency,exact
+Sales Pipelines,c_sales-pipelines_257a0dc1,Sales Pipelines,competency,exact
+Sales Presentations,c_sales-presentations_47438920,Sales Presentations,competency,exact
+Sales Process,c_sales-process_ab157ed9,Sales Process,competency,exact
+Sales Prospecting,c_sales-prospecting_c3ba0302,Sales Prospecting,competency,exact
+Sales Strategy,c_sales-strategy_87039169,Sales Strategy,competency,exact
+Sales Support,c_sales-support_094cbad1,Sales Support,competency,exact
+Sales Tax,c_sales-tax_036886d4,Sales Tax,competency,exact
+Sales Territory Management,c_sales-territory-management_d6d0e042,Sales Territory Management,competency,exact
+Sales Training,c_sales-training_2538be39,Sales Training,competency,exact
+Salesforce,c_salesforce_a7704edb,Salesforce,competency,exact
+Salesforce Development,c_salesforce-development_5e11ac10,Salesforce Development,competency,exact
+Sample Size Determination,c_sample-size-determination_0f7ceb04,Sample Size Determination,competency,exact
+Sampling (Statistics),c_sampling-statistics_d20716f6,Sampling (Statistics),competency,exact
+Sarbanes Oxley Act (SOX) Compliance,c_sarbanes-oxley-act-sox-compliance_dd06b910,Sarbanes Oxley Act (SOX) Compliance,competency,exact
+Scala Programming,c_scala-programming_da1f1bf1,Scala Programming,competency,exact
+Scalability,c_scalability_d222bada,Scalability,competency,exact
+Scaled Agile Framework,c_scaled-agile-framework_06c48fcb,Scaled Agile Framework,competency,exact
+Scatter Plots,c_scatter-plots_565f3c6a,Scatter Plots,competency,exact
+Scenario Testing,c_scenario-testing_29dd308c,Scenario Testing,competency,exact
+Scheduling,c_scheduling_5b216ff9,Scheduling,competency,exact
+Schematic Diagrams,c_schematic-diagrams_080f9208,Schematic Diagrams,competency,exact
+Science and Research,c_science-and-research_3f59b193,Science and Research,competency,exact
+Scientific Methods,c_scientific-methods_23ddbac4,Scientific Methods,competency,exact
+Scientific Visualization,c_scientific-visualization_860f91a1,Scientific Visualization,competency,exact
+Scikit Learn (Machine Learning Library),c_scikit-learn-machine-learning-library_3411c838,Scikit Learn (Machine Learning Library),competency,exact
+Scope Management,c_scope-management_14193e65,Scope Management,competency,exact
+Scripting,c_scripting_67f473fa,Scripting,competency,exact
+Scripting Languages,c_scripting-languages_467ac1cc,Scripting Languages,competency,exact
+Scrum (Software Development),c_scrum-software-development_63eee077,Scrum (Software Development),competency,exact
+Seaborn,c_seaborn_d9b2dd95,Seaborn,competency,exact
+Search Engine Marketing,c_search-engine-marketing_1850bacf,Search Engine Marketing,competency,exact
+Search Engine Optimization,c_search-engine-optimization_e568b07b,Search Engine Optimization,competency,exact
+Secure Coding,c_secure-coding_339aaef4,Secure Coding,competency,exact
+Securities (Finance),c_securities-finance_86e6c35a,Securities (Finance),competency,exact
+Securities Trading,c_securities-trading_9ecf453e,Securities Trading,competency,exact
+Security Assertion Markup Language (SAML),c_security-assertion-markup-language-saml_00183f46,Security Assertion Markup Language (SAML),competency,exact
+Security Awareness,c_security-awareness_4ce7ea5a,Security Awareness,competency,exact
+Security Controls,c_security-controls_83a0f27b,Security Controls,competency,exact
+Security Engineering,c_security-engineering_3e7672d1,Security Engineering,competency,exact
+Security Information and Event Management (SIEM),c_security-information-and-event-management-siem_1a489527,Security Information and Event Management (SIEM),competency,exact
+Security Management,c_security-management_2a818bcf,Security Management,competency,exact
+Security Requirements Analysis,c_security-requirements-analysis_0e88b1bd,Security Requirements Analysis,competency,exact
+Security Strategy,c_security-strategy_8524eed1,Security Strategy,competency,exact
+Security Testing,c_security-testing_32acc670,Security Testing,competency,exact
+Selenium (Software),c_selenium-software_7ee288c8,Selenium (Software),competency,exact
+Self Service Technologies,c_self-service-technologies_de262b46,Self Service Technologies,competency,exact
+Self-Awareness,c_self-awareness_29dcadab,Self-Awareness,competency,exact
+Self-Motivation,c_self-motivation_4a23fa8b,Self-Motivation,competency,exact
+Selling Techniques,c_selling-techniques_03b2603e,Selling Techniques,competency,exact
+Semantic Web,c_semantic-web_e4c01c75,Semantic Web,competency,exact
+Semiconductors,c_semiconductors_3282d0f4,Semiconductors,competency,exact
+Server Side,c_server-side_13a15144,Server Side,competency,exact
+Serverless Computing,c_serverless-computing_c31940b3,Serverless Computing,competency,exact
+Servers,c_servers_d75a8d3e,Servers,competency,exact
+Service Design,c_service-design_c5366d7f,Service Design,competency,exact
+Service Improvement,c_service-improvement_2eea7611,Service Improvement,competency,exact
+Service Level,c_service-level_9d050f5e,Service Level,competency,exact
+Service Level Agreement,c_service-level-agreement_4f84fdef,Service Level Agreement,competency,exact
+Service Management,c_service-management_c480586a,Service Management,competency,exact
+Service Oriented Architecture,c_service-oriented-architecture_e16f87a8,Service Oriented Architecture,competency,exact
+Session Initiation Protocols,c_session-initiation-protocols_8940dfd7,Session Initiation Protocols,competency,exact
+Setting Appointments,c_setting-appointments_691dc7d8,Setting Appointments,competency,exact
+Shell Script,t_shell-script_43641f00,Shell script,tool,exact
+Shiny (R Package),c_shiny-r-package_4271ec8c,Shiny (R Package),competency,exact
+Shipping and Receiving,c_shipping-and-receiving_87cb761b,Shipping and Receiving,competency,exact
+Showrooms,c_showrooms_8f4de88c,Showrooms,competency,exact
+Simple Object Access Protocol (SOAP),c_simple-object-access-protocol-soap_d87ea1f4,Simple Object Access Protocol (SOAP),competency,exact
+Simulation and Simulation Software,c_simulation-and-simulation-software_d2fb25c7,Simulation and Simulation Software,competency,exact
+Simulations,c_simulations_aaabc192,Simulations,competency,exact
+Single Sign-On (SSO),c_single-sign-on-sso_b7455c9c,Single Sign-On (SSO),competency,exact
+Site Reliability Engineering,c_site-reliability-engineering_751f95fd,Site Reliability Engineering,competency,exact
+Six Sigma Methodology,c_six-sigma-methodology_c6ae9e31,Six Sigma Methodology,competency,exact
+SketchUp (3D Modeling Software),c_sketchup-3d-modeling-software_c73bd6f4,SketchUp (3D Modeling Software),competency,exact
+Small Business Accounting,c_small-business-accounting_83358c43,Small Business Accounting,competency,exact
+Small Data,c_small-data_aafce066,Small Data,competency,exact
+Snowflake Schema,c_snowflake-schema_edc889b1,Snowflake Schema,competency,exact
+Social Justice,c_social-justice_71fe0bb6,Social Justice,competency,exact
+Social Media,c_social-media_c604f4dc,Social Media,competency,exact
+Social Media Content,c_social-media-content_5027e32c,Social Media Content,competency,exact
+Social Media Management,c_social-media-management_e7216960,Social Media Management,competency,exact
+Social Media Marketing,c_social-media-marketing_026fe6f2,Social Media Marketing,competency,exact
+Social Media Strategy,c_social-media-strategy_537a7af8,Social Media Strategy,competency,exact
+Social Sciences,c_social-sciences_0a8c5d2c,Social Sciences,competency,exact
+Social Skills,c_social-skills_5ad5ee7f,Social Skills,competency,exact
+Social Studies,c_social-studies_9e635d33,Social Studies,competency,exact
+Socioeconomics,c_socioeconomics_7a452348,Socioeconomics,competency,exact
+Sociology,c_sociology_53e003dc,Sociology,competency,exact
+Software Architecture,c_software-architecture_5deb2744,Software Architecture,competency,exact
+Software As A Service,c_software-as-a-service_bc3ed76c,Software As A Service,competency,exact
+Software Configuration Management,c_software-configuration-management_0777bdb9,Software Configuration Management,competency,exact
+Software Design,c_software-design_ce1e3214,Software Design,competency,exact
+Software Design Documents,c_software-design-documents_ec904849,Software Design Documents,competency,exact
+Software Design Patterns,c_software-design-patterns_350768ee,Software Design Patterns,competency,exact
+Software Development,c_software-development_587dc74d,Software Development,competency,exact
+Software Development Life Cycle,c_software-development-life-cycle_2d72ab6b,Software Development Life Cycle,competency,exact
+Software Development Methodologies,c_software-development-methodologies_2e217cc5,Software Development Methodologies,competency,exact
+Software Development Tools,t_software-development-tools_8ef4a324,Software development tools,tool,exact
+Software Documentation,c_software-documentation_8d6a9e1e,Software Documentation,competency,exact
+Software Engineering,c_software-engineering_dcd30a64,Software Engineering,competency,exact
+Software Engineering Tools,c_software-engineering-tools_b1e6f1c1,Software Engineering Tools,competency,exact
+Software Installation,c_software-installation_fea10c9d,Software Installation,competency,exact
+Software Quality (SQA/SQC),c_software-quality-sqa-sqc_3b2dd5cb,Software Quality (SQA/SQC),competency,exact
+Software Quality Assurance,c_software-quality-assurance_08bed582,Software Quality Assurance,competency,exact
+Software Systems,c_software-systems_c96a7031,Software Systems,competency,exact
+Software Technical Review,c_software-technical-review_9e064805,Software Technical Review,competency,exact
+Software Testing,c_software-testing_32733acb,Software Testing,competency,exact
+Software Versioning,c_software-versioning_3840f254,Software Versioning,competency,exact
+Software Visualization,c_software-visualization_2cd0de60,Software Visualization,competency,exact
+Software-Defined Networking,c_software-defined-networking_5c148017,Software-Defined Networking,competency,exact
+Solution Architecture,c_solution-architecture_18290e08,Solution Architecture,competency,exact
+Solution Delivery,c_solution-delivery_4e867092,Solution Delivery,competency,exact
+Solution Design,c_solution-design_7e068ea5,Solution Design,competency,exact
+Solution Sales Engineering,c_solution-sales-engineering_76e66fb1,Solution Sales Engineering,competency,exact
+Solution Selling,c_solution-selling_ac698e74,Solution Selling,competency,exact
+Spatial Analysis,c_spatial-analysis_4afe71d7,Spatial Analysis,competency,exact
+Spatial Data Analysis,c_spatial-data-analysis_fb9705f5,Spatial Data Analysis,competency,exact
+Specialized Accounting,c_specialized-accounting_788e5eb9,Specialized Accounting,competency,exact
+Splunk,c_splunk_03da625e,Splunk,competency,exact
+Spreadsheet Software,c_spreadsheet-software_d04dc7e5,Spreadsheet Software,competency,exact
+Spring Boot,t_spring-boot_47c38fea,Spring Boot,tool,exact
+Spring Framework,t_spring-framework_4c44d935,Spring Framework,tool,exact
+Sprint Planning,c_sprint-planning_d9a8a859,Sprint Planning,competency,exact
+Sprint Retrospectives,c_sprint-retrospectives_8aa2e606,Sprint Retrospectives,competency,exact
+Staff Management,c_staff-management_db3e3606,Staff Management,competency,exact
+Stakeholder Communications,c_stakeholder-communications_72a2a540,Stakeholder Communications,competency,exact
+Stakeholder Engagement,c_stakeholder-engagement_6ce89582,Stakeholder Engagement,competency,exact
+Stakeholder Management,c_stakeholder-management_b661870f,Stakeholder Management,competency,exact
+Standard Accounting Practices,c_standard-accounting-practices_69827561,Standard Accounting Practices,competency,exact
+Standard Operating Procedure,c_standard-operating-procedure_a7b73560,Standard Operating Procedure,competency,exact
+Star Schema,c_star-schema_0f76bf58,Star Schema,competency,exact
+Stata,c_stata_8e1dc106,Stata,competency,exact
+Statistical Analysis,c_statistical-analysis_820e3572,Statistical Analysis,competency,exact
+Statistical Hypothesis Testing,c_statistical-hypothesis-testing_4cbc269d,Statistical Hypothesis Testing,competency,exact
+Statistical Inference,c_statistical-inference_b2c4a8a2,Statistical Inference,competency,exact
+Statistical Machine Learning,c_statistical-machine-learning_630249fe,Statistical Machine Learning,competency,exact
+Statistical Methods,c_statistical-methods_0b42dfd6,Statistical Methods,competency,exact
+Statistical Modeling,c_statistical-modeling_6832e86e,Statistical Modeling,competency,exact
+Statistical Process Controls,c_statistical-process-controls_c16f1d24,Statistical Process Controls,competency,exact
+Statistical Programming,c_statistical-programming_5b91d6d5,Statistical Programming,competency,exact
+Statistical Reporting,c_statistical-reporting_e3327f1c,Statistical Reporting,competency,exact
+Statistical Software,t_statistical-software_ffb761b9,Statistical software,tool,exact
+Statistical Visualization,c_statistical-visualization_2879fb7f,Statistical Visualization,competency,exact
+Statistics,c_statistics_54896464,Statistics,competency,exact
+Stored Procedure,c_stored-procedure_0b177434,Stored Procedure,competency,exact
+Storyboarding,c_storyboarding_ecf676d4,Storyboarding,competency,exact
+Storytelling,c_storytelling_11de8705,Storytelling,competency,exact
+Strategic Communication,c_strategic-communication_486e6806,Strategic Communication,competency,exact
+Strategic Decision-Making,c_strategic-decision-making_9bd3308d,Strategic Decision-Making,competency,exact
+Strategic Leadership,c_strategic-leadership_46c45d39,Strategic Leadership,competency,exact
+Strategic Marketing,c_strategic-marketing_e703a4f5,Strategic Marketing,competency,exact
+Strategic Partnership,c_strategic-partnership_aee81ed2,Strategic Partnership,competency,exact
+Strategic Planning,c_strategic-planning_d14445ba,Strategic Planning,competency,exact
+Strategic Prioritization,c_strategic-prioritization_bedcec53,Strategic Prioritization,competency,exact
+Strategic Sourcing,c_strategic-sourcing_a81593fe,Strategic Sourcing,competency,exact
+Strategic Thinking,c_strategic-thinking_b661e098,Strategic Thinking,competency,exact
+Stress Management,c_stress-management_880ceb54,Stress Management,competency,exact
+Student Engagement,c_student-engagement_433cde1b,Student Engagement,competency,exact
+Style Guides,c_style-guides_1fd4c720,Style Guides,competency,exact
+Succession Planning,c_succession-planning_df4da2f1,Succession Planning,competency,exact
+Supervised Learning,c_supervised-learning_656b2c3f,Supervised Learning,competency,exact
+Supervision,c_supervision_522e360a,Supervision,competency,exact
+Supplier Management,c_supplier-management_4536a53f,Supplier Management,competency,exact
+Supplier Performance Management,c_supplier-performance-management_d895f99e,Supplier Performance Management,competency,exact
+Supplier Relationship Management,c_supplier-relationship-management_6fc9724e,Supplier Relationship Management,competency,exact
+Supply And Demand,c_supply-and-demand_58af6ac0,Supply And Demand,competency,exact
+Supply Chain,c_supply-chain_7b38d32a,Supply Chain,competency,exact
+Supply Chain Management,c_supply-chain-management_07ffd11c,Supply Chain Management,competency,exact
+Supply Chain Planning,c_supply-chain-planning_d7c9f84c,Supply Chain Planning,competency,exact
+Supply Chain Systems,c_supply-chain-systems_32876ab4,Supply Chain Systems,competency,exact
+Supply Management,c_supply-management_3572450b,Supply Management,competency,exact
+Survey Creation,c_survey-creation_c15996ac,Survey Creation,competency,exact
+Sustainability Reporting,c_sustainability-reporting_8f30a5be,Sustainability Reporting,competency,exact
+Swift Programming,c_swift-programming_7256d48b,Swift Programming,competency,exact
+System Configuration,c_system-configuration_31ed095c,System Configuration,competency,exact
+System Design and Implementation,c_system-design-and-implementation_cdf6e73e,System Design and Implementation,competency,exact
+System Implementation,c_system-implementation_7d16b221,System Implementation,competency,exact
+System Monitoring,c_system-monitoring_e219921c,System Monitoring,competency,exact
+System Programming,c_system-programming_c88bfa96,System Programming,competency,exact
+System Requirements,c_system-requirements_70a8e2b9,System Requirements,competency,exact
+System Software,c_system-software_c08a61cf,System Software,competency,exact
+System Support,c_system-support_abacb9b1,System Support,competency,exact
+System Testing,c_system-testing_5003794e,System Testing,competency,exact
+Systems Administration,c_systems-administration_7f5a98ba,Systems Administration,competency,exact
+Systems Analysis,c_systems-analysis_921e31af,Systems Analysis,competency,exact
+Systems Architecture,c_systems-architecture_72dee4aa,Systems Architecture,competency,exact
+Systems Design,c_systems-design_03d8974a,Systems Design,competency,exact
+Systems Development,c_systems-development_a218fc43,Systems Development,competency,exact
+Systems Development Life Cycle,c_systems-development-life-cycle_e9eea64e,Systems Development Life Cycle,competency,exact
+Systems Integration,c_systems-integration_7c304af2,Systems Integration,competency,exact
+Systems Of Measurement,c_systems-of-measurement_524ee818,Systems Of Measurement,competency,exact
+Systems Thinking,c_systems-thinking_40d2c4d2,Systems Thinking,competency,exact
+TCP/IP,c_tcp-ip_b2bda9b0,TCP/IP,competency,exact
+Tableau Software,c_tableau-software_f3bec829,Tableau Software,competency,exact
+Taking Meeting Minutes,c_taking-meeting-minutes_468cd03e,Taking Meeting Minutes,competency,exact
+Talent Acquisition,c_talent-acquisition_69d7c2ee,Talent Acquisition,competency,exact
+Talent Management,c_talent-management_155cd71e,Talent Management,competency,exact
+Talent Pipelining,c_talent-pipelining_27120ea3,Talent Pipelining,competency,exact
+Talent Recruitment,c_talent-recruitment_50883cdc,Talent Recruitment,competency,exact
+Talent Sourcing,c_talent-sourcing_55a7d3d6,Talent Sourcing,competency,exact
+Target Audience,c_target-audience_2d7e09f9,Target Audience,competency,exact
+Target Market,c_target-market_98c86722,Target Market,competency,exact
+Tax,c_tax_98c0f449,Tax,competency,exact
+Tax Compliance,c_tax-compliance_a4c6bf1c,Tax Compliance,competency,exact
+Tax Laws,c_tax-laws_63a43c09,Tax Laws,competency,exact
+Tax Planning,c_tax-planning_3665297b,Tax Planning,competency,exact
+Tax Preparation,c_tax-preparation_9ffeb177,Tax Preparation,competency,exact
+Tax Returns,c_tax-returns_e51a3991,Tax Returns,competency,exact
+Taxonomy,c_taxonomy_350e7679,Taxonomy,competency,exact
+Team Building,c_team-building_2836fff0,Team Building,competency,exact
+Team Leadership,c_team-leadership_3daa1e5b,Team Leadership,competency,exact
+Team Management,c_team-management_0db33061,Team Management,competency,exact
+Team Motivation,c_team-motivation_6dd5dad5,Team Motivation,competency,exact
+Team Oriented,c_team-oriented_d28e232b,Team Oriented,competency,exact
+Team Performance Management,c_team-performance-management_5de32266,Team Performance Management,competency,exact
+Teamwork,c_teamwork_1e19bdd2,Teamwork,competency,exact
+Technical Accounting,c_technical-accounting_b052c4d2,Technical Accounting,competency,exact
+Technical Analysis,c_technical-analysis_70b426a0,Technical Analysis,competency,exact
+Technical Communication,c_technical-communication_38b3a4fc,Technical Communication,competency,exact
+Technical Consulting,c_technical-consulting_899b0e5e,Technical Consulting,competency,exact
+Technical Design,c_technical-design_a7c609c0,Technical Design,competency,exact
+Technical Documentation,c_technical-documentation_047a84f7,Technical Documentation,competency,exact
+Technical Drawing,c_technical-drawing_ad65e017,Technical Drawing,competency,exact
+Technical Management,c_technical-management_66ff017a,Technical Management,competency,exact
+Technical Product Management,c_technical-product-management_e0fb5f49,Technical Product Management,competency,exact
+Technical Sales,c_technical-sales_868af9e1,Technical Sales,competency,exact
+Technical Services,c_technical-services_028daf11,Technical Services,competency,exact
+Technical Support,c_technical-support_6d25916c,Technical Support,competency,exact
+Technical Support and Services,c_technical-support-and-services_6f1cc285,Technical Support and Services,competency,exact
+Technical Writing,c_technical-writing_e3473aad,Technical Writing,competency,exact
+Technology Roadmaps,c_technology-roadmaps_9b1c0af0,Technology Roadmaps,competency,exact
+Technology Solutions,c_technology-solutions_5f5f9364,Technology Solutions,competency,exact
+Technology Strategies,c_technology-strategies_44d60e34,Technology Strategies,competency,exact
+Telecommuting,c_telecommuting_e5210e84,Telecommuting,competency,exact
+Telemarketing,c_telemarketing_852b85da,Telemarketing,competency,exact
+Telephone Skills,c_telephone-skills_0dc4880d,Telephone Skills,competency,exact
+Tensorflow,t_tensorflow_a2f1d799,TensorFlow,tool,exact
+Teradata SQL,c_teradata-sql_fa922b8b,Teradata SQL,competency,exact
+Terraform,c_terraform_4bd63236,Terraform,competency,exact
+Test Automation,c_test-automation_e0dfa509,Test Automation,competency,exact
+Test Case,c_test-case_1e4e5067,Test Case,competency,exact
+Test Data,c_test-data_bc839830,Test Data,competency,exact
+Test Driven Development (TDD),c_test-driven-development-tdd_21d1dff4,Test Driven Development (TDD),competency,exact
+Test Execution Engine,c_test-execution-engine_4f297ae2,Test Execution Engine,competency,exact
+Test Planning,c_test-planning_8e87003e,Test Planning,competency,exact
+Test Tools,c_test-tools_7923557a,Test Tools,competency,exact
+Testability,c_testability_072c5bc2,Testability,competency,exact
+Text Mining,c_text-mining_50278cad,Text Mining,competency,exact
+Theoretical Computer Science,c_theoretical-computer-science_c2be8712,Theoretical Computer Science,competency,exact
+Thought Leadership,c_thought-leadership_deb78318,Thought Leadership,competency,exact
+Threat Detection,c_threat-detection_7f18cadc,Threat Detection,competency,exact
+Threat Management,c_threat-management_fb2411f3,Threat Management,competency,exact
+Threat Modeling,c_threat-modeling_9974a7be,Threat Modeling,competency,exact
+Tidyverse (R Package),c_tidyverse-r-package_03df9660,Tidyverse (R Package),competency,exact
+TikTok,t_tiktok_1b451561,TikTok,tool,exact
+Time Management,c_time-management_f4f1adf8,Time Management,competency,exact
+Time Series Analysis and Forecasting,c_time-series-analysis-and-forecasting_1df586e1,Time Series Analysis and Forecasting,competency,exact
+Timelines,c_timelines_390a133b,Timelines,competency,exact
+Train The Trainer,c_train-the-trainer_4188116f,Train The Trainer,competency,exact
+Training and Development,c_training-and-development_d577db0d,Training and Development,competency,exact
+Transaction Processing,c_transaction-processing_a48b22e3,Transaction Processing,competency,exact
+Transform,c_transform_a2f95164,Transform,competency,exact
+Translation,c_translation_37b9b44b,Translation,competency,exact
+Transportation,t_transportation_26ac1013,Transportation,tool,exact
+Transportation Management,c_transportation-management_095a6fad,Transportation Management,competency,exact
+Transportation Operations,c_transportation-operations_24db17a9,Transportation Operations,competency,exact
+Treatment Planning,c_treatment-planning_e2adceae,Treatment Planning,competency,exact
+Tree Maps,c_tree-maps_253c11bb,Tree Maps,competency,exact
+Trend Analysis,c_trend-analysis_d31dc82a,Trend Analysis,competency,exact
+Trigonometry,c_trigonometry_8c2c7e4e,Trigonometry,competency,exact
+TypeScript,t_typescript_74427dab,TypeScript,tool,exact
+Typography,c_typography_1f132b11,Typography,competency,exact
+UI Components,c_ui-components_5c3de57b,UI Components,competency,exact
+UI/UX Research,c_ui-ux-research_ea7ff754,UI/UX Research,competency,exact
+UI/UX Strategy,c_ui-ux-strategy_8f6b64fc,UI/UX Strategy,competency,exact
+Underwriting,c_underwriting_ca8fbe5a,Underwriting,competency,exact
+Unified Modeling Language,c_unified-modeling-language_2edc9e92,Unified Modeling Language,competency,exact
+Unit Testing,c_unit-testing_e49fd92b,Unit Testing,competency,exact
+Unix,t_unix_a7e4c986,UNIX,tool,exact
+Unix Commands,c_unix-commands_c86a1b78,Unix Commands,competency,exact
+Unix Shell,t_unix-shell_642eeba2,UNIX Shell,tool,exact
+Unstructured Data,c_unstructured-data_d459e72f,Unstructured Data,competency,exact
+Unsupervised Learning,c_unsupervised-learning_8c0e8e85,Unsupervised Learning,competency,exact
+Upselling,c_upselling_0f8a0ed6,Upselling,competency,exact
+Usability,c_usability_c0119776,Usability,competency,exact
+Usability Testing,c_usability-testing_c0822784,Usability Testing,competency,exact
+User Acceptance Testing (UAT),c_user-acceptance-testing-uat_b932fc3f,User Acceptance Testing (UAT),competency,exact
+User Accounts,c_user-accounts_82a2f8ae,User Accounts,competency,exact
+User Centered Design,c_user-centered-design_c4cdc561,User Centered Design,competency,exact
+User Experience,c_user-experience_a77fd8b0,User Experience,competency,exact
+User Experience Design,c_user-experience-design_670c0ece,User Experience Design,competency,exact
+User Feedback,c_user-feedback_279fab44,User Feedback,competency,exact
+User Flows,c_user-flows_c972e801,User Flows,competency,exact
+User Interface (UI),c_user-interface-ui_eedcde26,User Interface (UI),competency,exact
+User Interface (UI) Design,c_user-interface-ui-design_1090ebcc,User Interface (UI) Design,competency,exact
+User Interface and User Experience (UI/UX) Design,c_user-interface-and-user-experience-ui-ux-design_8a415a58,User Interface and User Experience (UI/UX) Design,competency,exact
+User Requirements Documents,c_user-requirements-documents_777f51a9,User Requirements Documents,competency,exact
+User Research,c_user-research_9c1c9e7e,User Research,competency,exact
+User Story,c_user-story_87b31b64,User Story,competency,exact
+Value Engineering,c_value-engineering_6a162553,Value Engineering,competency,exact
+Value Propositions,c_value-propositions_705cc4ff,Value Propositions,competency,exact
+Variance Analysis,c_variance-analysis_d33ef3e2,Variance Analysis,competency,exact
+Vendor Contracts,c_vendor-contracts_57f8d4ea,Vendor Contracts,competency,exact
+Vendor Management,c_vendor-management_a78e6e16,Vendor Management,competency,exact
+Vendor Relationship Management,c_vendor-relationship-management_1ef8391d,Vendor Relationship Management,competency,exact
+Verbal Communication Skills,c_verbal-communication-skills_a491b9e3,Verbal Communication Skills,competency,exact
+Verification And Validation,c_verification-and-validation_05059969,Verification And Validation,competency,exact
+Version Control,c_version-control_4b151501,Version Control,competency,exact
+Virtual Environment,c_virtual-environment_d08f5b6e,Virtual Environment,competency,exact
+Virtual Machines,c_virtual-machines_efe9ab4c,Virtual Machines,competency,exact
+Virtual Private Networks (VPN),c_virtual-private-networks-vpn_590b5e35,Virtual Private Networks (VPN),competency,exact
+Virtual Reality,c_virtual-reality_cbee2c6f,Virtual Reality,competency,exact
+Virtual Teams,c_virtual-teams_7489799f,Virtual Teams,competency,exact
+Virtualization,c_virtualization_e6031347,Virtualization,competency,exact
+Visionary,c_visionary_d1b2cf17,Visionary,competency,exact
+Visual Basic (Programming Language),c_visual-basic-programming-language_2c994c39,Visual Basic (Programming Language),competency,exact
+Visual Design,c_visual-design_173598c1,Visual Design,competency,exact
+Visualization (Computer Graphics),c_visualization-computer-graphics_c4097a4c,Visualization (Computer Graphics),competency,exact
+Vital Signs,c_vital-signs_7c4a15a2,Vital Signs,competency,exact
+Vocabulary,c_vocabulary_7b926d85,Vocabulary,competency,exact
+Vue.JS,t_vue-js_e979718b,Vue.js,tool,exact
+Vulnerability,c_vulnerability_64d75778,Vulnerability,competency,exact
+Vulnerability Assessments,c_vulnerability-assessments_877a880d,Vulnerability Assessments,competency,exact
+Vulnerability Management,c_vulnerability-management_5f93c2e5,Vulnerability Management,competency,exact
+Vulnerability Scanning,c_vulnerability-scanning_fee53506,Vulnerability Scanning,competency,exact
+Warehouse Management,c_warehouse-management_6adee378,Warehouse Management,competency,exact
+Warehouse Operations,c_warehouse-operations_4dbfc53c,Warehouse Operations,competency,exact
+Waste Minimization,c_waste-minimization_5ff830f8,Waste Minimization,competency,exact
+Water Resources,c_water-resources_ff01bcb6,Water Resources,competency,exact
+Waterfall Methodology,c_waterfall-methodology_e9b4cad6,Waterfall Methodology,competency,exact
+Wealth Management,c_wealth-management_0f63ac35,Wealth Management,competency,exact
+Web Analytics,c_web-analytics_d2871fa1,Web Analytics,competency,exact
+Web Analytics and SEO,c_web-analytics-and-seo_c99d4354,Web Analytics and SEO,competency,exact
+Web Applications,c_web-applications_0014551b,Web Applications,competency,exact
+Web Content,c_web-content_419e96ca,Web Content,competency,exact
+Web Content Accessibility Guidelines,c_web-content-accessibility-guidelines_74c40e33,Web Content Accessibility Guidelines,competency,exact
+Web Design,c_web-design_26b2a6ca,Web Design,competency,exact
+Web Design and Development,c_web-design-and-development_98d45c6e,Web Design and Development,competency,exact
+Web Development,c_web-development_fe1c5bf7,Web Development,competency,exact
+Web Development Tools,c_web-development-tools_6c14ec7b,Web Development Tools,competency,exact
+Web Language,c_web-language_2a1e909c,Web Language,competency,exact
+Web Scraping,c_web-scraping_ee48e6f1,Web Scraping,competency,exact
+Web Servers,c_web-servers_fbd835e1,Web Servers,competency,exact
+Web Services,c_web-services_07056c55,Web Services,competency,exact
+Webpack,t_webpack_1954f661,webpack,tool,exact
+Wide Area Networks,c_wide-area-networks_b8d01a37,Wide Area Networks,competency,exact
+Willingness To Learn,c_willingness-to-learn_22a22022,Willingness To Learn,competency,exact
+Windows PowerShell,c_windows-powershell_7d359c0e,Windows PowerShell,competency,exact
+Windows Servers,c_windows-servers_04472362,Windows Servers,competency,exact
+Wireframing,c_wireframing_578f8f54,Wireframing,competency,exact
+Wireless Networks,c_wireless-networks_3a195030,Wireless Networks,competency,exact
+WordPress,t_wordpress_216d1404,WordPress,tool,exact
+Work Breakdown Structure,c_work-breakdown-structure_d5514c8b,Work Breakdown Structure,competency,exact
+Workday (Software),c_workday-software_65902431,Workday (Software),competency,exact
+Workers Compensation,c_workers-compensation_d381d8df,Workers Compensation,competency,exact
+Workflow Management,c_workflow-management_648aacfd,Workflow Management,competency,exact
+Workforce Development,c_workforce-development_a795f86c,Workforce Development,competency,exact
+Workforce Management,c_workforce-management_88f2f205,Workforce Management,competency,exact
+Workforce Planning,c_workforce-planning_0a5828f7,Workforce Planning,competency,exact
+Working Capital,c_working-capital_073b62a1,Working Capital,competency,exact
+Writing,t_writing_3256008a,Writing,tool,exact
+Writing and Editing,c_writing-and-editing_dba5fc12,Writing and Editing,competency,exact
+YAML,c_yaml_53e4e5e9,YAML,competency,exact
+and Compliance,c_and-compliance_dd1c857d,and Compliance,competency,exact
+and Development,c_and-development_1351e7f4,and Development,competency,exact
+and Logistics,c_and-logistics_7882fb4d,and Logistics,competency,exact
+and Service Knowledge,c_and-service-knowledge_22b5a575,and Service Knowledge,competency,exact
+and Social Studies,c_and-social-studies_647ce0fa,and Social Studies,competency,exact
+and Studies,c_and-studies_8d027fc4,and Studies,competency,exact
+iOS Development,c_ios-development_07f63334,iOS Development,competency,exact
+jQuery,t_jquery_d356c953,jQuery,tool,exact

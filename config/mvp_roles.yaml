@@ -1,0 +1,29 @@
+# MVP role set: 18 data/analytics/government roles
+# Q3 decision: broader 15-20 roles with 3 statistician roles as showcase/priority
+
+showcase_onet_codes:
+  - "15-2041.00"  # Statisticians
+  - "15-2041.01"  # Biostatisticians
+  - "43-9111.00"  # Statistical Assistants
+
+mvp_onet_codes:
+  # Showcase (priority demo roles)
+  - "15-2041.00"
+  - "15-2041.01"
+  - "43-9111.00"
+  # Broader analytics / research / government set
+  - "15-2051.00"   # Data Scientists
+  - "15-2031.00"   # Operations Research Analysts
+  - "19-3011.00"   # Economists
+  - "19-3022.00"   # Survey Researchers
+  - "13-2031.00"   # Budget Analysts
+  - "13-1111.00"   # Management Analysts
+  - "13-1161.00"   # Market Research Analysts and Marketing Specialists
+  - "15-1242.00"   # Database Administrators
+  - "15-2051.01"   # Business Intelligence Analysts
+  - "15-1221.00"   # Computer and Information Research Scientists
+  - "13-1041.04"   # Government Property Inspectors and Investigators
+  - "43-4061.00"   # Eligibility Interviewers, Government Programs
+  - "19-4061.00"   # Social Science Research Assistants
+  - "15-1243.00"   # Database Architects
+  - "19-3011.01"   # Environmental Economists

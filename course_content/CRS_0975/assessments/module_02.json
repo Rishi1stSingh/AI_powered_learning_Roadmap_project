@@ -1,0 +1,1 @@
+{"questions":[{"prompt":"Which library provides DataFrame?","options":["Pandas","NumPy","math"],"answer":0},{"prompt":"Which method groups rows?","options":["join","groupby","stack"],"answer":1}]}

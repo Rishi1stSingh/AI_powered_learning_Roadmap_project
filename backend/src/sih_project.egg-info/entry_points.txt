@@ -1,0 +1,2 @@
+[console_scripts]
+statskill-build = statskill.main:run_build

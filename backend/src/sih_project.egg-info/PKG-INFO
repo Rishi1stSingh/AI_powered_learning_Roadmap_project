@@ -1,0 +1,177 @@
+Metadata-Version: 2.4
+Name: sih-project
+Version: 0.2.0
+Summary: StatSkill AI — workforce skill gap analysis for statistical and analytics roles
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: alembic>=1.13
+Requires-Dist: pandas>=2.2.0
+Requires-Dist: psycopg[binary]>=3.2
+Requires-Dist: python-dotenv>=1.0
+Requires-Dist: streamlit>=1.40
+Requires-Dist: fastapi>=0.115
+Requires-Dist: uvicorn>=0.30
+Requires-Dist: httpx>=0.27
+Requires-Dist: pyyaml>=6.0
+Requires-Dist: sqlalchemy>=2.0
+Requires-Dist: dotenv>=0.9.9
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: pydantic>=2.9.0
+Requires-Dist: pytest>=8.3.0
+
+# StatSkill AI
+
+Workforce skill-gap analysis for statistical, analytics, and government roles. Maps employee skills against role requirements and recommends courses from a curated catalog.
+
+## Architecture decisions (Phase 2)
+
+| Question | Decision |
+|----------|----------|
+| **Q1 — Taxonomy mismatch** | **Dual taxonomy** — O\*NET tools and course competencies live in one unified taxonomy with separate `skill_type` values (`tool` / `competency`). |
+| **Q2 — Role → skill mapping** | **Combination (offline)** — local O\*NET CSV data + NLP extraction + manual review for showcase roles. |
+| **Q3 — MVP roles** | **18 roles** — broader analytics/government set; 3 statistician roles flagged as showcase/priority. |
+
+**No O\*NET API credentials are required.** The MVP pipeline runs entirely offline using bundled data in `data/`.
+
+## Project layout
+
+```
+sih_project/
+├── config/
+│   ├── mvp_roles.yaml              # 18 MVP O*NET codes + 3 showcase roles
+│   └── manual_role_skills.yaml     # Manual overrides for statistician roles
+├── data/
+│   ├── raw/                        # Immutable copies of source CSVs
+│   │   ├── role_skill_benchmarks_cleaned.csv   # Local O*NET occupation data
+│   │   └── skill_taxonomy.csv                  # Local O*NET skill/tool taxonomy
+│   └── processed/                  # Generated Phase 2 outputs
+├── docs/
+│   ├── data_audit.md               # Phase 1 audit
+│   └── phase2_design.md            # Phase 2 design & outputs
+├── backend/scripts/
+│   ├── inspect_data.py             # Phase 1 data audit script
+│   └── build_phase2.py             # Phase 2 build pipeline (offline)
+├── backend/src/statskill/          # Core library and database layer
+│   └── alembic/                    # Database migrations
+└── frontend/                       # Frontend application (Phase 3+)
+```
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+No `.env` file or API keys are needed for the MVP.
+
+## Build processed datasets
+
+```bash
+python backend/scripts/build_data.py
+# or
+python backend/scripts/build_data.py
+```
+
+The build makes **zero network calls** and does not read `ONET_USERNAME`, `ONET_PASSWORD`, or `ONET_API_KEY`.
+
+### Generated files
+
+| File | Description |
+|------|-------------|
+| `data/processed/unified_taxonomy.csv` | Dual taxonomy: 8,795 tools + 1,667 competencies |
+| `data/processed/skill_aliases.csv` | Course skill aliases → canonical taxonomy |
+| `data/processed/course_skills.csv` | Normalized course → skill links |
+| `data/processed/mvp_roles.csv` | 18 MVP roles (3 showcase) |
+| `data/processed/role_skills.csv` | Role → skill requirements with provenance |
+| `data/processed/role_skill_sources.csv` | Per-role mapping source breakdown |
+
+## Local O\*NET data sources
+
+| File | Role in pipeline |
+|------|------------------|
+| `role_skill_benchmarks_cleaned.csv` | Occupation codes, descriptions, `key_software_tools`, benchmark scores |
+| `skill_taxonomy.csv` | Canonical O\*NET tool names, Essential Skills, Domain Knowledge |
+
+## MVP showcase roles
+
+1. **Statisticians** (`15-2041.00`)
+2. **Biostatisticians** (`15-2041.01`)
+3. **Statistical Assistants** (`43-9111.00`)
+
+These roles receive curated manual skill mappings in `config/manual_role_skills.yaml` and are flagged with `is_showcase_role=true` in outputs.
+
+## Phase 1 audit
+
+```bash
+python backend/scripts/inspect_data.py
+```
+
+See [`docs/data_audit.md`](docs/data_audit.md) for the full Phase 1 report.
+
+## Phase 3 (paused)
+
+Phase 3 code is present but paused while the PostgreSQL integration is validated.
+
+## Streamlit demo
+
+The lightweight hackathon demo is in `demo/app.py`; it is not the production frontend.
+
+```powershell
+py -m pip install -r requirements.txt
+streamlit run demo/app.py
+```
+
+```bash
+python backend/scripts/run_phase3_demo.py
+```
+
+## PostgreSQL application database (native Windows PostgreSQL)
+
+CSV files remain the reproducible ETL artifacts. The application database is PostgreSQL.
+
+```bash
+copy .env.example .env
+py -m pip install -r requirements.txt
+alembic upgrade head
+python backend/scripts/build_data.py
+python backend/scripts/load_database.py
+python backend/scripts/load_database.py
+python backend/scripts/verify_database.py
+```
+
+### Create the native PostgreSQL user and database
+
+Install PostgreSQL for Windows from the official installer, ensure the PostgreSQL service is running, then open PowerShell and run `psql` as the administrative user. Replace the example password with your own value:
+
+```powershell
+psql -U postgres -h localhost
+CREATE USER statskill_app WITH PASSWORD 'choose-a-strong-password';
+CREATE DATABASE statskill OWNER statskill_app;
+\q
+copy .env.example .env
+notepad .env
+```
+
+Set `DATABASE_URL` in `.env` to the same username, password, host, port, and database, for example:
+
+```text
+DATABASE_URL=postgresql+psycopg://statskill_app:choose-a-strong-password@localhost:5432/statskill
+```
+
+The second loader run tests idempotency; the verification script tests that skills, roles, courses, and mappings are queryable.
+
+The native Windows PostgreSQL service provides the database. The Python environment still needs Python 3.11+, pandas, PyYAML, SQLAlchemy, psycopg, Alembic, and python-dotenv from `requirements.txt`. Docker is not required for PostgreSQL.
+
+To reset/rebuild the database after dataset changes:
+
+```bash
+Stop and start the PostgreSQL Windows service from `services.msc`, or use the PostgreSQL service controls installed with PostgreSQL. Then run:
+
+```powershell
+psql -U postgres -h localhost -c "DROP DATABASE IF EXISTS statskill;"
+psql -U postgres -h localhost -c "CREATE DATABASE statskill OWNER statskill_app;"
+alembic upgrade head
+python backend/scripts/build_data.py
+python backend/scripts/load_database.py
+python backend/scripts/verify_database.py
+```

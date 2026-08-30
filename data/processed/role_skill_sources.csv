@@ -1,0 +1,19 @@
+onet_code,role_title,is_showcase,total_skills,manual_count,local_onet_count,nlp_tools_count,nlp_description_count,benchmark_derived_count
+15-2041.00,Statisticians,True,16,7,6,0,3,0
+15-2041.01,Biostatisticians,True,14,6,7,0,1,0
+43-9111.00,Statistical Assistants,True,10,4,6,0,0,0
+15-2051.00,Data Scientists,False,12,0,6,0,6,0
+15-2031.00,Operations Research Analysts,False,11,0,6,0,5,0
+19-3011.00,Economists,False,9,0,6,0,3,0
+19-3022.00,Survey Researchers,False,7,0,7,0,0,0
+13-2031.00,Budget Analysts,False,9,0,7,0,2,0
+13-1111.00,Management Analysts,False,7,0,7,0,0,0
+13-1161.00,Market Research Analysts and Marketing Specialists,False,12,0,6,0,6,0
+15-1242.00,Database Administrators,False,9,0,6,0,3,0
+15-2051.01,Business Intelligence Analysts,False,7,0,6,0,1,0
+15-1221.00,Computer and Information Research Scientists,False,10,0,8,0,2,0
+13-1041.04,Government Property Inspectors and Investigators,False,7,0,6,0,1,0
+43-4061.00,"Eligibility Interviewers, Government Programs",False,6,0,6,0,0,0
+19-4061.00,Social Science Research Assistants,False,11,0,7,0,4,0
+15-1243.00,Database Architects,False,10,0,7,0,3,0
+19-3011.01,Environmental Economists,False,8,0,6,0,2,0

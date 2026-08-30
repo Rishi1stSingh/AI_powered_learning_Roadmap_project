@@ -1,0 +1,176 @@
+onet_code,role_title,skill_id,skill_name,skill_type,required_level,importance,source,confidence,is_showcase_role
+15-2041.00,Statisticians,c_statistical-analysis_820e3572,Statistical Analysis,competency,85,95,manual,high,True
+15-2041.00,Statisticians,t_mathematics_edb6c857,Mathematics,tool,80,90,manual,high,True
+15-2041.00,Statisticians,t_r_bb20e535,R,tool,75,88,manual,high,True
+15-2041.00,Statisticians,t_sas_fd770cb8,SAS,tool,70,85,manual,high,True
+15-2041.00,Statisticians,t_microsoft-excel_c119228b,Microsoft Excel,tool,65,75,manual,high,True
+15-2041.00,Statisticians,c_data-analysis_22e8a189,Data Analysis,competency,80,90,manual,high,True
+15-2041.00,Statisticians,t_critical-thinking_d2bf5888,Critical Thinking,tool,75,85,manual,high,True
+15-2041.00,Statisticians,t_amazon-redshift_4416f034,Amazon Redshift,tool,39,50,local_onet,high,True
+15-2041.00,Statisticians,t_amazon-web-services-aws-software_513cf897,Amazon Web Services AWS software,tool,39,50,local_onet,high,True
+15-2041.00,Statisticians,t_angoss-knowledgeseeker_a456ab2a,Angoss KnowledgeSEEKER,tool,39,50,local_onet,high,True
+15-2041.00,Statisticians,t_apache-hadoop_3bf9e9a7,Apache Hadoop,tool,39,50,local_onet,high,True
+15-2041.00,Statisticians,t_apache-pig_f3479e94,Apache Pig,tool,39,50,local_onet,high,True
+15-2041.00,Statisticians,t_apache-spark_52027810,Apache Spark,tool,39,50,local_onet,high,True
+15-2041.00,Statisticians,c_biostatistics_cf576851,Biostatistics,competency,49,50,nlp_description,medium,True
+15-2041.00,Statisticians,c_business_0005c2c8,Business,competency,49,50,nlp_description,medium,True
+15-2041.00,Statisticians,c_statistics_54896464,Statistics,competency,49,50,nlp_description,medium,True
+15-2041.01,Biostatisticians,c_statistical-analysis_820e3572,Statistical Analysis,competency,90,95,manual,high,True
+15-2041.01,Biostatisticians,c_biostatistics_cf576851,Biostatistics,competency,85,95,manual,high,True
+15-2041.01,Biostatisticians,t_r_bb20e535,R,tool,80,90,manual,high,True
+15-2041.01,Biostatisticians,t_sas_fd770cb8,SAS,tool,75,88,manual,high,True
+15-2041.01,Biostatisticians,c_clinical-trials_0e10cdc7,Clinical Trials,competency,70,80,manual,high,True
+15-2041.01,Biostatisticians,c_data-analysis_22e8a189,Data Analysis,competency,85,90,manual,high,True
+15-2041.01,Biostatisticians,t_bash_39ce1e76,Bash,tool,36,50,local_onet,high,True
+15-2041.01,Biostatisticians,t_c_3a20cf71,C#,tool,36,50,local_onet,high,True
+15-2041.01,Biostatisticians,t_c_deb3c785,C++,tool,36,50,local_onet,high,True
+15-2041.01,Biostatisticians,t_clinical-trials-database-software_af5be928,Clinical trials database software,tool,36,50,local_onet,high,True
+15-2041.01,Biostatisticians,t_data-visualization-software_84a6dda5,Data visualization software,tool,36,50,local_onet,high,True
+15-2041.01,Biostatisticians,t_database-software_6b30b988,Database software,tool,36,50,local_onet,high,True
+15-2041.01,Biostatisticians,t_science_92a00be5,Science,tool,49,50,local_onet,high,True
+15-2041.01,Biostatisticians,c_life-sciences_2e96a86f,Life Sciences,competency,46,50,nlp_description,medium,True
+43-9111.00,Statistical Assistants,c_statistical-analysis_820e3572,Statistical Analysis,competency,60,80,manual,high,True
+43-9111.00,Statistical Assistants,t_microsoft-excel_c119228b,Microsoft Excel,tool,70,85,manual,high,True
+43-9111.00,Statistical Assistants,c_data-entry_291ea77e,Data Entry,competency,65,75,manual,high,True
+43-9111.00,Statistical Assistants,c_data-analysis_22e8a189,Data Analysis,competency,55,70,manual,high,True
+43-9111.00,Statistical Assistants,t_a-programming-language-apl_ade539e5,A programming language APL,tool,35,50,local_onet,high,True
+43-9111.00,Statistical Assistants,t_avidian-technologies-prophet_f1fa7345,Avidian Technologies Prophet,tool,35,50,local_onet,high,True
+43-9111.00,Statistical Assistants,t_benfield-remetrica_049df289,Benfield ReMetrica,tool,35,50,local_onet,high,True
+43-9111.00,Statistical Assistants,t_bentley-microstation_c3bb0fa0,Bentley MicroStation,tool,35,50,local_onet,high,True
+43-9111.00,Statistical Assistants,t_c_3a20cf71,C#,tool,35,50,local_onet,high,True
+43-9111.00,Statistical Assistants,t_c_deb3c785,C++,tool,35,50,local_onet,high,True
+15-2051.00,Data Scientists,t_alteryx-software_bfb90436,Alteryx software,tool,45,50,local_onet,high,False
+15-2051.00,Data Scientists,t_amazon-elastic-compute-cloud-ec2_3db9baf2,Amazon Elastic Compute Cloud EC2,tool,45,50,local_onet,high,False
+15-2051.00,Data Scientists,t_amazon-redshift_4416f034,Amazon Redshift,tool,45,50,local_onet,high,False
+15-2051.00,Data Scientists,t_amazon-simple-storage-service-s3_61fe479a,Amazon Simple Storage Service S3,tool,45,50,local_onet,high,False
+15-2051.00,Data Scientists,t_amazon-web-services-aws-sagemaker_2f7842e4,Amazon Web Services AWS SageMaker,tool,45,50,local_onet,high,False
+15-2051.00,Data Scientists,t_amazon-web-services-aws-software_513cf897,Amazon Web Services AWS software,tool,45,50,local_onet,high,False
+15-2051.00,Data Scientists,c_analytics_e24859b2,Analytics,competency,38,50,nlp_description,medium,False
+15-2051.00,Data Scientists,c_data-mining_b4f9474f,Data Mining,competency,38,50,nlp_description,medium,False
+15-2051.00,Data Scientists,c_data-modeling_1ecc6ac4,Data Modeling,competency,38,50,nlp_description,medium,False
+15-2051.00,Data Scientists,c_machine-learning_06d91fe4,Machine Learning,competency,38,50,nlp_description,medium,False
+15-2051.00,Data Scientists,c_natural-language-processing_aa197e9b,Natural Language Processing,competency,38,50,nlp_description,medium,False
+15-2051.00,Data Scientists,c_unstructured-data_d459e72f,Unstructured Data,competency,38,50,nlp_description,medium,False
+15-2031.00,Operations Research Analysts,t_a-mathematical-programming-language-ampl_a41c0a3b,A mathematical programming language AMPL,tool,51,50,local_onet,high,False
+15-2031.00,Operations Research Analysts,t_amazon-redshift_4416f034,Amazon Redshift,tool,51,50,local_onet,high,False
+15-2031.00,Operations Research Analysts,t_apache-hadoop_3bf9e9a7,Apache Hadoop,tool,51,50,local_onet,high,False
+15-2031.00,Operations Research Analysts,t_apache-hive_4ab057be,Apache Hive,tool,51,50,local_onet,high,False
+15-2031.00,Operations Research Analysts,t_apache-pig_f3479e94,Apache Pig,tool,51,50,local_onet,high,False
+15-2031.00,Operations Research Analysts,t_apple-macos_3b98479e,Apple macOS,tool,51,50,local_onet,high,False
+15-2031.00,Operations Research Analysts,c_logistics_79404f6a,Logistics,competency,47,50,nlp_description,medium,False
+15-2031.00,Operations Research Analysts,c_mathematical-modeling_ddbf87d0,Mathematical Modeling,competency,47,50,nlp_description,medium,False
+15-2031.00,Operations Research Analysts,c_policy_a6b73d8f,Policy,competency,47,50,nlp_description,medium,False
+15-2031.00,Operations Research Analysts,c_product_89a1af72,Product,competency,47,50,nlp_description,medium,False
+15-2031.00,Operations Research Analysts,c_program-evaluation_c1195892,Program Evaluation,competency,47,50,nlp_description,medium,False
+19-3011.00,Economists,t_aptech-systems-gauss_7f7460a4,Aptech Systems GAUSS,tool,33,50,local_onet,high,False
+19-3011.00,Economists,t_c_deb3c785,C++,tool,33,50,local_onet,high,False
+19-3011.00,Economists,t_camfit-data-limited-microfit_18aee6b7,Camfit Data Limited Microfit,tool,33,50,local_onet,high,False
+19-3011.00,Economists,t_corel-quattropro_23db0270,Corel QuattroPro,tool,33,50,local_onet,high,False
+19-3011.00,Economists,t_corel-wordperfect-office-suite_cc1c2d10,Corel WordPerfect Office Suite,tool,33,50,local_onet,high,False
+19-3011.00,Economists,t_econometric-software-limdep_9a09db8f,Econometric Software LIMDEP,tool,33,50,local_onet,high,False
+19-3011.00,Economists,c_policy_a6b73d8f,Policy,competency,47,50,nlp_description,medium,False
+19-3011.00,Economists,c_product_89a1af72,Product,competency,47,50,nlp_description,medium,False
+19-3011.00,Economists,c_research_0a7777e0,Research,competency,47,50,nlp_description,medium,False
+19-3022.00,Survey Researchers,t_acarda-callassist_4e04be1c,Acarda CallAssist,tool,32,50,local_onet,high,False
+19-3022.00,Survey Researchers,t_acarda-forbiddencalls_872e4090,Acarda ForbiddenCalls,tool,32,50,local_onet,high,False
+19-3022.00,Survey Researchers,t_adobe-coldfusion_a4b42ee3,Adobe ColdFusion,tool,32,50,local_onet,high,False
+19-3022.00,Survey Researchers,t_apian-surveypro_6b6ee01e,Apian SurveyPro,tool,32,50,local_onet,high,False
+19-3022.00,Survey Researchers,t_argus-perceptual-mapper_3b6dda9f,Argus Perceptual Mapper,tool,32,50,local_onet,high,False
+19-3022.00,Survey Researchers,t_askia-design_efddb6e3,Askia Design,tool,32,50,local_onet,high,False
+19-3022.00,Survey Researchers,t_design_d75730a2,Design,tool,43,50,local_onet,high,False
+13-2031.00,Budget Analysts,t_adaptive-planning_940de2c9,Adaptive Planning,tool,30,50,local_onet,high,False
+13-2031.00,Budget Analysts,t_budget-monitoring-systems_3a548e56,Budget monitoring systems,tool,30,50,local_onet,high,False
+13-2031.00,Budget Analysts,c_budgeting_6a406b29,Budgeting,competency,30,50,local_onet,high,False
+13-2031.00,Budget Analysts,c_forecasting_717dc2c2,Forecasting,competency,30,50,local_onet,high,False
+13-2031.00,Budget Analysts,t_business-objects-data-integrator_bd1fbc00,Business Objects Data Integrator,tool,30,50,local_onet,high,False
+13-2031.00,Budget Analysts,t_business-performance-management-bpm-software_c647198f,Business performance management BPM software,tool,30,50,local_onet,high,False
+13-2031.00,Budget Analysts,t_deltek-costpoint_55b8295a,Deltek Costpoint,tool,30,50,local_onet,high,False
+13-2031.00,Budget Analysts,c_accounting_20728f51,Accounting,competency,37,50,nlp_description,medium,False
+13-2031.00,Budget Analysts,c_regulation_c4edab5f,Regulation,competency,37,50,nlp_description,medium,False
+13-1111.00,Management Analysts,t_3m-post-it-app_20fdba52,3M Post-it App,tool,36,50,local_onet,high,False
+13-1111.00,Management Analysts,t_adobe-acrobat_58a18cd1,Adobe Acrobat,tool,36,50,local_onet,high,False
+13-1111.00,Management Analysts,t_adobe-actionscript_46c5243c,Adobe ActionScript,tool,36,50,local_onet,high,False
+13-1111.00,Management Analysts,t_adobe-dreamweaver_42490e9a,Adobe Dreamweaver,tool,36,50,local_onet,high,False
+13-1111.00,Management Analysts,t_adobe-indesign_43e387f3,Adobe InDesign,tool,36,50,local_onet,high,False
+13-1111.00,Management Analysts,t_adp-workforce-now_0043ffe6,ADP Workforce Now,tool,36,50,local_onet,high,False
+13-1111.00,Management Analysts,t_design_d75730a2,Design,tool,39,50,local_onet,high,False
+13-1161.00,Market Research Analysts and Marketing Specialists,t_3m-post-it-app_20fdba52,3M Post-it App,tool,34,50,local_onet,high,False
+13-1161.00,Market Research Analysts and Marketing Specialists,t_acastat-software_fde86fbd,AcaStat Software,tool,34,50,local_onet,high,False
+13-1161.00,Market Research Analysts and Marketing Specialists,t_act_72d02347,Act!,tool,34,50,local_onet,high,False
+13-1161.00,Market Research Analysts and Marketing Specialists,t_adaptive-conjoint-analysis-aca-software_513b5080,Adaptive conjoint analysis ACA software,tool,34,50,local_onet,high,False
+13-1161.00,Market Research Analysts and Marketing Specialists,t_adobe-acrobat_58a18cd1,Adobe Acrobat,tool,34,50,local_onet,high,False
+13-1161.00,Market Research Analysts and Marketing Specialists,t_adobe-actionscript_46c5243c,Adobe ActionScript,tool,34,50,local_onet,high,False
+13-1161.00,Market Research Analysts and Marketing Specialists,c_advertising_990747a9,Advertising,competency,38,50,nlp_description,medium,False
+13-1161.00,Market Research Analysts and Marketing Specialists,c_marketing_4b03e864,Marketing,competency,38,50,nlp_description,medium,False
+13-1161.00,Market Research Analysts and Marketing Specialists,c_product_89a1af72,Product,competency,38,50,nlp_description,medium,False
+13-1161.00,Market Research Analysts and Marketing Specialists,c_research_0a7777e0,Research,competency,38,50,nlp_description,medium,False
+13-1161.00,Market Research Analysts and Marketing Specialists,c_sales_d8ae95da,Sales,competency,38,50,nlp_description,medium,False
+13-1161.00,Market Research Analysts and Marketing Specialists,c_target-market_98c86722,Target Market,competency,38,50,nlp_description,medium,False
+15-1242.00,Database Administrators,t_ab-initio_41a7581a,Ab Initio,tool,59,54,local_onet,high,False
+15-1242.00,Database Administrators,t_access-management-software_cdc22b27,Access management software,tool,59,54,local_onet,high,False
+15-1242.00,Database Administrators,t_acronis-recovery-expert_e52cdb4b,Acronis Recovery Expert,tool,59,54,local_onet,high,False
+15-1242.00,Database Administrators,t_ado-net_bcc285cc,ADO.NET,tool,59,54,local_onet,high,False
+15-1242.00,Database Administrators,t_adobe-dreamweaver_42490e9a,Adobe Dreamweaver,tool,59,54,local_onet,high,False
+15-1242.00,Database Administrators,t_advanced-business-application-programming-abap_5c6dede0,Advanced business application programming ABAP,tool,59,54,local_onet,high,False
+15-1242.00,Database Administrators,c_database-management_4bd95652,Database Management,competency,33,50,nlp_description,medium,False
+15-1242.00,Database Administrators,c_databases_63fc869f,Databases,competency,33,50,nlp_description,medium,False
+15-1242.00,Database Administrators,c_scalability_d222bada,Scalability,competency,33,50,nlp_description,medium,False
+15-2051.01,Business Intelligence Analysts,t_actuate-eclipse-birt_217e5b5a,Actuate Eclipse BIRT,tool,40,50,local_onet,high,False
+15-2051.01,Business Intelligence Analysts,t_adobe-acrobat_58a18cd1,Adobe Acrobat,tool,40,50,local_onet,high,False
+15-2051.01,Business Intelligence Analysts,t_adobe-actionscript_46c5243c,Adobe ActionScript,tool,40,50,local_onet,high,False
+15-2051.01,Business Intelligence Analysts,t_adobe-dreamweaver_42490e9a,Adobe Dreamweaver,tool,40,50,local_onet,high,False
+15-2051.01,Business Intelligence Analysts,t_advanced-business-application-programming-abap_5c6dede0,Advanced business application programming ABAP,tool,40,50,local_onet,high,False
+15-2051.01,Business Intelligence Analysts,t_airtable_d154a6f1,Airtable,tool,40,50,local_onet,high,False
+15-2051.01,Business Intelligence Analysts,c_market-intelligence_80090f57,Market Intelligence,competency,34,50,nlp_description,medium,False
+15-1221.00,Computer and Information Research Scientists,t_3d-graphics-software_5316e4ce,3D graphics software,tool,64,59,local_onet,high,False
+15-1221.00,Computer and Information Research Scientists,t_ada_0abb6eda,Ada,tool,64,59,local_onet,high,False
+15-1221.00,Computer and Information Research Scientists,t_advanced-numerical-software_93e3da51,Advanced numerical software,tool,64,59,local_onet,high,False
+15-1221.00,Computer and Information Research Scientists,t_algorithmic-software_e295344c,Algorithmic software,tool,64,59,local_onet,high,False
+15-1221.00,Computer and Information Research Scientists,t_amazon-dynamodb_3ce8901e,Amazon DynamoDB,tool,64,59,local_onet,high,False
+15-1221.00,Computer and Information Research Scientists,t_amazon-elastic-compute-cloud-ec2_3db9baf2,Amazon Elastic Compute Cloud EC2,tool,64,59,local_onet,high,False
+15-1221.00,Computer and Information Research Scientists,t_science_92a00be5,Science,tool,44,50,local_onet,high,False
+15-1221.00,Computer and Information Research Scientists,t_design_d75730a2,Design,tool,44,50,local_onet,high,False
+15-1221.00,Computer and Information Research Scientists,c_computer-hardware_5002211b,Computer Hardware,competency,41,50,nlp_description,medium,False
+15-1221.00,Computer and Information Research Scientists,c_research_0a7777e0,Research,competency,41,50,nlp_description,medium,False
+13-1041.04,Government Property Inspectors and Investigators,t_adobe-acrobat_58a18cd1,Adobe Acrobat,tool,42,50,local_onet,high,False
+13-1041.04,Government Property Inspectors and Investigators,t_adobe-creative-cloud-software_a2734e7a,Adobe Creative Cloud software,tool,42,50,local_onet,high,False
+13-1041.04,Government Property Inspectors and Investigators,t_adobe-illustrator_6866eb07,Adobe Illustrator,tool,42,50,local_onet,high,False
+13-1041.04,Government Property Inspectors and Investigators,t_adobe-indesign_43e387f3,Adobe InDesign,tool,42,50,local_onet,high,False
+13-1041.04,Government Property Inspectors and Investigators,t_adobe-photoshop_f8eba18f,Adobe Photoshop,tool,42,50,local_onet,high,False
+13-1041.04,Government Property Inspectors and Investigators,t_apple-ios_d4b62e74,Apple iOS,tool,42,50,local_onet,high,False
+13-1041.04,Government Property Inspectors and Investigators,c_regulation_c4edab5f,Regulation,competency,30,50,nlp_description,medium,False
+43-4061.00,"Eligibility Interviewers, Government Programs",t_adobe-acrobat-reader_247ffb3a,Adobe Acrobat Reader,tool,30,50,local_onet,high,False
+43-4061.00,"Eligibility Interviewers, Government Programs",t_client-assessment-software_4c3bccfe,Client assessment software,tool,30,50,local_onet,high,False
+43-4061.00,"Eligibility Interviewers, Government Programs",t_corel-winzip_9ae968c5,Corel WinZip,tool,30,50,local_onet,high,False
+43-4061.00,"Eligibility Interviewers, Government Programs",t_email-software_9cc1d2b1,Email software,tool,30,50,local_onet,high,False
+43-4061.00,"Eligibility Interviewers, Government Programs",t_ge-healthcare-centricity-emr_a0d4b77e,GE Healthcare Centricity EMR,tool,30,50,local_onet,high,False
+43-4061.00,"Eligibility Interviewers, Government Programs",t_google-meet_172643c0,Google Meet,tool,30,50,local_onet,high,False
+19-4061.00,Social Science Research Assistants,t_adobe-illustrator_6866eb07,Adobe Illustrator,tool,30,50,local_onet,high,False
+19-4061.00,Social Science Research Assistants,t_adobe-indesign_43e387f3,Adobe InDesign,tool,30,50,local_onet,high,False
+19-4061.00,Social Science Research Assistants,t_appletree_82f2265d,Appletree,tool,30,50,local_onet,high,False
+19-4061.00,Social Science Research Assistants,t_c_deb3c785,C++,tool,30,50,local_onet,high,False
+19-4061.00,Social Science Research Assistants,t_database-software_6b30b988,Database software,tool,30,50,local_onet,high,False
+19-4061.00,Social Science Research Assistants,t_esri-arcgis-software_fb3d7ef6,ESRI ArcGIS software,tool,30,50,local_onet,high,False
+19-4061.00,Social Science Research Assistants,t_science_92a00be5,Science,tool,39,50,local_onet,high,False
+19-4061.00,Social Science Research Assistants,c_analysis_196597f4,Analysis,competency,37,50,nlp_description,medium,False
+19-4061.00,Social Science Research Assistants,c_data-management_c1749f4d,Data Management,competency,37,50,nlp_description,medium,False
+19-4061.00,Social Science Research Assistants,c_quality-control_85d7e6e1,Quality Control,competency,37,50,nlp_description,medium,False
+19-4061.00,Social Science Research Assistants,c_research_0a7777e0,Research,competency,37,50,nlp_description,medium,False
+15-1243.00,Database Architects,t_3m-post-it-app_20fdba52,3M Post-it App,tool,58,53,local_onet,high,False
+15-1243.00,Database Architects,t_ab-initio_41a7581a,Ab Initio,tool,58,53,local_onet,high,False
+15-1243.00,Database Architects,t_access-management-software_cdc22b27,Access management software,tool,58,53,local_onet,high,False
+15-1243.00,Database Architects,t_acronis-recovery-expert_e52cdb4b,Acronis Recovery Expert,tool,58,53,local_onet,high,False
+15-1243.00,Database Architects,t_adeptia-etl-suite_c9f198e1,Adeptia ETL Suite,tool,58,53,local_onet,high,False
+15-1243.00,Database Architects,t_ado-net_bcc285cc,ADO.NET,tool,58,53,local_onet,high,False
+15-1243.00,Database Architects,t_design_d75730a2,Design,tool,33,50,local_onet,high,False
+15-1243.00,Database Architects,c_databases_63fc869f,Databases,competency,31,50,nlp_description,medium,False
+15-1243.00,Database Architects,c_design-strategies_be0a6fc7,Design Strategies,competency,31,50,nlp_description,medium,False
+15-1243.00,Database Architects,c_relational-databases_d530aae4,Relational Databases,competency,31,50,nlp_description,medium,False
+19-3011.01,Environmental Economists,t_aptech-systems-gauss_7f7460a4,Aptech Systems GAUSS,tool,31,50,local_onet,high,False
+19-3011.01,Environmental Economists,t_c_90ac8a76,C,tool,31,50,local_onet,high,False
+19-3011.01,Environmental Economists,t_c_3a20cf71,C#,tool,31,50,local_onet,high,False
+19-3011.01,Environmental Economists,t_c_deb3c785,C++,tool,31,50,local_onet,high,False
+19-3011.01,Environmental Economists,t_camfit-data-limited-microfit_18aee6b7,Camfit Data Limited Microfit,tool,31,50,local_onet,high,False
+19-3011.01,Environmental Economists,t_econometric-software-limdep_9a09db8f,Econometric Software LIMDEP,tool,31,50,local_onet,high,False
+19-3011.01,Environmental Economists,c_analysis_196597f4,Analysis,competency,51,50,nlp_description,medium,False
+19-3011.01,Environmental Economists,c_environment_04b347d3,Environment,competency,51,50,nlp_description,medium,False

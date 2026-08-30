@@ -1,0 +1,1 @@
+{"questions":[{"prompt":"Which detects missing values?","options":["isna","isdup","missing"],"answer":0},{"prompt":"Which removes duplicate rows?","options":["dropna","drop_duplicates","unique_rows"],"answer":1}]}
