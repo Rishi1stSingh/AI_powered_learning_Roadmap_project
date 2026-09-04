@@ -18,6 +18,20 @@ flowchart LR
  Loader --> DB
 ```
 
+## Technologies Used
+
+- **Language:** Python 3.11+
+- **Backend API:** FastAPI with Uvicorn
+- **Demo frontend:** Streamlit
+- **Database:** PostgreSQL 17
+- **ORM and migrations:** SQLAlchemy and Alembic
+- **Validation and configuration:** Pydantic and `python-dotenv`
+- **AI services:** Groq API for quiz generation, with deterministic fallback quizzes
+- **Data processing and ETL:** pandas, NumPy, PyYAML, and CSV-based O*NET/Phase 2 data
+- **Database driver:** Psycopg 3
+- **Testing:** pytest
+- **Environment and package workflow:** `uv` virtual environments and package installation
+
 ## Implemented learning loop
 
 ```mermaid
