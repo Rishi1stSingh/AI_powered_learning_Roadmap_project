@@ -1,6 +1,6 @@
 # StatSkill AI
 
-StatSkill AI is a PostgreSQL-backed MVP that maps employee skills to role requirements, identifies skill gaps, recommends catalog courses, and supports persisted demo learning with lessons and module quizzes. The final-assessment and assessment-driven permanent skill-update stages are not implemented in the current repository.
+StatSkill AI is a PostgreSQL-backed MVP that maps employee skills to role requirements, identifies skill gaps, recommends catalog courses, and supports persisted demo learning with lessons, module quizzes, and a course final assessment. Assessment-driven permanent skill updates are not implemented.
 
 ## Overview
 
@@ -50,7 +50,7 @@ flowchart TD
  Next --> Lessons
 ```
 
-Implemented features include employee profiles, skill evaluation, target roles, role requirements, skill gaps, catalog recommendations, demo courses, modules, lessons, enrollment, lesson progress, Groq quizzes, quiz difficulty, backend pass/fail progression, retry attempts, PostgreSQL persistence, FastAPI, Streamlit, and the O*NET/Phase 2 taxonomy and mapping pipeline. Final assessment, automatic skill updates from assessments, and automatic final skill-history workflow are future work.
+Implemented features include employee profiles, skill evaluation, target roles, role requirements, skill gaps, catalog recommendations, demo courses, modules, lessons, enrollment, lesson progress, Groq quizzes, final assessment, quiz difficulty, backend pass/fail progression, retry attempts, PostgreSQL persistence, FastAPI, Streamlit, and the O*NET/Phase 2 taxonomy and mapping pipeline. Automatic skill updates from assessments and automatic final skill-history workflow are future work.
 
 ## Skill gap and recommendations
 
@@ -172,7 +172,7 @@ POST /users/{user_id}/courses/{course_id}/modules/{module_id}/assessment
 GET  /users/{user_id}/courses/{course_id}/modules/{module_id}/assessments
 ```
 
-There is currently no final-assessment endpoint.
+Final assessment is available at `GET/POST /users/{user_id}/courses/{course_id}/final-assessment` after all course modules pass.
 
 ## Data pipeline
 
@@ -188,9 +188,11 @@ flowchart LR
 
 The loader upserts records and uses unique constraints for duplicate role-skill, course-skill, employee-skill, and enrollment relationships.
 
-## Streamlit demo
+## Streamlit frontend
 
-Run `demo/app.py` to create/select an employee, choose current skills and a target role, view the gap and recommendations, enroll in `CRS_0975` or `CRS_1011`, complete lessons, generate a quiz, submit it, see backend score/pass/fail, retry failed quizzes with a new attempt, and observe persisted module unlock state. The UI does not implement final assessment or automatic skill updates because those backend operations do not exist yet.
+Run `demo/app.py` to connect to FastAPI and use the learner workspace: Dashboard, Competency map, Learning, Assessments, and Profile. It creates or connects to a backend user, displays persisted competency gaps and levels, enrolls in catalog courses, completes lessons, generates quizzes, submits answers, and displays backend scores, retries, and module unlock state. Set `API_BASE_URL` when the API is not running at `http://localhost:8000`.
+
+The frontend uses `demo/api_client.py` and never opens the database directly. The competency view represents the backend's flat taxonomy and persisted 0–100 levels; it does not invent a hierarchy or client-side competency calculations. The current API has no authentication, user-list endpoint, authorization roles, or cross-course assessment-history endpoint, so the UI labels those limitations and uses a selected user id.
 
 ## Installation and running
 
@@ -268,14 +270,16 @@ Create a profile, select `15-2041.00` Statisticians, save low skill levels, insp
 
 ## MVP versus production
 
-Streamlit is the demonstration client. FastAPI, services, SQLAlchemy, PostgreSQL, migrations, and the offline ETL pipeline are reusable for a future production frontend. Business logic belongs in backend services.
+Streamlit is the current presentation client. FastAPI, services, SQLAlchemy, PostgreSQL,
+migrations, and the offline ETL pipeline remain the source of truth. Business logic belongs in
+backend services.
 
 ## Future improvements
 
-- Backend final assessment.
 - Consent-based assessment-driven skill updates.
 - Automatic skill-gap refresh after approved updates.
-- Production authentication/frontend.
+- Production authentication and authorization.
+- User profile/listing endpoints and cross-course assessment history.
 - Larger course-content and quiz pools.
 
 ## Troubleshooting
@@ -285,5 +289,5 @@ Streamlit is the demonstration client. FastAPI, services, SQLAlchemy, PostgreSQL
 - Import errors: set `$env:PYTHONPATH="backend/src"`.
 - `uv` issues: recreate with `uv venv` and reinstall requirements.
 - Pydantic errors: reinstall from `requirements.txt`; quizzes require five questions and four options each.
-- Streamlit errors: verify PostgreSQL and the root `.env` file.
+- Streamlit errors: verify FastAPI is running, `API_BASE_URL` is correct, and the root `.env` file is available to the backend.
 - Groq errors/rate limits: check the non-committed Groq variables; fallback quizzes are automatic.
